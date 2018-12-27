@@ -1,0 +1,2702 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "15ce79a40f82589e0061be32da159562",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "898e9259b84a08807b3f07052d0cca05",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5698bd9d8c42389cf2b0dd5dd5181b65",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2c465127eda41b343bef606913b61272",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3dce0e8e6a64b8e63b2eada27e55a918",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "09c1bba5458641f613190466513df214",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.2",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea2b8a76a90dd856e6b4d1e91886a2fd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2915861f-c9a1-59ae-98ab-aef4ee9bd964": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-source-filesystem",
+      "id": "2915861f-c9a1-59ae-98ab-aef4ee9bd964",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fd37bc31b1893c150572cf08ebc20592",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1c4ea721-b4cb-5ba9-8255-8c2fa314b0ff": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-source-filesystem",
+      "id": "1c4ea721-b4cb-5ba9-8255-8c2fa314b0ff",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "siteDocs",
+        "path": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a829726b8b19626c8750004b426dc46",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.15",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2173805e14a88f78cbeefba7abb827d8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b4325e7f5ff2309d4d59476082306821",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.14",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.14",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fa1b91f20197d75fcd681c649cbabc92",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b6971a8f-9078-5fc9-9b1f-2ec0539b1be9": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-manifest",
+      "id": "b6971a8f-9078-5fc9-9b1f-2ec0539b1be9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#44e3dc",
+        "theme_color": "#44e3dc",
+        "display": "minimal-ui",
+        "icon": "./public/icons/favicon-256.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "06d314d4d599acb1b548da531799959b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "54d0fd21-71eb-5f71-bda2-f9c638c048ad": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-styled-components",
+      "id": "54d0fd21-71eb-5f71-bda2-f9c638c048ad",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "displayName": false
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": ">=2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1fa187c8af607c0b821c4571ddf1e43b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b1674f69-3dee-5cf8-8a38-a16667a563b8": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-emotion",
+      "id": "b1674f69-3dee-5cf8-8a38-a16667a563b8",
+      "name": "gatsby-plugin-emotion",
+      "version": "3.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [
+        "wrapRootElement"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "3.0.1",
+        "main": "index.js",
+        "keywords": [
+          "emotion",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/plugin-transform-react-jsx",
+            "version": "^7.1.6"
+          },
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-plugin-emotion",
+            "version": "^10.0.0"
+          },
+          {
+            "name": "babel-plugin-jsx-pragmatic",
+            "version": "^1.0.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "@emotion/core",
+            "version": "^10.0.0"
+          },
+          {
+            "name": "emotion",
+            "version": "^10.0.0"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^10.0.0"
+          },
+          {
+            "name": "gatsby",
+            "version": ">2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6804a59106c5b6de0a3f3c2f0df89f39",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6fcbc6fa-0567-5499-9f35-d67545707a85": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-source-contentful",
+      "id": "6fcbc6fa-0567-5499-9f35-d67545707a85",
+      "name": "gatsby-source-contentful",
+      "version": "2.0.16",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "u434ytvnd3bo",
+        "accessToken": "c2ee615c4e6ffed867ae0acdf8cb0e4b1f34322fda5a2388c9aa18f833af6b63",
+        "host": "cdn.contentful.com",
+        "environment": "master"
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "sourceNodes",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-source-contentful",
+      "packageJson": {
+        "name": "gatsby-source-contentful",
+        "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+        "version": "2.0.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin"
+        ],
+        "author": {
+          "name": "Marcus Ericsson",
+          "email": "mericsson@gmail.com",
+          "url": "mericsson.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "axios",
+            "version": "^0.18.0"
+          },
+          {
+            "name": "base64-img",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "contentful",
+            "version": "^6.1.0"
+          },
+          {
+            "name": "deep-map",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.14"
+          },
+          {
+            "name": "is-online",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "json-stringify-safe",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "qs",
+            "version": "^6.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9e19caa03a8b42854458f4fea32ad9e0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "92a2780b-636f-56e1-b2f2-4c91be973e57": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-google-analytics",
+      "id": "92a2780b-636f-56e1-b2f2-4c91be973e57",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-130212927-1",
+        "head": false,
+        "anonymize": true,
+        "respectDNT": true,
+        "exclude": [
+          "/preview/**",
+          "/do-not-track/me/too/"
+        ],
+        "sampleRate": 5,
+        "siteSpeedSampleRate": 10,
+        "cookieDomain": "example.com"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5d3c2b362ba9401f4afde1edf7f7f943",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "c9259479145cf65010962f0e027b15fc",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@emotion/core",
+            "version": "^10.0.4"
+          },
+          {
+            "name": "@emotion/styled",
+            "version": "^10.0.4"
+          },
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.9.2"
+          },
+          {
+            "name": "emotion",
+            "version": "^10.0.4"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^10.0.4"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.53"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.16"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.14"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "^2.0.16"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.15"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.8"
+          },
+          {
+            "name": "react",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-emotion",
+            "version": "^10.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-spring",
+            "version": "^6.1.10"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.1.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.15.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "70cb680313f177f69acc9c29f8c85345",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "88db0ef3-6758-5082-a550-dec327bc044f": {
+      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-page-creator",
+      "id": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cdc6b5b5bfbdf4d0f629da1cb113bd4b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "<tomWritesCode />",
+        "description": "Hi, my names Thomas and I write code, and drink lots of coffee."
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-12-21T08:59:09.379Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "91fe2788c1bfb8dcd2de8d57f62cc893",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "cb2f9979-c642-54ea-a582-4a2fce446bf8": {
+      "id": "cb2f9979-c642-54ea-a582-4a2fce446bf8",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "40c834a69bf4e1e72c50c958427d6eac",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-12-19T22:21:20.024Z",
+      "accessTime": "2018-12-21T08:59:15.750Z",
+      "changeTime": "2018-12-19T22:21:20.024Z",
+      "birthTime": "2018-12-02T23:01:55.425Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616218752,
+      "blocks": 0,
+      "atimeMs": 1545382755750.2593,
+      "mtimeMs": 1545258080024.208,
+      "ctimeMs": 1545258080024.208,
+      "birthtimeMs": 1543791715425.4329,
+      "atime": "2018-12-21T08:59:15.750Z",
+      "mtime": "2018-12-19T22:21:20.024Z",
+      "ctime": "2018-12-19T22:21:20.024Z",
+      "birthtime": "2018-12-02T23:01:55.425Z"
+    },
+    "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3": {
+      "id": "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3",
+      "children": [
+        "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "47b6a829989b7ffc84743d8837473e05",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/imgTest.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/imgTest.png",
+      "relativePath": "imgTest.png",
+      "extension": "png",
+      "size": 143002,
+      "prettySize": "143 kB",
+      "modifiedTime": "2018-12-09T08:34:44.118Z",
+      "accessTime": "2018-12-13T23:10:46.260Z",
+      "changeTime": "2018-12-10T09:54:22.409Z",
+      "birthTime": "2018-12-09T08:34:44.118Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "imgTest.png",
+      "ext": ".png",
+      "name": "imgTest",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616612952,
+      "blocks": 280,
+      "atimeMs": 1544742646259.6714,
+      "mtimeMs": 1544344484117.8904,
+      "ctimeMs": 1544435662409.043,
+      "birthtimeMs": 1544344484117.6846,
+      "atime": "2018-12-13T23:10:46.260Z",
+      "mtime": "2018-12-09T08:34:44.118Z",
+      "ctime": "2018-12-10T09:54:22.409Z",
+      "birthtime": "2018-12-09T08:34:44.118Z"
+    },
+    "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe": {
+      "id": "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe",
+      "children": [],
+      "parent": "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3",
+      "internal": {
+        "contentDigest": "47b6a829989b7ffc84743d8837473e05",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "9026e89b-a3cf-548d-a5e2-fa459d0d62c6": {
+      "id": "9026e89b-a3cf-548d-a5e2-fa459d0d62c6",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ecd026fac9d8f9c6b435c1c38e3c95b3",
+        "type": "Directory",
+        "description": "Directory \"src/siteDocs\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "siteDocs",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-12-04T05:14:55.386Z",
+      "accessTime": "2018-12-21T08:59:15.771Z",
+      "changeTime": "2018-12-04T05:14:55.386Z",
+      "birthTime": "2018-12-02T23:51:39.707Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src",
+      "base": "siteDocs",
+      "ext": "",
+      "name": "siteDocs",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616222701,
+      "blocks": 0,
+      "atimeMs": 1545382755771.3303,
+      "mtimeMs": 1543900495385.9094,
+      "ctimeMs": 1543900495385.9094,
+      "birthtimeMs": 1543794699707.1155,
+      "atime": "2018-12-21T08:59:15.771Z",
+      "mtime": "2018-12-04T05:14:55.386Z",
+      "ctime": "2018-12-04T05:14:55.386Z",
+      "birthtime": "2018-12-02T23:51:39.707Z"
+    },
+    "c4305f09-f67a-536f-a5a5-16469d868e36": {
+      "id": "c4305f09-f67a-536f-a5a5-16469d868e36",
+      "children": [
+        "5fb604b8-aab9-54db-adf9-8d309c8f2786"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6754d72fee8a13e5b12414fb958422df",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/siteDocs/Docs.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "siteDocs",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md",
+      "relativePath": "Docs.md",
+      "extension": "md",
+      "size": 2470,
+      "prettySize": "2.47 kB",
+      "modifiedTime": "2018-12-06T11:05:47.321Z",
+      "accessTime": "2018-12-13T23:10:46.260Z",
+      "changeTime": "2018-12-06T11:05:47.321Z",
+      "birthTime": "2018-12-02T23:52:44.369Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs",
+      "base": "Docs.md",
+      "ext": ".md",
+      "name": "Docs",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616222734,
+      "blocks": 8,
+      "atimeMs": 1544742646260.2407,
+      "mtimeMs": 1544094347321.0203,
+      "ctimeMs": 1544094347321.0203,
+      "birthtimeMs": 1543794764369.3396,
+      "atime": "2018-12-13T23:10:46.260Z",
+      "mtime": "2018-12-06T11:05:47.321Z",
+      "ctime": "2018-12-06T11:05:47.321Z",
+      "birthtime": "2018-12-02T23:52:44.369Z"
+    },
+    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
+      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
+      "children": [],
+      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
+      "internal": {
+        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n  \n  ***",
+        "type": "MarkdownRemark",
+        "contentDigest": "e730f7c76875af5b0ac81553d42c62cd",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "tomWritesCode - How I build the things.",
+        "slug": "/docs",
+        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n  \n  ***",
+      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
+    },
+    "3e9bd746-91be-5838-b91c-b28f06440676": {
+      "id": "3e9bd746-91be-5838-b91c-b28f06440676",
+      "parent": null,
+      "children": [],
+      "name": "tomWritesCode Blog",
+      "displayField": "title",
+      "description": "Blog posts from <tomWritesCode />",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "9b0dd8ea9aceb962e246f04ce9f49fe8",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "79f8c44e-17a3-50fe-91a4-2e48c609445d": {
+      "title": "rdgdgstg",
+      "slug": "rdgdgstg",
+      "date": "2018-12-12",
+      "intro": "fgstgrgbsbsfg",
+      "post___NODE": "66d4f3c8-9417-5329-a285-d9396cec675f",
+      "id": "79f8c44e-17a3-50fe-91a4-2e48c609445d",
+      "contentful_id": "5UY8UTvjNKsuUg6SQs88sO",
+      "createdAt": "2018-12-13T23:09:12.647Z",
+      "updatedAt": "2018-12-13T23:09:12.647Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "66d4f3c8-9417-5329-a285-d9396cec675f"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "597655b0b85af6753385681eea998893",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "a4085331-8dfa-5e5f-b208-9627f75df997": {
+      "title": "test3",
+      "slug": "test3",
+      "date": "2018-12-14",
+      "intro": "efnakfnsodnsiovo",
+      "post___NODE": "f24d820c-d804-547b-91ae-3e0aeea1f9ef",
+      "id": "a4085331-8dfa-5e5f-b208-9627f75df997",
+      "contentful_id": "5jXs2f4qXuY8qYaseKAomC",
+      "createdAt": "2018-12-13T23:08:51.713Z",
+      "updatedAt": "2018-12-13T23:08:51.713Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "f24d820c-d804-547b-91ae-3e0aeea1f9ef"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "73b79380916651ce966c5f966447ab7b",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "709f0c89-4c58-551d-89a5-3abeb8bf93f9": {
+      "title": "testing 2",
+      "slug": "testing-2",
+      "date": "2018-11-06",
+      "intro": "asfsdsdfvsfvs",
+      "post___NODE": "975c1061-6541-514e-a37c-0d5e69f218a5",
+      "id": "709f0c89-4c58-551d-89a5-3abeb8bf93f9",
+      "contentful_id": "5E64TOxIjKq6mUm06CMWy2",
+      "createdAt": "2018-12-10T09:40:32.344Z",
+      "updatedAt": "2018-12-10T09:40:32.344Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "975c1061-6541-514e-a37c-0d5e69f218a5"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "c63067345e21ff737474b62b84a692ba",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "50a52cf2-c428-56e5-be75-d0343f39a270": {
+      "title": "Testing 1",
+      "slug": "testing-1",
+      "date": "2018-12-10",
+      "intro": "tesgingt fsdfnsgougnsdougn",
+      "post___NODE": "5b160040-84da-5fa2-b3c9-8f6e7a63585c",
+      "id": "50a52cf2-c428-56e5-be75-d0343f39a270",
+      "contentful_id": "5HlZ2mnOvYmOSY6wqsWgQa",
+      "createdAt": "2018-12-10T09:40:02.874Z",
+      "updatedAt": "2018-12-10T09:40:02.874Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "5b160040-84da-5fa2-b3c9-8f6e7a63585c"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "8a83b08343e506c810f3345a6b57efe5",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "07b0e325-f7fd-5f3a-802a-c6b850300010": {
+      "title": "tomWritesCode wasn't built in a day.",
+      "slug": "wasnt-build-in-a-day",
+      "date": "2018-12-06",
+      "intro": "Well, if you're reading this that can only mean one thing. I finally build the damn site. ",
+      "post___NODE": "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7",
+      "id": "07b0e325-f7fd-5f3a-802a-c6b850300010",
+      "contentful_id": "6k3aHYwVUcY4Gk8moGAqSK",
+      "createdAt": "2018-12-06T11:14:18.380Z",
+      "updatedAt": "2018-12-06T12:37:29.420Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "84f26e04b748cbef37866e8142f8963c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "66d4f3c8-9417-5329-a285-d9396cec675f": {
+      "id": "66d4f3c8-9417-5329-a285-d9396cec675f",
+      "parent": "79f8c44e-17a3-50fe-91a4-2e48c609445d",
+      "children": [
+        "b816bb1e-5862-56df-8f5f-9b83990c1767"
+      ],
+      "post": "gsr",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "gsr",
+        "contentDigest": "4693311894dada0a7c5e6f44f4995f80",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "f24d820c-d804-547b-91ae-3e0aeea1f9ef": {
+      "id": "f24d820c-d804-547b-91ae-3e0aeea1f9ef",
+      "parent": "a4085331-8dfa-5e5f-b208-9627f75df997",
+      "children": [
+        "c4726dc1-54c8-5329-8713-a3d246703bb7"
+      ],
+      "post": "sdfsbgbsrgbz",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "sdfsbgbsrgbz",
+        "contentDigest": "d689c86c0ce8da3dad5fa53fbd863af2",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "975c1061-6541-514e-a37c-0d5e69f218a5": {
+      "id": "975c1061-6541-514e-a37c-0d5e69f218a5",
+      "parent": "709f0c89-4c58-551d-89a5-3abeb8bf93f9",
+      "children": [
+        "e470f340-d272-5654-bb22-63a31ea9c6f8"
+      ],
+      "post": "sfbdxfbsdgbsrgbsrgbs",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "sfbdxfbsdgbsrgbsrgbs",
+        "contentDigest": "f562f948464f45d39b1fcd1cdb7dd83a",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "5b160040-84da-5fa2-b3c9-8f6e7a63585c": {
+      "id": "5b160040-84da-5fa2-b3c9-8f6e7a63585c",
+      "parent": "50a52cf2-c428-56e5-be75-d0343f39a270",
+      "children": [
+        "1f41f84a-3ac4-504a-9355-371c36d03feb"
+      ],
+      "post": "dfgsfsrsszfg",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "dfgsfsrsszfg",
+        "contentDigest": "0f57f8b53598c6325a0b631586d38fc7",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7": {
+      "id": "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7",
+      "parent": "07b0e325-f7fd-5f3a-802a-c6b850300010",
+      "children": [
+        "5bb13972-4f48-5983-9c05-a264bf656036"
+      ],
+      "post": "A personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. ",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "A personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. ",
+        "contentDigest": "b4072ca37471a809a80ff5d5b024bffd",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "b816bb1e-5862-56df-8f5f-9b83990c1767": {
+      "id": "b816bb1e-5862-56df-8f5f-9b83990c1767",
+      "children": [],
+      "parent": "66d4f3c8-9417-5329-a285-d9396cec675f",
+      "internal": {
+        "content": "gsr",
+        "type": "MarkdownRemark",
+        "contentDigest": "f2bd2e56f7f4940ca3f7a14301b09b45",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "66d4f3c8-9417-5329-a285-d9396cec675f"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "gsr"
+    },
+    "c4726dc1-54c8-5329-8713-a3d246703bb7": {
+      "id": "c4726dc1-54c8-5329-8713-a3d246703bb7",
+      "children": [],
+      "parent": "f24d820c-d804-547b-91ae-3e0aeea1f9ef",
+      "internal": {
+        "content": "sdfsbgbsrgbz",
+        "type": "MarkdownRemark",
+        "contentDigest": "2d57fce886d8194fd5012133f43ebd2c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "f24d820c-d804-547b-91ae-3e0aeea1f9ef"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "sdfsbgbsrgbz"
+    },
+    "e470f340-d272-5654-bb22-63a31ea9c6f8": {
+      "id": "e470f340-d272-5654-bb22-63a31ea9c6f8",
+      "children": [],
+      "parent": "975c1061-6541-514e-a37c-0d5e69f218a5",
+      "internal": {
+        "content": "sfbdxfbsdgbsrgbsrgbs",
+        "type": "MarkdownRemark",
+        "contentDigest": "10307f788ed2b8a6bcbcc21a26db3b87",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "975c1061-6541-514e-a37c-0d5e69f218a5"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "sfbdxfbsdgbsrgbsrgbs"
+    },
+    "1f41f84a-3ac4-504a-9355-371c36d03feb": {
+      "id": "1f41f84a-3ac4-504a-9355-371c36d03feb",
+      "children": [],
+      "parent": "5b160040-84da-5fa2-b3c9-8f6e7a63585c",
+      "internal": {
+        "content": "dfgsfsrsszfg",
+        "type": "MarkdownRemark",
+        "contentDigest": "9eabd3a5419d0b6fc03f76a144b8d42a",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "5b160040-84da-5fa2-b3c9-8f6e7a63585c"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "dfgsfsrsszfg"
+    },
+    "5bb13972-4f48-5983-9c05-a264bf656036": {
+      "id": "5bb13972-4f48-5983-9c05-a264bf656036",
+      "children": [],
+      "parent": "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7",
+      "internal": {
+        "content": "A personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. ",
+        "type": "MarkdownRemark",
+        "contentDigest": "e8ed5e1be7e1073c0fc47506dc8e7607",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "A personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. "
+    },
+    "c915c24d-211d-5ade-bb63-617d6c65924e": {
+      "id": "c915c24d-211d-5ade-bb63-617d6c65924e",
+      "children": [
+        "36c88b40-2495-5908-9fde-e47eeb383e2b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a70d6274fefd6cbba1dd9aec3737dd4e",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/linkedin.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/linkedin.png",
+      "relativePath": "linkedin.png",
+      "extension": "png",
+      "size": 11819,
+      "prettySize": "11.8 kB",
+      "modifiedTime": "2018-11-29T21:21:56.308Z",
+      "accessTime": "2018-12-19T22:21:21.275Z",
+      "changeTime": "2018-12-19T22:21:20.031Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "linkedin.png",
+      "ext": ".png",
+      "name": "linkedin",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839800,
+      "blocks": 24,
+      "atimeMs": 1545258081275.2126,
+      "mtimeMs": 1543526516308.0266,
+      "ctimeMs": 1545258080031.4614,
+      "birthtimeMs": 1543526516267.3442,
+      "atime": "2018-12-19T22:21:21.275Z",
+      "mtime": "2018-11-29T21:21:56.308Z",
+      "ctime": "2018-12-19T22:21:20.031Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "99e2c9f9-1ee0-5a47-9245-c6dad65c3680": {
+      "id": "99e2c9f9-1ee0-5a47-9245-c6dad65c3680",
+      "children": [
+        "c781042b-f770-5043-bdd6-9a7a1c2d6bc2"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "09ae989c1160fc17fe6518006563b3e8",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/twitter.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/twitter.png",
+      "relativePath": "twitter.png",
+      "extension": "png",
+      "size": 6182,
+      "prettySize": "6.18 kB",
+      "modifiedTime": "2018-11-29T21:21:56.275Z",
+      "accessTime": "2018-12-19T22:21:21.275Z",
+      "changeTime": "2018-12-19T22:21:20.032Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "twitter.png",
+      "ext": ".png",
+      "name": "twitter",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839801,
+      "blocks": 16,
+      "atimeMs": 1545258081274.5007,
+      "mtimeMs": 1543526516275.148,
+      "ctimeMs": 1545258080032.4536,
+      "birthtimeMs": 1543526516267.4275,
+      "atime": "2018-12-19T22:21:21.275Z",
+      "mtime": "2018-11-29T21:21:56.275Z",
+      "ctime": "2018-12-19T22:21:20.032Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "36c88b40-2495-5908-9fde-e47eeb383e2b": {
+      "id": "36c88b40-2495-5908-9fde-e47eeb383e2b",
+      "children": [],
+      "parent": "c915c24d-211d-5ade-bb63-617d6c65924e",
+      "internal": {
+        "contentDigest": "a70d6274fefd6cbba1dd9aec3737dd4e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c781042b-f770-5043-bdd6-9a7a1c2d6bc2": {
+      "id": "c781042b-f770-5043-bdd6-9a7a1c2d6bc2",
+      "children": [],
+      "parent": "99e2c9f9-1ee0-5a47-9245-c6dad65c3680",
+      "internal": {
+        "contentDigest": "09ae989c1160fc17fe6518006563b3e8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
+      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
+      "children": [
+        "39bd1089-8f2f-557e-a225-a5c15e252fc7"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/github.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
+      "relativePath": "github.png",
+      "extension": "png",
+      "size": 23978,
+      "prettySize": "24 kB",
+      "modifiedTime": "2018-11-29T21:21:56.308Z",
+      "accessTime": "2018-12-19T22:21:21.275Z",
+      "changeTime": "2018-12-19T22:21:20.031Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "github.png",
+      "ext": ".png",
+      "name": "github",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839799,
+      "blocks": 48,
+      "atimeMs": 1545258081275.1438,
+      "mtimeMs": 1543526516307.99,
+      "ctimeMs": 1545258080030.6655,
+      "birthtimeMs": 1543526516267.245,
+      "atime": "2018-12-19T22:21:21.275Z",
+      "mtime": "2018-11-29T21:21:56.308Z",
+      "ctime": "2018-12-19T22:21:20.031Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "39bd1089-8f2f-557e-a225-a5c15e252fc7": {
+      "id": "39bd1089-8f2f-557e-a225-a5c15e252fc7",
+      "children": [],
+      "parent": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
+      "internal": {
+        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /rdgdgstg": {
+      "jsonName": "rdgdgstg-364",
+      "internalComponentName": "ComponentRdgdgstg",
+      "path": "/rdgdgstg",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "rdgdgstg"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /rdgdgstg",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d4ed33504ad354b34832aae6ae537fae",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /test3": {
+      "jsonName": "test-3-8ad",
+      "internalComponentName": "ComponentTest3",
+      "path": "/test3",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "test3"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /test3",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2c593b24343659a24895fa18a3971e96",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /testing-2": {
+      "jsonName": "testing-2-561",
+      "internalComponentName": "ComponentTesting2",
+      "path": "/testing-2",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "testing-2"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /testing-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2f1cec0c6b7ccf206601757ce22668d5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /testing-1": {
+      "jsonName": "testing-1-154",
+      "internalComponentName": "ComponentTesting1",
+      "path": "/testing-1",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "testing-1"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /testing-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "264c07599a8b71de74f630d58ac1b02c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /wasnt-build-in-a-day": {
+      "jsonName": "wasnt-build-in-a-day-b86",
+      "internalComponentName": "ComponentWasntBuildInADay",
+      "path": "/wasnt-build-in-a-day",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "wasnt-build-in-a-day"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /wasnt-build-in-a-day",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7b5fe7bb69f44853ed18eee0e8fa22f0",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d01983ed5eb959f5a5212e57331ac152",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6c43591f4b29eaf5bfc9a8148896f709",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "93f37b821c95f579d63a18a232e905c4",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /docs/": {
+      "jsonName": "docs-7e8",
+      "internalComponentName": "ComponentDocs",
+      "path": "/docs/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js",
+      "componentChunkName": "component---src-pages-docs-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js",
+      "id": "SitePage /docs/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0a7ef89c35a25d13aa4be70f64ed4182",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6e2983eaf5b769ed1bab54416f901433",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /otherHobbies/": {
+      "jsonName": "other-hobbies-a3e",
+      "internalComponentName": "ComponentOtherHobbies",
+      "path": "/otherHobbies/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js",
+      "componentChunkName": "component---src-pages-other-hobbies-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js",
+      "id": "SitePage /otherHobbies/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bd98b40dd566613abdd3691c4b638bbd",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8276fbd4c8c83093fbc6da846fcea636",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {
+      "gatsby-source-contentful": {
+        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZ1MmHDpCbCrW3DqcK-w7jDnmTCv2nCosKPTgHCnUfCjBw_w7N7SjTCl8OYw4UuwojDugDDgsOgFsKiB8K8BcO3V8OywozDgsOkwpkHw7kew4IqDkxlPVBrwqfCosKmwpt3"
+      }
+    },
+    "PLUGINS_HASH": "a531f5f290a66006ae5f99c333292474"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js"
+      ],
+      "66d4f3c8-9417-5329-a285-d9396cec675f": [
+        "/rdgdgstg",
+        "sq--src-components-blog-list-js"
+      ],
+      "f24d820c-d804-547b-91ae-3e0aeea1f9ef": [
+        "/test3",
+        "sq--src-components-blog-list-js"
+      ],
+      "975c1061-6541-514e-a37c-0d5e69f218a5": [
+        "/testing-2",
+        "sq--src-components-blog-list-js"
+      ],
+      "5b160040-84da-5fa2-b3c9-8f6e7a63585c": [
+        "/testing-1",
+        "sq--src-components-blog-list-js"
+      ],
+      "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7": [
+        "/wasnt-build-in-a-day",
+        "sq--src-components-blog-list-js"
+      ],
+      "79f8c44e-17a3-50fe-91a4-2e48c609445d": [
+        "/rdgdgstg"
+      ],
+      "a4085331-8dfa-5e5f-b208-9627f75df997": [
+        "/test3"
+      ],
+      "709f0c89-4c58-551d-89a5-3abeb8bf93f9": [
+        "/testing-2"
+      ],
+      "50a52cf2-c428-56e5-be75-d0343f39a270": [
+        "/testing-1"
+      ],
+      "07b0e325-f7fd-5f3a-802a-c6b850300010": [
+        "/wasnt-build-in-a-day"
+      ],
+      "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3": [
+        "/"
+      ],
+      "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe": [
+        "/"
+      ],
+      "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": [
+        "/"
+      ],
+      "39bd1089-8f2f-557e-a225-a5c15e252fc7": [
+        "/"
+      ]
+    },
+    "connections": {
+      "ContentfulTomWritesCodeBlog": [
+        null,
+        null,
+        "sq--src-components-blog-list-js"
+      ],
+      "MarkdownRemark": [
+        "sq--src-components-docs-js"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-image-js": 2011440971,
+    "sq--src-components-blog-list-js": 1508755287,
+    "sq--src-components-layout-js": 1415471421,
+    "testing-1-154": "380/path---testing-1-154-003-cypYZ4D91Rv9AMBmiuVrkWDsIc",
+    "wasnt-build-in-a-day-b86": "575/path---wasnt-build-in-a-day-b-86-799-3P90AfYMC8FSYIZBtW2L8vJHgVU",
+    "testing-2-561": "903/path---testing-2-561-9fd-2G92HvuM99V0C1xDICy3Vit5uoQ",
+    "sq--src-components-docs-js": 3771703249,
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-f7a": "32/path---blog-f-7-a-05d-NZuapzHg3X9TaN1iIixfv1W23E",
+    "docs-7e8": "30/path---docs-7-e-8-9d0-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "other-hobbies-a3e": "220/path---other-hobbies-a-3-e-40e-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "rdgdgstg-364": "907/path---rdgdgstg-364-372-LDlnDHOtT9A4aTnJxNedqFzsPDY",
+    "test-3-8ad": "406/path---test-3-8-ad-653-C4OKjE6VXeLliYFLNuCyMCbg",
+    "sq--src-components-contact-icons-js": 4054139054
+  },
+  "components": {
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js": {
+      "query": "query PostQuery(\n  $slug: String!\n) {\n  contentfulTomWritesCodeBlog(slug: {eq: $slug}) {\n    title\n    date(formatString: \"DD-MMMM-YYYY\")\n    intro\n    post {\n      post\n    }\n  }\n}\n",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-blog-list-js": {
+      "name": "BLOG_POST_QUERY",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/BlogList.js",
+      "id": "sq--src-components-blog-list-js",
+      "jsonName": "sq--src-components-blog-list-js",
+      "query": "query BLOG_POST_QUERY {\n  allContentfulTomWritesCodeBlog(sort: {order: DESC, fields: [updatedAt]}) {\n    edges {\n      node {\n        intro\n        slug\n        title\n        updatedAt(formatString: \"DD-MMMM-YYYY\")\n        post {\n          post\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 1508755287
+    },
+    "sq--src-components-docs-js": {
+      "name": "DocsQuery",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Docs.js",
+      "id": "sq--src-components-docs-js",
+      "jsonName": "sq--src-components-docs-js",
+      "query": "query DocsQuery {\n  allMarkdownRemark(filter: {frontmatter: {slug: {eq: \"/docs\"}}}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          slug\n        }\n        html\n        id\n      }\n    }\n  }\n}\n",
+      "hash": 3771703249
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 1415471421
+    },
+    "sq--src-components-image-js": {
+      "name": "usersThomaswhitakerDesktopTomWritesCodeTomWritesCodeSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersThomaswhitakerDesktopTomWritesCodeTomWritesCodeSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    }
+  }
+}
