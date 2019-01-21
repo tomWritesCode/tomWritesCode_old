@@ -34,14 +34,14 @@ const ContactIcons = () => (
 	>
 		{styles => (
 			<LinkContainer style={styles}>
-				<a href={GitLink} target="_blank">
-					<img src={GithubImg} />
+				<a href={GitLink} target="_blank" rel="noopener noreferrer">
+					<img src={GithubImg} alt="GitHub Logo" />
 				</a>
-				<a href={TwitterLink} target="_blank">
-					<img src={TwitterImg} />
+				<a href={TwitterLink} target="_blank" rel="noopener noreferrer">
+					<img src={TwitterImg} alt="Twitter Logo" />
 				</a>
-				<a href={LinkedinLink} target="_blank">
-					<img src={LinkedInImg} />
+				<a href={LinkedinLink} target="_blank" rel="noopener noreferrer">
+					<img src={LinkedInImg} alt="LinkedIn Logo" />
 				</a>
 			</LinkContainer>
 		)}
@@ -49,13 +49,3 @@ const ContactIcons = () => (
 );
 
 export default ContactIcons;
-
-export const LinkIcons = graphql`
-	fragment LinkIcons on File {
-		childImageSharp {
-			fluid(maxWidth: 300) {
-				...GatsbyImageSharpFluid
-			}
-		}
-	}
-`;

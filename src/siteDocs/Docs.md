@@ -25,6 +25,7 @@ All of the code for this site as well as most of the projects I talk about in he
     const stylingAlso = Emotion;
   }
   ```
+  The design and colour palette has been inspired by the awesome guide [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://twitter.com/adamwathan?lang=en) & [Steve Schroger](https://twitter.com/steveschoger?lang=en)
 
 ***
 ## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)

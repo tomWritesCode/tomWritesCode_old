@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { graphql } from "gatsby";
 import { Link } from "gatsby";
-import Layout from "./Layout";
 import styled from "@emotion/styled";
 import { Spring } from "react-spring";
+import Layout from "./Layout";
 
 const BackButton = styled.button`
 	font-weight: bold;

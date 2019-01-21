@@ -3,7 +3,10 @@ import Layout from "../components/layout";
 import Contact from '../components/Contact';
 import { Spring } from "react-spring";
 
+import HomeNeon from '../components/NeonLanding/HomeNeon';
 const IndexPage = () => (
+	<>
+	<HomeNeon />
 	<Layout>
 		<Spring
 			from={{ marginTop: "-20px", opacity: 0 }}
@@ -17,6 +20,7 @@ const IndexPage = () => (
 			)}
 		</Spring>
 	</Layout>
+	</>
 );
 
 export default IndexPage;

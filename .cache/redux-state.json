@@ -1412,6 +1412,10 @@
             "version": "^10.0.4"
           },
           {
+            "name": "emotion-theming",
+            "version": "^10.0.6"
+          },
+          {
             "name": "gatsby",
             "version": "^2.0.53"
           },
@@ -1618,12 +1622,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-21T08:59:09.379Z",
+      "buildTime": "2019-01-21T00:40:47.559Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "91fe2788c1bfb8dcd2de8d57f62cc893",
+        "contentDigest": "785204486a426e78053f6b1ea74acd6e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1633,7 +1637,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "40c834a69bf4e1e72c50c958427d6eac",
+        "contentDigest": "dbd67c4e79f3d88a0f3c6aa00e01d5e4",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1645,7 +1649,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-12-19T22:21:20.024Z",
-      "accessTime": "2018-12-21T08:59:15.750Z",
+      "accessTime": "2019-01-21T00:40:55.221Z",
       "changeTime": "2018-12-19T22:21:20.024Z",
       "birthTime": "2018-12-02T23:01:55.425Z",
       "root": "/",
@@ -1663,14 +1667,175 @@
       "blksize": 4096,
       "ino": 8616218752,
       "blocks": 0,
-      "atimeMs": 1545382755750.2593,
+      "atimeMs": 1548031255221.3655,
       "mtimeMs": 1545258080024.208,
       "ctimeMs": 1545258080024.208,
       "birthtimeMs": 1543791715425.4329,
-      "atime": "2018-12-21T08:59:15.750Z",
+      "atime": "2019-01-21T00:40:55.221Z",
       "mtime": "2018-12-19T22:21:20.024Z",
       "ctime": "2018-12-19T22:21:20.024Z",
       "birthtime": "2018-12-02T23:01:55.425Z"
+    },
+    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
+      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
+      "children": [
+        "39bd1089-8f2f-557e-a225-a5c15e252fc7"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/github.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
+      "relativePath": "github.png",
+      "extension": "png",
+      "size": 23978,
+      "prettySize": "24 kB",
+      "modifiedTime": "2018-11-29T21:21:56.308Z",
+      "accessTime": "2019-01-20T23:48:34.267Z",
+      "changeTime": "2018-12-19T22:21:20.031Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "github.png",
+      "ext": ".png",
+      "name": "github",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839799,
+      "blocks": 48,
+      "atimeMs": 1548028114267.471,
+      "mtimeMs": 1543526516307.99,
+      "ctimeMs": 1545258080030.6655,
+      "birthtimeMs": 1543526516267.245,
+      "atime": "2019-01-20T23:48:34.267Z",
+      "mtime": "2018-11-29T21:21:56.308Z",
+      "ctime": "2018-12-19T22:21:20.031Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "c915c24d-211d-5ade-bb63-617d6c65924e": {
+      "id": "c915c24d-211d-5ade-bb63-617d6c65924e",
+      "children": [
+        "36c88b40-2495-5908-9fde-e47eeb383e2b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a70d6274fefd6cbba1dd9aec3737dd4e",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/linkedin.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/linkedin.png",
+      "relativePath": "linkedin.png",
+      "extension": "png",
+      "size": 11819,
+      "prettySize": "11.8 kB",
+      "modifiedTime": "2018-11-29T21:21:56.308Z",
+      "accessTime": "2019-01-20T23:48:34.268Z",
+      "changeTime": "2018-12-19T22:21:20.031Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "linkedin.png",
+      "ext": ".png",
+      "name": "linkedin",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839800,
+      "blocks": 24,
+      "atimeMs": 1548028114267.5388,
+      "mtimeMs": 1543526516308.0266,
+      "ctimeMs": 1545258080031.4614,
+      "birthtimeMs": 1543526516267.3442,
+      "atime": "2019-01-20T23:48:34.268Z",
+      "mtime": "2018-11-29T21:21:56.308Z",
+      "ctime": "2018-12-19T22:21:20.031Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "99e2c9f9-1ee0-5a47-9245-c6dad65c3680": {
+      "id": "99e2c9f9-1ee0-5a47-9245-c6dad65c3680",
+      "children": [
+        "c781042b-f770-5043-bdd6-9a7a1c2d6bc2"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "09ae989c1160fc17fe6518006563b3e8",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/twitter.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/twitter.png",
+      "relativePath": "twitter.png",
+      "extension": "png",
+      "size": 6182,
+      "prettySize": "6.18 kB",
+      "modifiedTime": "2018-11-29T21:21:56.275Z",
+      "accessTime": "2019-01-20T23:48:34.268Z",
+      "changeTime": "2018-12-19T22:21:20.032Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "twitter.png",
+      "ext": ".png",
+      "name": "twitter",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839801,
+      "blocks": 16,
+      "atimeMs": 1548028114267.572,
+      "mtimeMs": 1543526516275.148,
+      "ctimeMs": 1545258080032.4536,
+      "birthtimeMs": 1543526516267.4275,
+      "atime": "2019-01-20T23:48:34.268Z",
+      "mtime": "2018-11-29T21:21:56.275Z",
+      "ctime": "2018-12-19T22:21:20.032Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "39bd1089-8f2f-557e-a225-a5c15e252fc7": {
+      "id": "39bd1089-8f2f-557e-a225-a5c15e252fc7",
+      "children": [],
+      "parent": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
+      "internal": {
+        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "36c88b40-2495-5908-9fde-e47eeb383e2b": {
+      "id": "36c88b40-2495-5908-9fde-e47eeb383e2b",
+      "children": [],
+      "parent": "c915c24d-211d-5ade-bb63-617d6c65924e",
+      "internal": {
+        "contentDigest": "a70d6274fefd6cbba1dd9aec3737dd4e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3": {
       "id": "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3",
@@ -1692,7 +1857,7 @@
       "size": 143002,
       "prettySize": "143 kB",
       "modifiedTime": "2018-12-09T08:34:44.118Z",
-      "accessTime": "2018-12-13T23:10:46.260Z",
+      "accessTime": "2019-01-20T23:48:28.678Z",
       "changeTime": "2018-12-10T09:54:22.409Z",
       "birthTime": "2018-12-09T08:34:44.118Z",
       "root": "/",
@@ -1710,14 +1875,24 @@
       "blksize": 4096,
       "ino": 8616612952,
       "blocks": 280,
-      "atimeMs": 1544742646259.6714,
+      "atimeMs": 1548028108677.7056,
       "mtimeMs": 1544344484117.8904,
       "ctimeMs": 1544435662409.043,
       "birthtimeMs": 1544344484117.6846,
-      "atime": "2018-12-13T23:10:46.260Z",
+      "atime": "2019-01-20T23:48:28.678Z",
       "mtime": "2018-12-09T08:34:44.118Z",
       "ctime": "2018-12-10T09:54:22.409Z",
       "birthtime": "2018-12-09T08:34:44.118Z"
+    },
+    "c781042b-f770-5043-bdd6-9a7a1c2d6bc2": {
+      "id": "c781042b-f770-5043-bdd6-9a7a1c2d6bc2",
+      "children": [],
+      "parent": "99e2c9f9-1ee0-5a47-9245-c6dad65c3680",
+      "internal": {
+        "contentDigest": "09ae989c1160fc17fe6518006563b3e8",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe": {
       "id": "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe",
@@ -1734,7 +1909,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ecd026fac9d8f9c6b435c1c38e3c95b3",
+        "contentDigest": "c73eed92735670114fcbf6a878765c35",
         "type": "Directory",
         "description": "Directory \"src/siteDocs\"",
         "owner": "gatsby-source-filesystem"
@@ -1746,7 +1921,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-04T05:14:55.386Z",
-      "accessTime": "2018-12-21T08:59:15.771Z",
+      "accessTime": "2019-01-21T00:40:55.231Z",
       "changeTime": "2018-12-04T05:14:55.386Z",
       "birthTime": "2018-12-02T23:51:39.707Z",
       "root": "/",
@@ -1764,11 +1939,11 @@
       "blksize": 4096,
       "ino": 8616222701,
       "blocks": 0,
-      "atimeMs": 1545382755771.3303,
+      "atimeMs": 1548031255231.389,
       "mtimeMs": 1543900495385.9094,
       "ctimeMs": 1543900495385.9094,
       "birthtimeMs": 1543794699707.1155,
-      "atime": "2018-12-21T08:59:15.771Z",
+      "atime": "2019-01-21T00:40:55.231Z",
       "mtime": "2018-12-04T05:14:55.386Z",
       "ctime": "2018-12-04T05:14:55.386Z",
       "birthtime": "2018-12-02T23:51:39.707Z"
@@ -1780,7 +1955,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6754d72fee8a13e5b12414fb958422df",
+        "contentDigest": "d8259295d0bcbecfb113d48adba23c48",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/siteDocs/Docs.md\"",
@@ -1790,11 +1965,11 @@
       "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md",
       "relativePath": "Docs.md",
       "extension": "md",
-      "size": 2470,
-      "prettySize": "2.47 kB",
-      "modifiedTime": "2018-12-06T11:05:47.321Z",
-      "accessTime": "2018-12-13T23:10:46.260Z",
-      "changeTime": "2018-12-06T11:05:47.321Z",
+      "size": 2704,
+      "prettySize": "2.7 kB",
+      "modifiedTime": "2019-01-21T04:18:08.422Z",
+      "accessTime": "2019-01-21T04:18:08.483Z",
+      "changeTime": "2019-01-21T04:18:08.422Z",
       "birthTime": "2018-12-02T23:52:44.369Z",
       "root": "/",
       "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs",
@@ -1811,33 +1986,14 @@
       "blksize": 4096,
       "ino": 8616222734,
       "blocks": 8,
-      "atimeMs": 1544742646260.2407,
-      "mtimeMs": 1544094347321.0203,
-      "ctimeMs": 1544094347321.0203,
+      "atimeMs": 1548044288483,
+      "mtimeMs": 1548044288422.1555,
+      "ctimeMs": 1548044288422.1555,
       "birthtimeMs": 1543794764369.3396,
-      "atime": "2018-12-13T23:10:46.260Z",
-      "mtime": "2018-12-06T11:05:47.321Z",
-      "ctime": "2018-12-06T11:05:47.321Z",
+      "atime": "2019-01-21T04:18:08.483Z",
+      "mtime": "2019-01-21T04:18:08.422Z",
+      "ctime": "2019-01-21T04:18:08.422Z",
       "birthtime": "2018-12-02T23:52:44.369Z"
-    },
-    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
-      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
-      "children": [],
-      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
-      "internal": {
-        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n  \n  ***",
-        "type": "MarkdownRemark",
-        "contentDigest": "e730f7c76875af5b0ac81553d42c62cd",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "tomWritesCode - How I build the things.",
-        "slug": "/docs",
-        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n  \n  ***",
-      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
     },
     "3e9bd746-91be-5838-b91c-b28f06440676": {
       "id": "3e9bd746-91be-5838-b91c-b28f06440676",
@@ -2117,177 +2273,6 @@
       "excerpt": "",
       "rawMarkdownBody": "A personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. "
     },
-    "c915c24d-211d-5ade-bb63-617d6c65924e": {
-      "id": "c915c24d-211d-5ade-bb63-617d6c65924e",
-      "children": [
-        "36c88b40-2495-5908-9fde-e47eeb383e2b"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a70d6274fefd6cbba1dd9aec3737dd4e",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/linkedin.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/linkedin.png",
-      "relativePath": "linkedin.png",
-      "extension": "png",
-      "size": 11819,
-      "prettySize": "11.8 kB",
-      "modifiedTime": "2018-11-29T21:21:56.308Z",
-      "accessTime": "2018-12-19T22:21:21.275Z",
-      "changeTime": "2018-12-19T22:21:20.031Z",
-      "birthTime": "2018-11-29T21:21:56.267Z",
-      "root": "/",
-      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
-      "base": "linkedin.png",
-      "ext": ".png",
-      "name": "linkedin",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8616839800,
-      "blocks": 24,
-      "atimeMs": 1545258081275.2126,
-      "mtimeMs": 1543526516308.0266,
-      "ctimeMs": 1545258080031.4614,
-      "birthtimeMs": 1543526516267.3442,
-      "atime": "2018-12-19T22:21:21.275Z",
-      "mtime": "2018-11-29T21:21:56.308Z",
-      "ctime": "2018-12-19T22:21:20.031Z",
-      "birthtime": "2018-11-29T21:21:56.267Z"
-    },
-    "99e2c9f9-1ee0-5a47-9245-c6dad65c3680": {
-      "id": "99e2c9f9-1ee0-5a47-9245-c6dad65c3680",
-      "children": [
-        "c781042b-f770-5043-bdd6-9a7a1c2d6bc2"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "09ae989c1160fc17fe6518006563b3e8",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/twitter.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/twitter.png",
-      "relativePath": "twitter.png",
-      "extension": "png",
-      "size": 6182,
-      "prettySize": "6.18 kB",
-      "modifiedTime": "2018-11-29T21:21:56.275Z",
-      "accessTime": "2018-12-19T22:21:21.275Z",
-      "changeTime": "2018-12-19T22:21:20.032Z",
-      "birthTime": "2018-11-29T21:21:56.267Z",
-      "root": "/",
-      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
-      "base": "twitter.png",
-      "ext": ".png",
-      "name": "twitter",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8616839801,
-      "blocks": 16,
-      "atimeMs": 1545258081274.5007,
-      "mtimeMs": 1543526516275.148,
-      "ctimeMs": 1545258080032.4536,
-      "birthtimeMs": 1543526516267.4275,
-      "atime": "2018-12-19T22:21:21.275Z",
-      "mtime": "2018-11-29T21:21:56.275Z",
-      "ctime": "2018-12-19T22:21:20.032Z",
-      "birthtime": "2018-11-29T21:21:56.267Z"
-    },
-    "36c88b40-2495-5908-9fde-e47eeb383e2b": {
-      "id": "36c88b40-2495-5908-9fde-e47eeb383e2b",
-      "children": [],
-      "parent": "c915c24d-211d-5ade-bb63-617d6c65924e",
-      "internal": {
-        "contentDigest": "a70d6274fefd6cbba1dd9aec3737dd4e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "c781042b-f770-5043-bdd6-9a7a1c2d6bc2": {
-      "id": "c781042b-f770-5043-bdd6-9a7a1c2d6bc2",
-      "children": [],
-      "parent": "99e2c9f9-1ee0-5a47-9245-c6dad65c3680",
-      "internal": {
-        "contentDigest": "09ae989c1160fc17fe6518006563b3e8",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
-      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
-      "children": [
-        "39bd1089-8f2f-557e-a225-a5c15e252fc7"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/github.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
-      "relativePath": "github.png",
-      "extension": "png",
-      "size": 23978,
-      "prettySize": "24 kB",
-      "modifiedTime": "2018-11-29T21:21:56.308Z",
-      "accessTime": "2018-12-19T22:21:21.275Z",
-      "changeTime": "2018-12-19T22:21:20.031Z",
-      "birthTime": "2018-11-29T21:21:56.267Z",
-      "root": "/",
-      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
-      "base": "github.png",
-      "ext": ".png",
-      "name": "github",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8616839799,
-      "blocks": 48,
-      "atimeMs": 1545258081275.1438,
-      "mtimeMs": 1543526516307.99,
-      "ctimeMs": 1545258080030.6655,
-      "birthtimeMs": 1543526516267.245,
-      "atime": "2018-12-19T22:21:21.275Z",
-      "mtime": "2018-11-29T21:21:56.308Z",
-      "ctime": "2018-12-19T22:21:20.031Z",
-      "birthtime": "2018-11-29T21:21:56.267Z"
-    },
-    "39bd1089-8f2f-557e-a225-a5c15e252fc7": {
-      "id": "39bd1089-8f2f-557e-a225-a5c15e252fc7",
-      "children": [],
-      "parent": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
-      "internal": {
-        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "SitePage /rdgdgstg": {
       "jsonName": "rdgdgstg-364",
       "internalComponentName": "ComponentRdgdgstg",
@@ -2537,6 +2522,25 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
+      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
+      "children": [],
+      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
+      "internal": {
+        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n  The design and colour palette has been inspired by the awesome guide [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://twitter.com/adamwathan?lang=en) & [Steve Schroger](https://twitter.com/steveschoger?lang=en)\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n  \n  ***",
+        "type": "MarkdownRemark",
+        "contentDigest": "ca1d5878a796c67ec100c4ac272a4c21",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "tomWritesCode - How I build the things.",
+        "slug": "/docs",
+        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n  The design and colour palette has been inspired by the awesome guide [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://twitter.com/adamwathan?lang=en) & [Steve Schroger](https://twitter.com/steveschoger?lang=en)\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n  \n  ***",
+      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
     }
   },
   "status": {
@@ -2545,7 +2549,7 @@
         "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZ1MmHDpCbCrW3DqcK-w7jDnmTCv2nCosKPTgHCnUfCjBw_w7N7SjTCl8OYw4UuwojDugDDgsOgFsKiB8K8BcO3V8OywozDgsOkwpkHw7kew4IqDkxlPVBrwqfCosKmwpt3"
       }
     },
-    "PLUGINS_HASH": "a531f5f290a66006ae5f99c333292474"
+    "PLUGINS_HASH": "b4c5a5fd8bb7c52d7dba53787fb1582c"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2586,18 +2590,6 @@
       ],
       "07b0e325-f7fd-5f3a-802a-c6b850300010": [
         "/wasnt-build-in-a-day"
-      ],
-      "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3": [
-        "/"
-      ],
-      "9a9b2544-2bd7-5441-9e7e-23dcfa7a36fe": [
-        "/"
-      ],
-      "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": [
-        "/"
-      ],
-      "39bd1089-8f2f-557e-a225-a5c15e252fc7": [
-        "/"
       ]
     },
     "connections": {
@@ -2666,14 +2658,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-blog-list-js": {
-      "name": "BLOG_POST_QUERY",
-      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/BlogList.js",
-      "id": "sq--src-components-blog-list-js",
-      "jsonName": "sq--src-components-blog-list-js",
-      "query": "query BLOG_POST_QUERY {\n  allContentfulTomWritesCodeBlog(sort: {order: DESC, fields: [updatedAt]}) {\n    edges {\n      node {\n        intro\n        slug\n        title\n        updatedAt(formatString: \"DD-MMMM-YYYY\")\n        post {\n          post\n        }\n      }\n    }\n  }\n}\n",
-      "hash": 1508755287
-    },
     "sq--src-components-docs-js": {
       "name": "DocsQuery",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Docs.js",
@@ -2689,6 +2673,14 @@
       "jsonName": "sq--src-components-layout-js",
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
       "hash": 1415471421
+    },
+    "sq--src-components-blog-list-js": {
+      "name": "BLOG_POST_QUERY",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/BlogList.js",
+      "id": "sq--src-components-blog-list-js",
+      "jsonName": "sq--src-components-blog-list-js",
+      "query": "query BLOG_POST_QUERY {\n  allContentfulTomWritesCodeBlog(sort: {order: DESC, fields: [updatedAt]}) {\n    edges {\n      node {\n        intro\n        slug\n        title\n        updatedAt(formatString: \"DD-MMMM-YYYY\")\n        post {\n          post\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 1508755287
     },
     "sq--src-components-image-js": {
       "name": "usersThomaswhitakerDesktopTomWritesCodeTomWritesCodeSrcComponentsImageJs2011440971",
