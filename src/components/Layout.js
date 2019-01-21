@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 import { StaticQuery, graphql } from "gatsby";
 import { ThemeProvider } from "emotion-theming";
 
-import Header from "./header";
+import Header from "./Header";
 import "./layout.css";
 
 const theme = {

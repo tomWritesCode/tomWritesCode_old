@@ -9,7 +9,7 @@ const Close = `/>`;
 const TomWritesCode = `<tomWritesCode />`;
 
 const PageWrapper = styled.div`
-  overflow: hidden;
+	overflow: hidden;
 	display: grid;
 	grid-template-columns: 100%;
 	grid-template-rows: 85% 15%;
@@ -25,15 +25,28 @@ const PageWrapper = styled.div`
 		font-size: 250px;
 		display: inline-block;
 		margin-bottom: 0;
+
+		@media (max-width: 500px) {
+			font-size: 4rem;
+		}
 	}
 	h3 {
-    margin-bottom: 0;
+		margin-bottom: 0;
+
+		@media (max-width: 500px) {
+			font-size: 2rem;
+			padding-bottom: 50px;
+		}
 	}
 `;
 
 const HomeNeon = () => (
 	<PageWrapper className="page">
-		<Spring from={{ opacity: 0, transform: 'rotate(45deg)' }} to={{ opacity: 1, transform: 'rotate(0)' }} delay={400}>
+		<Spring
+			from={{ opacity: 0, transform: "rotate(45deg)" }}
+			to={{ opacity: 1, transform: "rotate(0)" }}
+			delay={400}
+		>
 			{styles => (
 				<div className="TextWrap" style={styles}>
 					<h2 className="neon1">{Open}</h2>
