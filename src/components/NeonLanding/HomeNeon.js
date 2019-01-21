@@ -35,7 +35,7 @@ const PageWrapper = styled.div`
 
 		@media (max-width: 500px) {
 			font-size: 2rem;
-			padding-bottom: 50px;
+			padding-bottom: 130px;
 		}
 	}
 `;
