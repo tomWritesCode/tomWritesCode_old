@@ -2,7 +2,7 @@ import React from "react";
 
 import BlogList from "../components/BlogList";
 
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import styled from "styled-components";
 
 const H2 = styled.h2`
