@@ -10,7 +10,7 @@ const Wrapper = styled.div`
 		margin-top: 15px;
 		margin-bottom: 15px;
 		background-image: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
-		border-radius: 35px 0 0 35px;
+		border-radius: 35px 15px 0 35px;
 	}
 
 	hr {

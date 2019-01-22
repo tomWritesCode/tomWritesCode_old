@@ -12,8 +12,13 @@ const HeaderContainer = styled.div`
 	clip-path: polygon(0 0, 100% 0, 100% 70%, 0 90%);
 
 	@media (max-width: 660px) {
-		height: 165px;
-		/* clip-path: polygon(0 0, 100% 0, 100% 80%, 0 99%); */
+		h1{
+			font-size: 9.5vw;
+			text-align: center; 
+		}
+		height: 130px;
+		clip-path: unset;
+		margin-bottom: 20px;
 	}
 `;
 const Block = styled.div`
