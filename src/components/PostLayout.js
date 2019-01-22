@@ -9,7 +9,8 @@ const twc = `<tomWritesCode />`;
 
 const Wrapper = styled.div`
 	background: #16161d;
-	height: 72vh;
+	min-height: 72vh;
+	height: 100%;
 	width: 100%;
 `;
 
