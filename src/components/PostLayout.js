@@ -11,9 +11,9 @@ const BackButton = styled.button`
 	font-weight: bold;
 	color: white;
 	padding: 5px 25px;
-	border-radius: 16px;
+	border-radius: 10px;
 	border: none;
-	background: linear-gradient(-40deg, #16161d 20%, #4b4b4e 100%);
+	background: linear-gradient(-40deg, #16161d 15%, #4b4b4e 100%);
 	transition: ease-in-out 300ms;
 	margin-bottom: 10px;
 	font-family: sans-serif;
@@ -21,7 +21,7 @@ const BackButton = styled.button`
 	&:hover {
 		transition: ease-in-out 300ms;
 		transform: scale(1.15);
-		background: rgba(42, 199, 214, 0.2);
+		background: linear-gradient(40deg, rgba(42, 199, 214, 0.2) 15%, #16161d 100%);
 		box-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4;
 		transition: ease-in-out 300ms;
 	}
@@ -93,7 +93,12 @@ export default class PostLayout extends Component {
 					<h1>{contentfulTomWritesCodeBlog.title}</h1>
 					<hr />
 					<h4 className="intro">"{contentfulTomWritesCodeBlog.intro}"</h4>
-					<p>{contentfulTomWritesCodeBlog.post.post}</p> <h5>{twc}</h5>
+					<div
+						dangerouslySetInnerHTML={{
+							__html: contentfulTomWritesCodeBlog.post.childMarkdownRemark.html
+						}}
+					/>
+					 <h5>{twc}</h5>
 				</BlogContent>
 			</Layout>
 		);
@@ -107,7 +112,9 @@ export const query = graphql`
 			date(formatString: "DD-MMMM-YYYY")
 			intro
 			post {
-				post
+				childMarkdownRemark {
+					html
+				}
 			}
 		}
 	}
