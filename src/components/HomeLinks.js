@@ -22,8 +22,7 @@ const NavBar = styled.div`
 	}
 	.neonLink {
 		color: #fff;
-		text-shadow: 0 0 5px #fff, 0 0 10px #ae52d4, 0 0 20px #ae52d4,
-			0 0 30px #ae52d4, 0 0 40px #ae52d4, 0 0 55px #ae52d4, 0 0 70px #ae52d4;
+		text-shadow: 0 0 5px #fff, 0 0 10px #ae52d4, 0 0 20px #ae52d4;
 	}
 	.NavStyles {
 		margin-top: 20px;
