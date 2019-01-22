@@ -22,19 +22,19 @@ const PageWrapper = styled.div`
 	.TextWrap {
 	}
 	h2 {
-		font-size: 250px;
+		font-size: 22.5vw;
 		display: inline-block;
 		margin-bottom: 0;
 
 		@media (max-width: 500px) {
-			font-size: 4rem;
+			font-size: 22.5vw;
 		}
 	}
 	h3 {
 		margin-bottom: 0;
 
 		@media (max-width: 500px) {
-			font-size: 2rem;
+			font-size: 10vw;
 			padding-bottom: 130px;
 		}
 	}

@@ -67,5 +67,3 @@ All of the code for this site as well as most of the projects I talk about in he
     }
   ```
   Once that has been done the selected joke is then set into the joke and punchline sections of the page. 
-  
-  ***

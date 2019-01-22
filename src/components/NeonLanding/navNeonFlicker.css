@@ -85,4 +85,5 @@ a.neon2:hover {
 
 .neonDelay {
   animation-delay: 3000ms;
+  z-index: 30;
 }

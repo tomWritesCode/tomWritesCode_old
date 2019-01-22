@@ -16,12 +16,15 @@ const LinkContainer = styled.div`
 	display: grid;
 	grid-template-columns: repeat(3, 33%);
 	justify-items: center;
-
 	img {
 		margin-bottom: 0;
+		transition: ease-in-out 200ms;
+		filter: drop-shadow(2px 2px 2px #4b4b4e);
 
 		&:hover {
-			animation: hoverAnimation 1s 0 1;
+			transition: ease-in-out 100ms;
+			animation: hoverAnimation 1s 1;
+			filter: drop-shadow(4px 4px 9px #4b4b4e);
 		}
 	}
 `;

@@ -5,16 +5,15 @@ import styled from "@emotion/styled";
 import { Spring } from "react-spring";
 import Layout from "./Layout";
 
+const twc = `<tomWritesCode />`;
+
 const BackButton = styled.button`
 	font-weight: bold;
 	color: white;
 	padding: 5px 25px;
-	border-radius: 12px;
-	background: linear-gradient(
-		190deg,
-		rgba(149, 118, 187, 1) 22%,
-		rgba(42, 199, 214, 1) 100%
-	);
+	border-radius: 16px;
+	border: none;
+	background: linear-gradient(-40deg, #16161d 20%, #4b4b4e 100%);
 	transition: ease-in-out 300ms;
 	margin-bottom: 10px;
 	font-family: sans-serif;
@@ -22,7 +21,9 @@ const BackButton = styled.button`
 	&:hover {
 		transition: ease-in-out 300ms;
 		transform: scale(1.15);
-		box-shadow: 4px 3px 5px rgba(0, 0, 0, 0.3);
+		background: rgba(42, 199, 214, 0.2);
+		box-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4;
+		transition: ease-in-out 300ms;
 	}
 
 	a {
@@ -33,6 +34,8 @@ const BackButton = styled.button`
 
 const BlogContent = styled.div`
 	font-family: sans-serif;
+	color: white;
+	min-height: 65vh;
 
 	h1 {
 		margin-bottom: 20px;
@@ -40,7 +43,7 @@ const BlogContent = styled.div`
 	.date {
 		text-align: right;
 		padding-right: 30px;
-		color: rgba(0, 0, 0, 0.6);
+		color: white;
 		margin-bottom: 5px;
 
 		@media (max-width: 660px) {
@@ -49,7 +52,8 @@ const BlogContent = styled.div`
 		}
 	}
 	hr {
-		margin-bottom: 20px;
+		background: #00bcd4;
+		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd4;
 	}
 	.intro {
 		margin-bottom: 15px;
@@ -77,9 +81,9 @@ export default class PostLayout extends Component {
 				>
 					{styles => (
 						<div style={styles}>
-				<Link className="backButton" to="/blog">
-					<BackButton>Back to Blog</BackButton>
-				</Link>
+							<Link className="backButton" to="/blog">
+								<BackButton>Back to Blog</BackButton>
+							</Link>
 						</div>
 					)}
 				</Spring>
@@ -89,8 +93,7 @@ export default class PostLayout extends Component {
 					<h1>{contentfulTomWritesCodeBlog.title}</h1>
 					<hr />
 					<h4 className="intro">"{contentfulTomWritesCodeBlog.intro}"</h4>
-					<p>{contentfulTomWritesCodeBlog.post.post}</p> 
-					<h5>By Thomas Whitaker.</h5>
+					<p>{contentfulTomWritesCodeBlog.post.post}</p> <h5>{twc}</h5>
 				</BlogContent>
 			</Layout>
 		);

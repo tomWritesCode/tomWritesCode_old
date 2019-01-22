@@ -5,10 +5,14 @@ import { Spring } from "react-spring";
 import styled from "styled-components";
 
 const Wrapper = styled.div`
+	color: white;
+	height: 100%;
+	min-height: 72vh;
+	background: #16161d;
 	a {
+		color: white;
 		font-family: sans-serif;
 		font-weight: bold;
-		color: black;
 		transition: ease-in-out 300ms;
 
 		&:hover {
@@ -16,7 +20,9 @@ const Wrapper = styled.div`
 			transition: ease-in-out 200ms;
 			color: white;
 			border-radius: 15px;
-			background-image: linear-gradient(-15deg, #2ac7d6 0%, #9576bb 100%);
+			/* background-image: linear-gradient(-15deg, #2ac7d6 0%, #9576bb 100%); */
+			text-shadow:0 0 10px #ae52d4, 0 0 20px #ae52d4,
+				0 0 30px #ae52d4, 5px 5px 40px #ae52d4;
 		}
 	}
 `;
@@ -31,10 +37,12 @@ const About = () => (
 				<Wrapper style={styles}>
 					<h2>I have a crippling coffee addiction.</h2>
 					<h3>I also write code.</h3>
-					<h4>Usually, It's doing both of those things at the same time.</h4>
+					<h3>Usually, It's doing both of those things at the same time.</h3>
 
 					<h3>
-						Outside of being a developer my main hobby is photography, If you want to take a look at some of that take a look at my stuff <Link to="./otherHobbies">Away from the Keyboard.</Link>
+						Outside of being a developer my main hobby is photography, If you
+						want to take a look at some of that take a look at my stuff{" "}
+						<Link to="./otherHobbies">Away from the Keyboard.</Link>
 					</h3>
 				</Wrapper>
 			)}

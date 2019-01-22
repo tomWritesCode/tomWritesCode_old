@@ -3,19 +3,35 @@ import { StaticQuery, graphql } from "gatsby";
 import styled from "styled-components";
 import { Spring } from "react-spring";
 
+const Wrapper = styled.div`
+	color: white;
+
+	pre {
+		margin-top: 15px;
+		margin-bottom: 15px;
+		background-image: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
+		border-radius: 35px 0 0 35px;
+	}
+
+	hr {
+		background: #00bcd4;
+		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4,
+			0 0 30px #00bcd4;
+	}
+`;
 const DocsContainer = styled.div`
 	font-family: sans-serif;
-	
 	a {
+		color: white;
 		font-weight: bold;
-		color: black;
 		transition: ease-in-out 300ms;
 
 		&:hover {
 			padding: 2px 5px;
 			transition: ease-in-out 200ms;
 			color: white;
-			background-image: linear-gradient(-15deg, #2ac7d6 0%, #9576bb 100%);
+			text-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4,
+				0 0 30px #00bcd4;
 		}
 	}
 `;
@@ -48,14 +64,14 @@ const Docs = () => (
 						to={{ marginTop: "0", opacity: 1 }}
 					>
 						{styles => (
-						<div style={styles}>
-						<h1>{node.frontmatter.title}</h1>
-						<DocsContainer
-							dangerouslySetInnerHTML={{
-								__html: node.html
-							}}
-						/>
-					</div>
+							<Wrapper style={styles}>
+								<h1>{node.frontmatter.title}</h1>
+								<DocsContainer
+									dangerouslySetInnerHTML={{
+										__html: node.html
+									}}
+								/>
+							</Wrapper>
 						)}
 					</Spring>
 				))}

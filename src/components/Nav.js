@@ -7,17 +7,20 @@ const NavBar = styled.div`
 	font-family: sans-serif;
 	display: flex;
 	justify-self: end;
-  font-size: 2rem;
-  max-width: 1700px;
-  
-  .LinkName{
-    font-size: 28px;
+	font-size: 2rem;
+	max-width: 1700px;
+
+	.LinkName {
+		font-size: 28px;
 		transform: skew(-12deg);
-		
-		@media(max-width:660px){
+		color: #fff;
+		text-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4,
+			0 0 30px #00bcd4, 0 0 40px #00bcd4;
+
+		@media (max-width: 660px) {
 			font-size: 24px;
 		}
-  }
+	}
 	.NavStyles {
 		padding: 1rem 3rem;
 		display: flex;
@@ -68,7 +71,7 @@ const NavBar = styled.div`
 		width: 100%;
 		font-size: 1.5rem;
 		justify-content: flex-end;
-  }
+	}
 `;
 
 const Nav = () => (

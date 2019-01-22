@@ -1,13 +1,11 @@
 import React from "react";
-import styled from "styled-components";
+import styled from "@emotion/styled";
 import { Link, graphql, StaticQuery } from "gatsby";
 import { Spring } from "react-spring";
 
 const BLOG_LISTING_QUERY = graphql`
 	query BLOG_POST_QUERY {
-		allContentfulTomWritesCodeBlog(
-			sort: { order: DESC, fields: [updatedAt] }
-		) {
+		allContentfulTomWritesCodeBlog(sort: { order: DESC, fields: [updatedAt] }) {
 			edges {
 				node {
 					intro
@@ -26,7 +24,7 @@ const BLOG_LISTING_QUERY = graphql`
 
 const Post = styled.article`
 	font-family: sans-serif;
-	background: rgba(42, 199, 214, 0.15);
+	background: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
 	box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);
 	transition: ease-in-out 300ms;
 	padding: 1rem;
@@ -36,12 +34,13 @@ const Post = styled.article`
 
 	&:hover {
 		background: rgba(42, 199, 214, 0.2);
-		box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.3);
+		box-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4,
+			0 0 30px #00bcd4, 0 0 40px #00bcd4;
 		transition: ease-in-out 300ms;
 		transform: scale(1.01);
 	}
 	a {
-		color: #000;
+		color: white;
 		text-decoration: none;
 	}
 	h2 {
@@ -58,7 +57,7 @@ const Post = styled.article`
 		margin-bottom: 0;
 		text-align: right;
 		padding-right: 30px;
-		color: rgba(0, 0, 0, 0.6);
+		color: ghostwhite;
 	}
 `;
 
