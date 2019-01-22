@@ -7,6 +7,12 @@ import Layout from "./Layout";
 
 const twc = `<tomWritesCode />`;
 
+const Wrapper = styled.div`
+	background: #16161d;
+	height: 72vh;
+	width: 100%;
+`;
+
 const BackButton = styled.button`
 	font-weight: bold;
 	color: white;
@@ -35,7 +41,6 @@ const BackButton = styled.button`
 const BlogContent = styled.div`
 	font-family: sans-serif;
 	color: white;
-	min-height: 65vh;
 
 	h1 {
 		margin-bottom: 20px;
@@ -75,31 +80,42 @@ export default class PostLayout extends Component {
 		const { contentfulTomWritesCodeBlog } = this.props.data;
 		return (
 			<Layout>
-				<Spring
-					from={{ marginLeft: "-105vw", marginTop: "-40vh", opacity: 0 }}
-					to={{ marginLeft: "0", marginTop: "0", opacity: 1 }}
-				>
-					{styles => (
-						<div style={styles}>
-							<Link className="backButton" to="/blog">
-								<BackButton>Back to Blog</BackButton>
-							</Link>
-						</div>
-					)}
-				</Spring>
+				<Wrapper>
+					<Spring
+						from={{ marginLeft: "-50px", opacity: 0 }}
+						to={{ marginLeft: "0", opacity: 1 }}
+						delay={ 400 }
+					>
+						{styles => (
+							<div style={styles}>
+								<Link className="backButton" to="/blog">
+									<BackButton>Back to Blog</BackButton>
+								</Link>
+							</div>
+						)}
+					</Spring>
 
-				<BlogContent>
-					<h4 className="date">{contentfulTomWritesCodeBlog.date}</h4>
-					<h1>{contentfulTomWritesCodeBlog.title}</h1>
-					<hr />
-					<h4 className="intro">"{contentfulTomWritesCodeBlog.intro}"</h4>
-					<div
-						dangerouslySetInnerHTML={{
-							__html: contentfulTomWritesCodeBlog.post.childMarkdownRemark.html
-						}}
-					/>
-					 <h5>{twc}</h5>
-				</BlogContent>
+					<Spring
+						from={{ marginLeft: "-80px", opacity: 0 }}
+						to={{ marginLeft: "0", opacity: 1 }}
+						delay= { 200 }
+					>
+						{styles => (		
+							<BlogContent style={styles}>
+								<h4 className="date">{contentfulTomWritesCodeBlog.date}</h4>
+								<h1>{contentfulTomWritesCodeBlog.title}</h1>
+								<hr />
+								<h4 className="intro">"{contentfulTomWritesCodeBlog.intro}"</h4>
+								<div
+									dangerouslySetInnerHTML={{
+										__html: contentfulTomWritesCodeBlog.post.childMarkdownRemark.html
+									}}
+								/>
+								 <h5>{twc}</h5>
+							</BlogContent>
+						)}
+					</Spring>
+				</Wrapper>
 			</Layout>
 		);
 	}

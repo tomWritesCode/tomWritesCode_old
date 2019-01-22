@@ -70,8 +70,8 @@ const Post = styled.article`
 const BlogPage = () => (
 	<Wrapper>
 		<Spring
-			from={{ marginLeft: "-50px", marginTop: "-60px", opacity: 0 }}
-			to={{ marginLeft: "0", marginTop: "0", opacity: 1 }}
+			from={{ marginLeft: "-200px", opacity: 0 }}
+			to={{ marginLeft: "0", opacity: 1 }}
 		>
 			{styles => (
 				<div style={styles}>
