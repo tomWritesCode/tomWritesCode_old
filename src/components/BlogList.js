@@ -22,6 +22,12 @@ const BLOG_LISTING_QUERY = graphql`
 	}
 `;
 
+const Wrapper = styled.div`
+	height: 100%;
+	min-height: 66vh;
+	background: #16161d;
+`;
+
 const Post = styled.article`
 	font-family: sans-serif;
 	background: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
@@ -62,7 +68,7 @@ const Post = styled.article`
 `;
 
 const BlogPage = () => (
-	<div>
+	<Wrapper>
 		<Spring
 			from={{ marginLeft: "-50px", marginTop: "-60px", opacity: 0 }}
 			to={{ marginLeft: "0", marginTop: "0", opacity: 1 }}
@@ -88,7 +94,7 @@ const BlogPage = () => (
 				</div>
 			)}
 		</Spring>
-	</div>
+	</Wrapper>
 );
 
 export default BlogPage;
