@@ -26,6 +26,10 @@ const Wrapper = styled.div`
 	height: 100%;
 	min-height: 66vh;
 	background: #16161d;
+		a {
+			color: white;
+			text-decoration: none;
+		}
 `;
 
 const Post = styled.article`
@@ -44,10 +48,6 @@ const Post = styled.article`
 			0 0 30px #00bcd4, 0 0 40px #00bcd4;
 		transition: ease-in-out 300ms;
 		transform: scale(1.01);
-	}
-	a {
-		color: white;
-		text-decoration: none;
 	}
 	h2 {
 		margin-bottom: 12px;
@@ -79,15 +79,15 @@ const BlogPage = () => (
 						query={BLOG_LISTING_QUERY}
 						render={({ allContentfulTomWritesCodeBlog }) =>
 							allContentfulTomWritesCodeBlog.edges.map(({ node }) => (
-								<Post key={node.slug}>
-									<Link to={`/${node.slug}`}>
+								<Link to={`/${node.slug}`}>
+									<Post key={node.slug}>
 										<div>
 											<h2>{node.title}</h2>
 											<p>{node.intro}</p>
 											<p className="date">{node.updatedAt}</p>
 										</div>
-									</Link>
-								</Post>
+									</Post>
+								</Link>
 							))
 						}
 					/>

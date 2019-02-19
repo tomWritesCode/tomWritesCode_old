@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
-import { Link } from "gatsby";
+// import { Link } from "gatsby";
 import { Spring } from "react-spring";
 import styled from "styled-components";
 
@@ -9,6 +9,11 @@ const Wrapper = styled.div`
 	height: 100%;
 	min-height: 72vh;
 	background: #16161d;
+		hr {
+		background: #00bcd4;
+		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4,
+			0 0 30px #00bcd4;
+	}
 	a {
 		color: white;
 		font-family: sans-serif;
@@ -24,6 +29,8 @@ const Wrapper = styled.div`
 			text-shadow:0 0 10px #ae52d4, 0 0 20px #ae52d4,
 				0 0 30px #ae52d4, 5px 5px 40px #ae52d4;
 		}
+
+
 	}
 `;
 
@@ -39,11 +46,18 @@ const About = () => (
 					<h3>I also write code.</h3>
 					<h3>Usually, It's doing both of those things at the same time.</h3>
 
+					<h3>I work the majority of the time with React, Emotion, Styled Components, Nodejs just to name a few.</h3>
+
+				<hr/>
+
 					<h3>
-						Outside of being a developer my main hobby is photography, If you
-						want to take a look at some of that take a look at my stuff{" "}
-						<Link to="./otherHobbies">Away from the Keyboard.</Link>
+						I have made a VS Code theme which is published on the VS Code Marketplace. My theme, raspberryCandy is a Neon/Pastel theme runs heay on a neon electric aqua and a pastel pink/purple. Click the screenshot to check it out. 
 					</h3>
+
+				<hr/>
+
+					<img src="https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png" alt="raspberryCandy Screenshot"/>
+
 				</Wrapper>
 			)}
 		</Spring>

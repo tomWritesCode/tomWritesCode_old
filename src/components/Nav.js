@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
 
+import "./NeonLanding/navNeonFlicker.css";
+
 const NavBar = styled.div`
 	padding: 0 30px;
 	font-family: sans-serif;
@@ -61,6 +63,8 @@ const NavBar = styled.div`
 			outline: none;
 			&:after {
 				width: calc(100% - 60px);
+				animation: neonFlicker 1.5s infinite;
+				box-shadow: 0 0 5px #fff, 0 0 10px #ae52d4, 0 0 20px #ae52d4, 0 0 30px #ae52d4, 0 0 40px #ae52d4, 0 0 55px #ae52d4, 0 0 70px #ae52d4;
 			}
 		}
 	}

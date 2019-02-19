@@ -1622,12 +1622,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-22T07:41:47.256Z",
+      "buildTime": "2019-02-19T07:10:12.046Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "29fdd94339456793717459607c4581b4",
+        "contentDigest": "14a34ac75d05e8f5e2d738091e0adff6",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1637,7 +1637,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bc9eb2a87003495e0d8ba1f194f43436",
+        "contentDigest": "5b1befbd6d8ee620893d1dcca9dcb17b",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1646,11 +1646,11 @@
       "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 224,
-      "prettySize": "224 B",
-      "modifiedTime": "2018-12-19T22:21:20.024Z",
-      "accessTime": "2019-01-22T07:41:53.181Z",
-      "changeTime": "2018-12-19T22:21:20.024Z",
+      "size": 288,
+      "prettySize": "288 B",
+      "modifiedTime": "2019-02-19T06:17:25.780Z",
+      "accessTime": "2019-02-19T07:10:18.194Z",
+      "changeTime": "2019-02-19T06:17:25.780Z",
       "birthTime": "2018-12-02T23:01:55.425Z",
       "root": "/",
       "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src",
@@ -1660,20 +1660,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 7,
+      "nlink": 9,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 8616218752,
       "blocks": 0,
-      "atimeMs": 1548142913180.945,
-      "mtimeMs": 1545258080024.208,
-      "ctimeMs": 1545258080024.208,
+      "atimeMs": 1550560218193.803,
+      "mtimeMs": 1550557045780.1716,
+      "ctimeMs": 1550557045780.1716,
       "birthtimeMs": 1543791715425.4329,
-      "atime": "2019-01-22T07:41:53.181Z",
-      "mtime": "2018-12-19T22:21:20.024Z",
-      "ctime": "2018-12-19T22:21:20.024Z",
+      "atime": "2019-02-19T07:10:18.194Z",
+      "mtime": "2019-02-19T06:17:25.780Z",
+      "ctime": "2019-02-19T06:17:25.780Z",
       "birthtime": "2018-12-02T23:01:55.425Z"
     },
     "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
@@ -1909,7 +1909,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c3e250a78690026b61644c3343499a63",
+        "contentDigest": "bf0333ece8f240bae3f34d0cc582fb25",
         "type": "Directory",
         "description": "Directory \"src/siteDocs\"",
         "owner": "gatsby-source-filesystem"
@@ -1921,7 +1921,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-04T05:14:55.386Z",
-      "accessTime": "2019-01-22T07:41:53.196Z",
+      "accessTime": "2019-02-19T07:10:18.212Z",
       "changeTime": "2018-12-04T05:14:55.386Z",
       "birthTime": "2018-12-02T23:51:39.707Z",
       "root": "/",
@@ -1939,11 +1939,11 @@
       "blksize": 4096,
       "ino": 8616222701,
       "blocks": 0,
-      "atimeMs": 1548142913196.075,
+      "atimeMs": 1550560218212.3328,
       "mtimeMs": 1543900495385.9094,
       "ctimeMs": 1543900495385.9094,
       "birthtimeMs": 1543794699707.1155,
-      "atime": "2019-01-22T07:41:53.196Z",
+      "atime": "2019-02-19T07:10:18.212Z",
       "mtime": "2018-12-04T05:14:55.386Z",
       "ctime": "2018-12-04T05:14:55.386Z",
       "birthtime": "2018-12-02T23:51:39.707Z"
@@ -1955,7 +1955,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "67e776a9ccaa10c7dabda24a02799c15",
+        "contentDigest": "19521628b3b2e3bdd30715acd0ebb8d4",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/siteDocs/Docs.md\"",
@@ -1965,11 +1965,11 @@
       "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md",
       "relativePath": "Docs.md",
       "extension": "md",
-      "size": 2696,
-      "prettySize": "2.7 kB",
-      "modifiedTime": "2019-01-22T05:59:36.942Z",
-      "accessTime": "2019-01-22T05:59:37.002Z",
-      "changeTime": "2019-01-22T05:59:36.942Z",
+      "size": 3151,
+      "prettySize": "3.15 kB",
+      "modifiedTime": "2019-02-19T08:19:00.132Z",
+      "accessTime": "2019-02-19T08:19:00.193Z",
+      "changeTime": "2019-02-19T08:19:00.132Z",
       "birthTime": "2018-12-02T23:52:44.369Z",
       "root": "/",
       "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs",
@@ -1986,13 +1986,13 @@
       "blksize": 4096,
       "ino": 8616222734,
       "blocks": 8,
-      "atimeMs": 1548136777001.8328,
-      "mtimeMs": 1548136776941.6104,
-      "ctimeMs": 1548136776941.6104,
+      "atimeMs": 1550564340192.912,
+      "mtimeMs": 1550564340131.608,
+      "ctimeMs": 1550564340131.608,
       "birthtimeMs": 1543794764369.3396,
-      "atime": "2019-01-22T05:59:37.002Z",
-      "mtime": "2019-01-22T05:59:36.942Z",
-      "ctime": "2019-01-22T05:59:36.942Z",
+      "atime": "2019-02-19T08:19:00.193Z",
+      "mtime": "2019-02-19T08:19:00.132Z",
+      "ctime": "2019-02-19T08:19:00.132Z",
       "birthtime": "2018-12-02T23:52:44.369Z"
     },
     "3e9bd746-91be-5838-b91c-b28f06440676": {
@@ -2012,41 +2012,22 @@
       "title": "tomWritesCode wasn't built in a day.",
       "slug": "wasnt-build-in-a-day",
       "date": "2018-12-06",
-      "intro": "Well, if you're reading this that can only mean one thing. I finally build the damn site. ",
+      "intro": "Well, if you're reading this that can only mean one thing. I finally built the damn site. ",
       "post___NODE": "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7",
       "id": "07b0e325-f7fd-5f3a-802a-c6b850300010",
       "contentful_id": "6k3aHYwVUcY4Gk8moGAqSK",
       "createdAt": "2018-12-06T11:14:18.380Z",
-      "updatedAt": "2019-01-22T07:41:40.285Z",
+      "updatedAt": "2019-01-22T12:35:33.560Z",
       "parent": "tomWritesCode Blog",
       "children": [
         "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7"
       ],
       "internal": {
         "type": "ContentfulTomWritesCodeBlog",
-        "contentDigest": "0708464cb5030cffb9341cc5615ac408",
+        "contentDigest": "083afc10be2228009239d1421194c0ea",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-AU"
-    },
-    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
-      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
-      "children": [],
-      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
-      "internal": {
-        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n  The design and colour palette has been inspired by the awesome guide [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://twitter.com/adamwathan?lang=en) & [Steve Schroger](https://twitter.com/steveschoger?lang=en)\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n",
-        "type": "MarkdownRemark",
-        "contentDigest": "eab5d07f06e980c64d3b32762b6eb277",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "tomWritesCode - How I build the things.",
-        "slug": "/docs",
-        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n### Whats on this page\n  + **tomWritesCode**\n  + **dadJokes**\n\n## tomWritesCode\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n  The design and colour palette has been inspired by the awesome guide [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://twitter.com/adamwathan?lang=en) & [Steve Schroger](https://twitter.com/steveschoger?lang=en)\n\n***\n## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n  Once that has been done the selected joke is then set into the joke and punchline sections of the page. \n",
-      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
     },
     "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7": {
       "id": "f7a03b09-afb6-5ca0-9ebe-b130e409c5e7",
@@ -2079,6 +2060,172 @@
       },
       "excerpt": "",
       "rawMarkdownBody": "This is a personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. \n\n\nSo, tomWritesCode, a site to house my blog, and just some basic stuff about me. It only took what felt like 300 years to make, a series of pushbacks due to other things I wanted to make and the constant learning of new things which makes more revisions etc, etc, (I'm sure that if you have ever made your own site you will know the feeling.)\n\n\nI went with a neon theme after playing around with a flicker animation for an idea, now it's the base of my whole site. the flicker annimation is using keyframes and there is another class for a delay to use the same animation on the same page.\n"
+    },
+    "47d50a64-6cae-5644-bd64-fdbbff789304": {
+      "id": "47d50a64-6cae-5644-bd64-fdbbff789304",
+      "children": [
+        "338d35f9-b7a0-5cec-8956-3ad31eb00250"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4b81d8dd28971e397ecb6029290fbacd",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/fullLogo.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/fullLogo.jpg",
+      "relativePath": "fullLogo.jpg",
+      "extension": "jpg",
+      "size": 202686,
+      "prettySize": "203 kB",
+      "modifiedTime": "2019-02-18T23:18:56.761Z",
+      "accessTime": "2019-02-19T01:29:08.950Z",
+      "changeTime": "2019-02-19T05:54:56.856Z",
+      "birthTime": "2019-02-18T23:18:56.713Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "fullLogo.jpg",
+      "ext": ".jpg",
+      "name": "fullLogo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8619757377,
+      "blocks": 400,
+      "atimeMs": 1550539748950.453,
+      "mtimeMs": 1550531936760.9553,
+      "ctimeMs": 1550555696855.8037,
+      "birthtimeMs": 1550531936713.2578,
+      "atime": "2019-02-19T01:29:08.950Z",
+      "mtime": "2019-02-18T23:18:56.761Z",
+      "ctime": "2019-02-19T05:54:56.856Z",
+      "birthtime": "2019-02-18T23:18:56.713Z"
+    },
+    "338d35f9-b7a0-5cec-8956-3ad31eb00250": {
+      "id": "338d35f9-b7a0-5cec-8956-3ad31eb00250",
+      "children": [],
+      "parent": "47d50a64-6cae-5644-bd64-fdbbff789304",
+      "internal": {
+        "contentDigest": "4b81d8dd28971e397ecb6029290fbacd",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b33a74e2-eee5-56f1-aef1-11cd4521948d": {
+      "id": "b33a74e2-eee5-56f1-aef1-11cd4521948d",
+      "children": [
+        "c3dcaad1-baf7-57ba-bcb3-f2f585eddfb4"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5c88efbb0064a7a305d46e25d3cfcdee",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/screenShot.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/screenShot.png",
+      "relativePath": "screenShot.png",
+      "extension": "png",
+      "size": 437910,
+      "prettySize": "438 kB",
+      "modifiedTime": "2019-02-19T06:17:25.781Z",
+      "accessTime": "2019-02-19T06:17:25.804Z",
+      "changeTime": "2019-02-19T06:17:25.782Z",
+      "birthTime": "2019-02-19T04:20:57.443Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "screenShot.png",
+      "ext": ".png",
+      "name": "screenShot",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8619757407,
+      "blocks": 856,
+      "atimeMs": 1550557045803.9766,
+      "mtimeMs": 1550557045781,
+      "ctimeMs": 1550557045782.4858,
+      "birthtimeMs": 1550550057442.6348,
+      "atime": "2019-02-19T06:17:25.804Z",
+      "mtime": "2019-02-19T06:17:25.781Z",
+      "ctime": "2019-02-19T06:17:25.782Z",
+      "birthtime": "2019-02-19T04:20:57.443Z"
+    },
+    "c3dcaad1-baf7-57ba-bcb3-f2f585eddfb4": {
+      "id": "c3dcaad1-baf7-57ba-bcb3-f2f585eddfb4",
+      "children": [],
+      "parent": "b33a74e2-eee5-56f1-aef1-11cd4521948d",
+      "internal": {
+        "contentDigest": "5c88efbb0064a7a305d46e25d3cfcdee",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "a6a5b149-ba33-5321-baf8-b30341b83eed": {
+      "contentful_id": "3YAWA3s77Cv1ZBXSwv6r0U",
+      "id": "a6a5b149-ba33-5321-baf8-b30341b83eed",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/u434ytvnd3bo/3YAWA3s77Cv1ZBXSwv6r0U/6cf699d9415f103988a32330b89e6a49/fullLogo.jpg",
+        "details": {
+          "size": 202686,
+          "image": {
+            "width": 1067,
+            "height": 1067
+          }
+        },
+        "fileName": "fullLogo.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "fullLogo",
+      "description": "",
+      "node_locale": "en-AU",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "e18d47cda1fce2c35a49962cac660dc9",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "51b99259-7844-59e1-9080-2a4d442bcb6f": {
+      "contentful_id": "2RH3azl2Z6YFdiXblptspp",
+      "id": "51b99259-7844-59e1-9080-2a4d442bcb6f",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png",
+        "details": {
+          "size": 437910,
+          "image": {
+            "width": 2846,
+            "height": 1650
+          }
+        },
+        "fileName": "screenShot.png",
+        "contentType": "image/png"
+      },
+      "title": "screenShot",
+      "description": "",
+      "node_locale": "en-AU",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "42c2d890b6ca5763c69b7a9c0d760f64",
+        "owner": "gatsby-source-contentful"
+      }
     },
     "SitePage /wasnt-build-in-a-day": {
       "jsonName": "wasnt-build-in-a-day-b86",
@@ -2241,12 +2388,31 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
+      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
+      "children": [],
+      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
+      "internal": {
+        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n## raspberryCandy - <a href=\"https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy\" target=\"_blank\">VS Code Marketplace</a>\n\n  This theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.\n\n  The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.\n\n  ![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)\n\n***\n\n## dadJokes() - <a href=\"https://github.com/tomWritesCode/dadJokes\" target=\"_blank\">Check out the codebase</a>\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n\n***\n\n## tomWritesCode - <a href=\"https://github.com/tomWritesCode/tomWritesCode\" target=\"_blank\">Check out the codebase</a>\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n\nOnce that has been done the selected joke is then set into the joke and punchline sections of the page. \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "ed3760453ebbbc92c475f51bc05bf00d",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "tomWritesCode - How I build the things.",
+        "slug": "/docs",
+        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n## raspberryCandy - <a href=\"https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy\" target=\"_blank\">VS Code Marketplace</a>\n\n  This theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.\n\n  The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.\n\n  ![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)\n\n***\n\n## dadJokes() - <a href=\"https://github.com/tomWritesCode/dadJokes\" target=\"_blank\">Check out the codebase</a>\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n\n***\n\n## tomWritesCode - <a href=\"https://github.com/tomWritesCode/tomWritesCode\" target=\"_blank\">Check out the codebase</a>\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n\nOnce that has been done the selected joke is then set into the joke and punchline sections of the page. \n",
+      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
     }
   },
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYNfsOnMDnDnjtAw6MXKMOiIcOLwrzCi8OfIcOiASgWw6tPwpoOwoc-w4ZQw4tuw4FYwrTCuCUdwr4UwqtywoNlGsO7wrDCrsO6wpXCpWkow6dqUHl-OjfDtcOfUEw"
+        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYFA8OmwrXCnMOqwqpWLsO8w5PCqMKQwp5ffsOfw5PDssOERFjCvsK1wqExw4_CrBgEQUNCw6jCvMOZw7J7w7Uow5FqYcO_wo_CvnQAw4Vpw4LDpUvCsBbDhsKpH2HDtEtowqYq"
       }
     },
     "PLUGINS_HASH": "b4c5a5fd8bb7c52d7dba53787fb1582c"
@@ -2311,7 +2477,7 @@
     "sq--src-components-blog-list-js": 2604983828,
     "sq--src-components-layout-js": 1415471421,
     "testing-1-154": "380/path---testing-1-154-003-cypYZ4D91Rv9AMBmiuVrkWDsIc",
-    "wasnt-build-in-a-day-b86": "307/path---wasnt-build-in-a-day-b-86-799-4RsNBLZKpTyMmfXZXzQrEjFUmgI",
+    "wasnt-build-in-a-day-b86": "862/path---wasnt-build-in-a-day-b-86-799-Yim45ePvhGvVkJDEez8xzWwHVE",
     "testing-2-561": "903/path---testing-2-561-9fd-2G92HvuM99V0C1xDICy3Vit5uoQ",
     "sq--src-components-docs-js": 3771703249,
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",

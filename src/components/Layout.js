@@ -17,7 +17,6 @@ const BackgroundWrapper = styled.div`
 
 const theme = {
 	colors: {
-		// Refactoring UI Palette 9 TODO: REDO PINK (VIVID)
 		prime1: "#035388",
 		prime2: "#0B69A3",
 		prime3: "#127FBF",
@@ -117,7 +116,7 @@ const Layout = ({ children }) => (
 					<div
 						style={{
 							margin: "0 auto",
-							maxWidth: 960,
+							maxWidth: 1060,
 							padding: "0px 1.0875rem 1.45rem",
 							paddingTop: 0
 						}}

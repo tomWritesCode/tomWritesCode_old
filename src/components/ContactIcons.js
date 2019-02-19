@@ -12,7 +12,9 @@ const TwitterLink = "https://twitter.com/tomWritesCode";
 const LinkedinLink = "https://www.linkedin.com/in/thomas-whitaker-b961b9112/";
 
 const LinkContainer = styled.div`
-	padding-top: 20px;
+	background: linear-gradient(0deg, #16161d 30%, #4b4b4e 100%);
+	border-radius: 20px;
+	padding-top: 25px;
 	display: grid;
 	grid-template-columns: repeat(3, 33%);
 	justify-items: center;
@@ -30,22 +32,59 @@ const LinkContainer = styled.div`
 `;
 
 const ContactIcons = () => (
-	<Spring
-		from={{ marginTop: "-40px", opacity: 0 }}
-		to={{ marginTop: "0", opacity: 1 }}
-		delay={300}
-	>
+	<Spring from={{ opacity: 0 }} to={{ opacity: 1 }} delay={800}>
 		{styles => (
 			<LinkContainer style={styles}>
-				<a href={GitLink} target="_blank" rel="noopener noreferrer">
-					<img src={GithubImg} alt="GitHub Logo" />
-				</a>
-				<a href={TwitterLink} target="_blank" rel="noopener noreferrer">
-					<img src={TwitterImg} alt="Twitter Logo" />
-				</a>
-				<a href={LinkedinLink} target="_blank" rel="noopener noreferrer">
-					<img src={LinkedInImg} alt="LinkedIn Logo" />
-				</a>
+				<Spring
+					from={{ transform: "rotate(90deg)" }}
+					to={{ transform: "rotate(0deg)" }}
+					delay={600}
+				>
+					{styles => (
+						<a
+							href={GitLink}
+							target="_blank"
+							rel="noopener noreferrer"
+							style={styles}
+						>
+							<img src={GithubImg} alt="GitHub Logo" />
+						</a>
+					)}
+				</Spring>
+
+				<Spring
+					from={{ transform: "rotate(90deg)" }}
+					to={{ transform: "rotate(0deg)" }}
+					delay={700}
+				>
+					{styles => (
+						<a
+							href={TwitterLink}
+							target="_blank"
+							rel="noopener noreferrer"
+							style={styles}
+						>
+							<img src={TwitterImg} alt="Twitter Logo" />
+						</a>
+					)}
+				</Spring>
+
+				<Spring
+					from={{ transform: "rotate(90deg)" }}
+					to={{ transform: "rotate(0deg)" }}
+					delay={800}
+				>
+					{styles => (
+						<a
+							href={LinkedinLink}
+							target="_blank"
+							rel="noopener noreferrer"
+							style={styles}
+						>
+							<img src={LinkedInImg} alt="LinkedIn Logo" />
+						</a>
+					)}
+				</Spring>
 			</LinkContainer>
 		)}
 	</Spring>

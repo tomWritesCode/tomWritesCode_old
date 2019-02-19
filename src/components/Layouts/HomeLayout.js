@@ -12,6 +12,10 @@ const BackgroundWrapper = styled.div`
 	height: 100%;
 `;
 
+const Content = styled.div`
+	
+`;
+
 const theme = {
 	colors: {
 		// Refactoring UI Palette 9 TODO: REDO PINK (VIVID)
@@ -110,7 +114,7 @@ const HomeLayout = ({ children }) => (
 					<html lang="en" />
 				</Helmet>
 				<BackgroundWrapper>
-					<div
+					<Content
 						style={{
 							margin: "0 auto",
 							maxWidth: 960,
@@ -119,7 +123,7 @@ const HomeLayout = ({ children }) => (
 						}}
 					>
 						{children}
-					</div>
+					</Content>
 				</BackgroundWrapper>
 			</ThemeProvider>
 		)}

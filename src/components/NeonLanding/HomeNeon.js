@@ -12,17 +12,17 @@ const PageWrapper = styled.div`
 	overflow: hidden;
 	display: grid;
 	grid-template-columns: 100%;
-	grid-template-rows: 85% 15%;
+	grid-template-rows: 65% 35%;
 	align-items: center;
 	text-align: center;
 	z-index: 10;
-	height: 100vh;
 	width: 100%;
+	height: 400px;
 	background: #16161d;
 	.TextWrap {
 	}
 	h2 {
-		font-size: 22.5vw;
+		font-size: 18vw;
 		display: inline-block;
 		margin-bottom: 0;
 

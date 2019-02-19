@@ -2,17 +2,20 @@ import React from "react";
 import HomeLayout from "../components/Layouts/HomeLayout";
 import { Spring } from "react-spring";
 import styled from "@emotion/styled";
-import HomeLinks from '../components/HomeLinks';
-import ContactIcons from '../components/ContactIcons';
+import HomeLinks from "../components/HomeLinks";
+import ContactIcons from "../components/ContactIcons";
 import HomeNeon from "../components/NeonLanding/HomeNeon";
 
 const Wrapper = styled.div`
 	color: white;
 
-	h1{
-		margin-bottom: 0;
+	hr {
+		background: #00bcd4;
+		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd4;
 	}
-	h2{
+	h1 {
+	}
+	h2 {
 		text-align: right;
 	}
 `;
@@ -28,17 +31,21 @@ const IndexPage = () => (
 				{styles => (
 					<Wrapper style={styles}>
 						<HomeLinks />
-						<h1>Hi, my names Tom, as you may have guessed, I write code.</h1>
+						<h1>Hi, my names Tom, I write code.</h1>
 						<h2>
-							I'm a developer from Sydney, Australia. 
-							<br/><br/>
+							I'm a developer from Sydney, Australia.
+							<br />
+							<br />
+						<hr />
 						</h2>
 						<h3>
-							I work with React.js, GraphQL, Node.js, Emotion, Styled-Components among some other technologies.
+							I work with React.js, GraphQL, Node.js, Emotion, Styled-Components
+							among some other technologies.
 						</h3>
-					
+
 						<h3>
-							Feel free to check out some of my other stuff on GitHub, Twitter and LinkedIn.
+							Feel free to check out some of my other stuff on GitHub, Twitter
+							and LinkedIn.
 						</h3>
 						<ContactIcons />
 					</Wrapper>

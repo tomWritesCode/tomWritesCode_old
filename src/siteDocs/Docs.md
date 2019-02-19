@@ -9,26 +9,17 @@ All of the code for this site as well as most of the projects I talk about in he
 
 *** 
 
-### Whats on this page
-  + **tomWritesCode**
-  + **dadJokes**
+## raspberryCandy - <a href="https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy" target="_blank">VS Code Marketplace</a>
 
-## tomWritesCode
-  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. 
+  This theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.
 
-  ```javascript
-  tomWritesCode = () => {
-    const React = true;
-    const GatsbyJS = true;
-    const Blog = Contentful;
-    const styling = StyledComponents;
-    const stylingAlso = Emotion;
-  }
-  ```
-  The design and colour palette has been inspired by the awesome guide [Refactoring UI](https://refactoringui.com/) by [Adam Wathan](https://twitter.com/adamwathan?lang=en) & [Steve Schroger](https://twitter.com/steveschoger?lang=en)
+  The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.
+
+  ![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)
 
 ***
-## dadJokes() - [Check out the codebase](https://github.com/tomWritesCode/dadJokes)
+
+## dadJokes() - <a href="https://github.com/tomWritesCode/dadJokes" target="_blank">Check out the codebase</a>
   This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. 
 
   Built in Gatsby because that is what I always reach for when I want to make something quickly. 
@@ -66,4 +57,22 @@ All of the code for this site as well as most of the projects I talk about in he
       return JokeList[getRandomInt(JokeList.length)]
     }
   ```
-  Once that has been done the selected joke is then set into the joke and punchline sections of the page. 
+
+***
+
+## tomWritesCode - <a href="https://github.com/tomWritesCode/tomWritesCode" target="_blank">Check out the codebase</a>
+  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. 
+
+  ```javascript
+  tomWritesCode = () => {
+    const React = true;
+    const GatsbyJS = true;
+    const Blog = Contentful;
+    const styling = StyledComponents;
+    const stylingAlso = Emotion;
+  }
+  ```
+
+***
+
+Once that has been done the selected joke is then set into the joke and punchline sections of the page. 

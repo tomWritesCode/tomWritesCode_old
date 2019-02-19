@@ -1,16 +1,22 @@
 import React from "react";
 import { Link } from "gatsby";
+import { Spring } from "react-spring";
 import styled from "@emotion/styled";
 import "./NeonLanding/navNeonFlicker.css";
 
+const Wrapper = styled.div`
+	background: linear-gradient(40deg, #16161d 15%, #4b4b4e 100%);
+	padding: 15px;
+	border-radius: 20px;
+	margin-bottom: 1.45rem;
+`;
+
 const NavBar = styled.div`
-	padding: 0 30px;
 	font-family: sans-serif;
 	display: flex;
 	justify-content: center;
 	font-size: 3rem;
 	max-width: 1700px;
-	margin-bottom: 1.45rem;
 
 	.LinkName {
 		font-size: 28px;
@@ -20,12 +26,8 @@ const NavBar = styled.div`
 			font-size: 24px;
 		}
 	}
-	.neonLink {
-		color: #fff;
-		text-shadow: 0 0 5px #fff, 0 0 10px #ae52d4, 0 0 20px #ae52d4;
-	}
+
 	.NavStyles {
-		margin-top: 20px;
 		padding: 1rem 3rem;
 		display: flex;
 		align-items: center;
@@ -65,6 +67,9 @@ const NavBar = styled.div`
 			outline: none;
 			&:after {
 				width: calc(100% - 60px);
+				animation: neonFlicker 1.5s infinite;
+				box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd4,
+					0 0 40px #00bcd4;
 			}
 		}
 	}
@@ -79,43 +84,68 @@ const NavBar = styled.div`
 `;
 
 const Nav = () => (
-	<NavBar>
-		<Link
-			className="NavStyles"
-			to="/about"
-			style={{
-				color: "white",
-				textDecoration: "none",
-				padding: "10px 20px"
-			}}
+	<Wrapper>
+		<Spring
+			from={{ paddingRight: "200%", opacity: 0 }}
+			to={{ paddingRight: "0", opacity: 1 }}
+			delay={1500}
 		>
-			<span className="LinkName">About</span>
-		</Link>
+			{styles => (
+				<NavBar style={styles}>
+					<Link
+						className="NavStyles"
+						to="/about"
+						style={{
+							color: "white",
+							textDecoration: "none",
+							padding: "10px 20px"
+						}}
+					>
+						<span className="LinkName">About</span>
+					</Link>
 
-		<Link
-			className="NavStyles"
-			to="/docs"
-			style={{
-				color: "white",
-				textDecoration: "none",
-				padding: "10px 20px"
-			}}
-		>
-			<span className="LinkName">Docs</span>
-		</Link>
+					<Link
+						className="NavStyles"
+						to="/docs"
+						style={{
+							color: "white",
+							textDecoration: "none",
+							padding: "10px 20px"
+						}}
+					>
+						<span className="LinkName">
+							Docs
+						</span>
+					</Link>
 
-		<Link
-			className="NavStyles"
-			to="/blog"
-			style={{
-				color: "white",
-				textDecoration: "none",
-				padding: "10px 20px"
-			}}
-		>
-			<span className="LinkName neonLink neonFlicker neonDelay">Blog</span>
-		</Link>
-	</NavBar>
+					<Link
+						className="NavStyles"
+						to="/blog"
+						style={{
+							color: "white",
+							textDecoration: "none",
+							padding: "10px 20px"
+						}}
+					>
+						<span className="LinkName">
+							Blog
+						</span>
+					</Link>
+
+					<Link
+						className="NavStyles"
+						to="/blog"
+						style={{
+							color: "white",
+							textDecoration: "none",
+							padding: "10px 20px"
+						}}
+					>
+					</Link>
+				</NavBar>
+			)}
+		</Spring>
+	</Wrapper>
 );
 
 export default Nav;

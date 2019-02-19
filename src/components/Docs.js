@@ -7,16 +7,22 @@ const Wrapper = styled.div`
 	color: white;
 
 	pre {
-		margin-top: 15px;
-		margin-bottom: 15px;
 		background-image: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
 		border-radius: 35px 15px 0 35px;
+		font-weight: bold;
 	}
 
 	hr {
 		background: #00bcd4;
 		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4,
 			0 0 30px #00bcd4;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+		max-width: 90%;
+		border-radius: 5px;
 	}
 `;
 const DocsContainer = styled.div`
