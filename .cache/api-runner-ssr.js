@@ -12,7 +12,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-130212927-1","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"],"sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"example.com"},
+      options: {"plugins":[],"trackingId":"UA-134770666-1","head":true,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"],"sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"example.com"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

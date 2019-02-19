@@ -64,7 +64,7 @@ module.exports = {
 			options: {
 				trackingId: process.env.GA_TRACKING_ID,
 				// Puts tracking script in the head instead of the body
-				head: false,
+				head: true,
 				// Setting this parameter is optional
 				anonymize: true,
 				// Setting this parameter is also optional

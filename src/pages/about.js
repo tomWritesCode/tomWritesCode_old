@@ -58,6 +58,8 @@ const About = () => (
 
 					<img src="https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png" alt="raspberryCandy Screenshot"/>
 
+				<hr/>
+
 				</Wrapper>
 			)}
 		</Spring>

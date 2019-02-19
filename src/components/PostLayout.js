@@ -43,6 +43,20 @@ const BlogContent = styled.div`
 	font-family: sans-serif;
 	color: white;
 
+	a {
+		color: white;
+		font-weight: bold;
+		transition: ease-in-out 300ms;
+
+		&:hover {
+			padding: 2px 5px;
+			transition: ease-in-out 200ms;
+			color: white;
+			text-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4,
+				0 0 30px #00bcd4;
+		}
+	}
+
 	h1 {
 		margin-bottom: 20px;
 	}
@@ -85,7 +99,7 @@ export default class PostLayout extends Component {
 					<Spring
 						from={{ marginLeft: "-50px", opacity: 0 }}
 						to={{ marginLeft: "0", opacity: 1 }}
-						delay={ 400 }
+						delay={ 600 }
 					>
 						{styles => (
 							<div style={styles}>
@@ -97,9 +111,8 @@ export default class PostLayout extends Component {
 					</Spring>
 
 					<Spring
-						from={{ marginLeft: "-80px", opacity: 0 }}
-						to={{ marginLeft: "0", opacity: 1 }}
-						delay= { 200 }
+						from={{ paddingTop: "100px", opacity: 0 }}
+						to={{ paddingTop: "0", opacity: 1 }}
 					>
 						{styles => (		
 							<BlogContent style={styles}>

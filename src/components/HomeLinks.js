@@ -9,6 +9,9 @@ const Wrapper = styled.div`
 	padding: 15px;
 	border-radius: 20px;
 	margin-bottom: 1.45rem;
+	@media(max-width: 660px){
+		padding: 10px;
+	}
 `;
 
 const NavBar = styled.div`
@@ -23,7 +26,7 @@ const NavBar = styled.div`
 		transform: skew(-12deg);
 
 		@media (max-width: 660px) {
-			font-size: 24px;
+			font-size: 18px;
 		}
 	}
 
@@ -132,16 +135,6 @@ const Nav = () => (
 						</span>
 					</Link>
 
-					<Link
-						className="NavStyles"
-						to="/blog"
-						style={{
-							color: "white",
-							textDecoration: "none",
-							padding: "10px 20px"
-						}}
-					>
-					</Link>
 				</NavBar>
 			)}
 		</Spring>

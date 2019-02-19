@@ -25,11 +25,6 @@
         "path": "/blog/"
     },
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "jsonName": "dev-404-page-5f9",
-        "path": "/dev-404-page/"
-    },
-    {
         "componentChunkName": "component---src-pages-docs-js",
         "jsonName": "docs-7e8",
         "path": "/docs/"
@@ -38,6 +33,11 @@
         "componentChunkName": "component---src-pages-other-hobbies-js",
         "jsonName": "other-hobbies-a3e",
         "path": "/otherHobbies/"
+    },
+    {
+        "componentChunkName": "component---src-components-post-layout-js",
+        "jsonName": "raspberrycandy-i-made-a-vs-code-theme-e0f",
+        "path": "/raspberrycandy-i-made-a-vs-code-theme"
     },
     {
         "componentChunkName": "component---src-components-post-layout-js",
