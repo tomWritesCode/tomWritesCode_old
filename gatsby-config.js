@@ -6,7 +6,10 @@ module.exports = {
 	siteMetadata: {
 		title: "<tomWritesCode />",
 		description:
-			"Hi, my names Thomas and I write code, and drink lots of coffee."
+			"Hi, my names Thomas and I write code, and drink lots of coffee.",
+		url: "https://tomwritesco.de",
+		image: "/public/static/screen.png",
+		twitterUsername: "@tomwritescode",
 	},
 	plugins: [
 		"gatsby-plugin-react-helmet",
@@ -25,8 +28,8 @@ module.exports = {
 			}
 		},
 		"gatsby-transformer-remark",
-		"gatsby-transformer-sharp",
-		"gatsby-plugin-sharp",
+		// "gatsby-transformer-sharp",
+		// "gatsby-plugin-sharp",
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {

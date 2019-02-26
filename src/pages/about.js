@@ -1,4 +1,5 @@
 import React from "react";
+import Helmet from 'react-helmet';
 import Layout from "../components/Layout";
 // import { Link } from "gatsby";
 import { Spring } from "react-spring";
@@ -36,6 +37,9 @@ const Wrapper = styled.div`
 
 const About = () => (
 	<Layout>
+		<Helmet
+			title="<tomWritesAboutHimself />"
+		/>
 		<Spring
 			from={{ marginTop: "-20px", opacity: 0 }}
 			to={{ marginTop: "0", opacity: 1 }}
@@ -46,7 +50,7 @@ const About = () => (
 					<h3>I also write code.</h3>
 					<h3>Usually, It's doing both of those things at the same time.</h3>
 
-					<h3>I work the majority of the time with React, Emotion, Styled Components, Nodejs just to name a few.</h3>
+					<h3>I work the majority of the time with React, Gatsby, GraphQL, Emotion, Styled Components, Nodejs just to name a few. I work primarily on the front end but would love to have a full stack understanding of systems.</h3>
 
 				<hr/>
 

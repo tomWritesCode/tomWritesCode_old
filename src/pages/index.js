@@ -5,6 +5,7 @@ import styled from "@emotion/styled";
 import HomeLinks from "../components/HomeLinks";
 import ContactIcons from "../components/ContactIcons";
 import HomeNeon from "../components/NeonLanding/HomeNeon";
+import SEO from '../components/SEO';
 
 const Wrapper = styled.div`
 	color: white;
@@ -24,6 +25,7 @@ const IndexPage = () => (
 	<>
 		<HomeNeon />
 		<HomeLayout>
+			<SEO/>
 			<Spring
 				from={{ marginTop: "-20px", opacity: 0 }}
 				to={{ marginTop: "0", opacity: 1 }}
@@ -39,7 +41,7 @@ const IndexPage = () => (
 						<hr />
 						</h2>
 						<h3>
-							I work with React.js, GraphQL, Node.js, Emotion, Styled-Components
+							I work with React.js, Gatsby, GraphQL, Node.js, Emotion, Styled-Components
 							among some other technologies.
 						</h3>
 

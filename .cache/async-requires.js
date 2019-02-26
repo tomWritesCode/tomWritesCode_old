@@ -3,6 +3,7 @@ const preferDefault = m => m && m.default || m
 
 exports.components = {
   "component---src-components-post-layout-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js" /* webpackChunkName: "component---src-components-post-layout-js" */),
+  "component---cache-dev-404-page-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
   "component---src-pages-404-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-about-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
   "component---src-pages-blog-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js" /* webpackChunkName: "component---src-pages-blog-js" */),
@@ -11,5 +12,5 @@ exports.components = {
   "component---src-pages-other-hobbies-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js" /* webpackChunkName: "component---src-pages-other-hobbies-js" */)
 }
 
-exports.data = () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/data.json")
+exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/data.json")
 

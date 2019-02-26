@@ -6,11 +6,6 @@
     },
     {
         "componentChunkName": "component---src-pages-404-js",
-        "jsonName": "404-html-516",
-        "path": "/404.html"
-    },
-    {
-        "componentChunkName": "component---src-pages-404-js",
         "jsonName": "404-22d",
         "path": "/404/"
     },
@@ -23,6 +18,11 @@
         "componentChunkName": "component---src-pages-blog-js",
         "jsonName": "blog-f7a",
         "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-docs-js",
