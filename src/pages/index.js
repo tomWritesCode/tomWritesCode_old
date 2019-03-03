@@ -42,12 +42,12 @@ const IndexPage = () => (
 						</h2>
 						<h3>
 							I work with React.js, Gatsby, GraphQL, Node.js, Emotion, Styled-Components
-							among some other technologies.
+							among some other technologies. I am mainly a front-end developer but am always looking to expand my skill-set and abilities.
 						</h3>
 
 						<h3>
 							Feel free to check out some of my other stuff on GitHub, Twitter
-							and LinkedIn.
+							and LinkedIn, drop me a line on Twitter to get in touch.
 						</h3>
 						<ContactIcons />
 					</Wrapper>

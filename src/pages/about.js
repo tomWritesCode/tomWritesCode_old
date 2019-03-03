@@ -50,12 +50,12 @@ const About = () => (
 					<h3>I also write code.</h3>
 					<h3>Usually, It's doing both of those things at the same time.</h3>
 
-					<h3>I work the majority of the time with React, Gatsby, GraphQL, Emotion, Styled Components, Nodejs just to name a few. I work primarily on the front end but would love to have a full stack understanding of systems.</h3>
+					<h3>I work the majority of the time with React, Gatsby, GraphQL, Emotion, Styled Components, Nodejs just to name a few. I work primarily on the front end but would love to be able to build full-stack applications.</h3>
 
 				<hr/>
 
 					<h3>
-						I have made a VS Code theme which is published on the VS Code Marketplace. My theme, raspberryCandy is a Neon/Pastel theme runs heay on a neon electric aqua and a pastel pink/purple. Click the screenshot to check it out. 
+						I have made a VS Code theme which is published on the VS Code Marketplace. My theme, raspberryCandy is a Neon/Pastel theme runs heavy on a neon electric aqua and a pastel pink/purple. Click the screenshot to check it out. 
 					</h3>
 
 				<hr/>

@@ -10,7 +10,6 @@ const SEO = ({ title, description, image, pathname, article }) => (
       site: {
         siteMetadata: {
           defaultTitle,
-          titleTemplate,
           defaultDescription,
           siteUrl,
           defaultImage,
@@ -26,10 +25,10 @@ const SEO = ({ title, description, image, pathname, article }) => (
       }
       return(
         <>
-          <Helmet title={seo.title} titleTemplate={titleTemplate}>
+          <Helmet title={seo.title} titleTemplate={defaultTitle}>
             <meta name="description" content={seo.description} />
             <meta name="image" content={seo.image} />
-            {seo.url && <meta properyy="og:url" content={seo.url} />}
+            {seo.url && <meta property="og:url" content={seo.url} />}
             {(article ? true : null) && (
               <meta property="og:type" content="article" />
             )}
@@ -46,7 +45,7 @@ const SEO = ({ title, description, image, pathname, article }) => (
             {seo.description && (
               <meta name="twitter:description" content={seo.description} />
             )}
-            {seo.image && <meta name="twitter:image" conent={seo.image} />}
+            {seo.image && <meta name="twitter:image" content={seo.image} />}
           </Helmet>
         </>
       )
@@ -61,7 +60,6 @@ const query = graphql`
     site {
       siteMetadata {
         defaultTitle: title
-        titleTemplate
         defaultDescription: description
         siteUrl: url
         defaultImage: image

@@ -2495,7 +2495,7 @@
     "sq--src-components-home-layout-js": 3015029821,
     "sq--src-components-layouts-home-layout-js": 3015029821,
     "raspberrycandy-i-made-a-vs-code-theme-e0f": "397/path---raspberrycandy-i-made-a-vs-code-theme-e-0-f-ef3-cXQvyQJSAKSmW5GYUkdPeedJu0",
-    "sq--src-components-seo-js": 1376445457
+    "sq--src-components-seo-js": 728552493
   },
   "components": {
     "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js": {
@@ -2569,8 +2569,8 @@
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/SEO.js",
       "id": "sq--src-components-seo-js",
       "jsonName": "sq--src-components-seo-js",
-      "query": "query SEO {\n  site {\n    siteMetadata {\n      defaultTitle: title\n      titleTemplate\n      defaultDescription: description\n      siteUrl: url\n      defaultImage: image\n      twitterUsername\n    }\n  }\n}\n",
-      "hash": 1376445457
+      "query": "query SEO {\n  site {\n    siteMetadata {\n      defaultTitle: title\n      defaultDescription: description\n      siteUrl: url\n      defaultImage: image\n      twitterUsername\n    }\n  }\n}\n",
+      "hash": 728552493
     }
   }
 }
