@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#44e3dc","theme_color":"#44e3dc","display":"minimal-ui","icon":"./public/icons/favicon-256.png"},
+      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#16161d","theme_color":"#16161d","display":"minimal-ui","icon":"./public/icons/favicon-256.png"},
     },{
       plugin: require('/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":false},

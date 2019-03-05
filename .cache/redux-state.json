@@ -713,236 +713,9 @@
         "owner": "internal-data-bridge"
       }
     },
-    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
-      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-transformer-sharp",
-      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
-      "name": "gatsby-transformer-sharp",
-      "version": "2.1.8",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "onCreateNode",
-        "setFieldsOnGraphQLNodeType",
-        "onPreExtractQueries"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-transformer-sharp",
-      "packageJson": {
-        "name": "gatsby-transformer-sharp",
-        "description": "Gatsby transformer plugin for images using Sharp",
-        "version": "2.1.8",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "image",
-          "sharp"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "fs-extra",
-            "version": "^4.0.2"
-          },
-          {
-            "name": "potrace",
-            "version": "^2.1.1"
-          },
-          {
-            "name": "probe-image-size",
-            "version": "^4.0.0"
-          },
-          {
-            "name": "sharp",
-            "version": "^0.21.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.2"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.33"
-          },
-          {
-            "name": "gatsby-plugin-sharp",
-            "version": "^2.0.0-beta.3"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "b4325e7f5ff2309d4d59476082306821",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "84d6154d-4241-556c-a679-cc8339cac100": {
-      "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-sharp",
-      "id": "84d6154d-4241-556c-a679-cc8339cac100",
-      "name": "gatsby-plugin-sharp",
-      "version": "2.0.22",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "onPreInit"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-sharp",
-      "packageJson": {
-        "name": "gatsby-plugin-sharp",
-        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
-        "version": "2.0.22",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "image",
-          "sharp"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "async",
-            "version": "^2.1.2"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "fs-exists-cached",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "fs-extra",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "imagemin",
-            "version": "^6.0.0"
-          },
-          {
-            "name": "imagemin-mozjpeg",
-            "version": "^8.0.0"
-          },
-          {
-            "name": "imagemin-pngquant",
-            "version": "^6.0.0"
-          },
-          {
-            "name": "imagemin-webp",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "lodash",
-            "version": "^4.17.10"
-          },
-          {
-            "name": "mini-svg-data-uri",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "potrace",
-            "version": "^2.1.1"
-          },
-          {
-            "name": "probe-image-size",
-            "version": "^4.0.0"
-          },
-          {
-            "name": "progress",
-            "version": "^1.1.8"
-          },
-          {
-            "name": "sharp",
-            "version": "^0.21.3"
-          },
-          {
-            "name": "svgo",
-            "version": "^0.7.2"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "611fa231643ba4e72b9ffea288948384",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "b6971a8f-9078-5fc9-9b1f-2ec0539b1be9": {
+    "4f20e0e3-2401-5443-9774-455ba0602046": {
       "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/node_modules/gatsby-plugin-manifest",
-      "id": "b6971a8f-9078-5fc9-9b1f-2ec0539b1be9",
+      "id": "4f20e0e3-2401-5443-9774-455ba0602046",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.9",
       "pluginOptions": {
@@ -950,8 +723,8 @@
         "name": "gatsby-starter-default",
         "short_name": "starter",
         "start_url": "/",
-        "background_color": "#44e3dc",
-        "theme_color": "#44e3dc",
+        "background_color": "#16161d",
+        "theme_color": "#16161d",
         "display": "minimal-ui",
         "icon": "./public/icons/favicon-256.png"
       },
@@ -1026,7 +799,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "06d314d4d599acb1b548da531799959b",
+        "contentDigest": "4c094594d2620209d4c44c372b575936",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1405,7 +1178,7 @@
       "resolve": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "99284061dcc482ddb4a62684ac917d14",
+      "version": "f4708fac9e4a5fa9f1fe0c62037784d9",
       "pluginOptions": {
         "plugins": []
       },
@@ -1539,7 +1312,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "33b81a8eedd7b131897a76d2ca960fcc",
+        "contentDigest": "6461a492469d94e80b7e44457194fdd3",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1657,12 +1430,14 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2019-02-26T00:59:21.852Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-05T00:32:38.995Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c644a205008cca4948d205b8b1a8a1f9",
+        "contentDigest": "fdd561b712a59981b0f1e72ca1249134",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1672,7 +1447,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "984536fd0da9bc861ba19c6868029c33",
+        "contentDigest": "a94fa4a317fc66a6289f0499a7023101",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1684,7 +1459,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-19T06:17:25.780Z",
-      "accessTime": "2019-02-26T00:59:30.178Z",
+      "accessTime": "2019-03-05T00:32:45.751Z",
       "changeTime": "2019-02-19T06:17:25.780Z",
       "birthTime": "2018-12-02T23:01:55.425Z",
       "root": "/",
@@ -1702,11 +1477,11 @@
       "blksize": 4096,
       "ino": 8616218752,
       "blocks": 0,
-      "atimeMs": 1551142770177.5007,
+      "atimeMs": 1551745965750.8496,
       "mtimeMs": 1550557045780.1716,
       "ctimeMs": 1550557045780.1716,
       "birthtimeMs": 1543791715425.4329,
-      "atime": "2019-02-26T00:59:30.178Z",
+      "atime": "2019-03-05T00:32:45.751Z",
       "mtime": "2019-02-19T06:17:25.780Z",
       "ctime": "2019-02-19T06:17:25.780Z",
       "birthtime": "2018-12-02T23:01:55.425Z"
@@ -1729,7 +1504,7 @@
       "size": 11819,
       "prettySize": "11.8 kB",
       "modifiedTime": "2018-11-29T21:21:56.308Z",
-      "accessTime": "2019-02-26T00:55:52.585Z",
+      "accessTime": "2018-12-27T10:00:42.247Z",
       "changeTime": "2018-12-19T22:21:20.031Z",
       "birthTime": "2018-11-29T21:21:56.267Z",
       "root": "/",
@@ -1747,11 +1522,56 @@
       "blksize": 4096,
       "ino": 8616839800,
       "blocks": 24,
-      "atimeMs": 1551142552585.492,
+      "atimeMs": 1545904842247.0298,
       "mtimeMs": 1543526516308.0266,
       "ctimeMs": 1545258080031.4614,
       "birthtimeMs": 1543526516267.3442,
-      "atime": "2019-02-26T00:55:52.585Z",
+      "atime": "2018-12-27T10:00:42.247Z",
+      "mtime": "2018-11-29T21:21:56.308Z",
+      "ctime": "2018-12-19T22:21:20.031Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
+    },
+    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
+      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/github.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
+      "relativePath": "github.png",
+      "extension": "png",
+      "size": 23978,
+      "prettySize": "24 kB",
+      "modifiedTime": "2018-11-29T21:21:56.308Z",
+      "accessTime": "2018-12-27T10:00:42.247Z",
+      "changeTime": "2018-12-19T22:21:20.031Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "github.png",
+      "ext": ".png",
+      "name": "github",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8616839799,
+      "blocks": 48,
+      "atimeMs": 1545904842247.0222,
+      "mtimeMs": 1543526516307.99,
+      "ctimeMs": 1545258080030.6655,
+      "birthtimeMs": 1543526516267.245,
+      "atime": "2018-12-27T10:00:42.247Z",
       "mtime": "2018-11-29T21:21:56.308Z",
       "ctime": "2018-12-19T22:21:20.031Z",
       "birthtime": "2018-11-29T21:21:56.267Z"
@@ -1774,7 +1594,7 @@
       "size": 6182,
       "prettySize": "6.18 kB",
       "modifiedTime": "2018-11-29T21:21:56.275Z",
-      "accessTime": "2019-02-26T00:55:52.586Z",
+      "accessTime": "2018-12-27T10:00:42.247Z",
       "changeTime": "2018-12-19T22:21:20.032Z",
       "birthTime": "2018-11-29T21:21:56.267Z",
       "root": "/",
@@ -1792,58 +1612,13 @@
       "blksize": 4096,
       "ino": 8616839801,
       "blocks": 16,
-      "atimeMs": 1551142552585.538,
+      "atimeMs": 1545904842247.0334,
       "mtimeMs": 1543526516275.148,
       "ctimeMs": 1545258080032.4536,
       "birthtimeMs": 1543526516267.4275,
-      "atime": "2019-02-26T00:55:52.586Z",
+      "atime": "2018-12-27T10:00:42.247Z",
       "mtime": "2018-11-29T21:21:56.275Z",
       "ctime": "2018-12-19T22:21:20.032Z",
-      "birthtime": "2018-11-29T21:21:56.267Z"
-    },
-    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
-      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/github.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
-      "relativePath": "github.png",
-      "extension": "png",
-      "size": 23978,
-      "prettySize": "24 kB",
-      "modifiedTime": "2018-11-29T21:21:56.308Z",
-      "accessTime": "2019-02-26T00:55:52.585Z",
-      "changeTime": "2018-12-19T22:21:20.031Z",
-      "birthTime": "2018-11-29T21:21:56.267Z",
-      "root": "/",
-      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
-      "base": "github.png",
-      "ext": ".png",
-      "name": "github",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8616839799,
-      "blocks": 48,
-      "atimeMs": 1551142552585.445,
-      "mtimeMs": 1543526516307.99,
-      "ctimeMs": 1545258080030.6655,
-      "birthtimeMs": 1543526516267.245,
-      "atime": "2019-02-26T00:55:52.585Z",
-      "mtime": "2018-11-29T21:21:56.308Z",
-      "ctime": "2018-12-19T22:21:20.031Z",
       "birthtime": "2018-11-29T21:21:56.267Z"
     },
     "47d50a64-6cae-5644-bd64-fdbbff789304": {
@@ -1864,7 +1639,7 @@
       "size": 202686,
       "prettySize": "203 kB",
       "modifiedTime": "2019-02-18T23:18:56.761Z",
-      "accessTime": "2019-02-26T00:55:45.121Z",
+      "accessTime": "2019-02-19T11:15:03.760Z",
       "changeTime": "2019-02-19T05:54:56.856Z",
       "birthTime": "2019-02-18T23:18:56.713Z",
       "root": "/",
@@ -1882,11 +1657,11 @@
       "blksize": 4096,
       "ino": 8619757377,
       "blocks": 400,
-      "atimeMs": 1551142545121.4111,
+      "atimeMs": 1550574903759.9875,
       "mtimeMs": 1550531936760.9553,
       "ctimeMs": 1550555696855.8037,
       "birthtimeMs": 1550531936713.2578,
-      "atime": "2019-02-26T00:55:45.121Z",
+      "atime": "2019-02-19T11:15:03.760Z",
       "mtime": "2019-02-18T23:18:56.761Z",
       "ctime": "2019-02-19T05:54:56.856Z",
       "birthtime": "2019-02-18T23:18:56.713Z"
@@ -1909,7 +1684,7 @@
       "size": 143002,
       "prettySize": "143 kB",
       "modifiedTime": "2018-12-09T08:34:44.118Z",
-      "accessTime": "2019-02-26T00:55:45.121Z",
+      "accessTime": "2019-02-21T23:16:12.685Z",
       "changeTime": "2018-12-10T09:54:22.409Z",
       "birthTime": "2018-12-09T08:34:44.118Z",
       "root": "/",
@@ -1927,11 +1702,11 @@
       "blksize": 4096,
       "ino": 8616612952,
       "blocks": 280,
-      "atimeMs": 1551142545121.4595,
+      "atimeMs": 1550790972684.5845,
       "mtimeMs": 1544344484117.8904,
       "ctimeMs": 1544435662409.043,
       "birthtimeMs": 1544344484117.6846,
-      "atime": "2019-02-26T00:55:45.121Z",
+      "atime": "2019-02-21T23:16:12.685Z",
       "mtime": "2018-12-09T08:34:44.118Z",
       "ctime": "2018-12-10T09:54:22.409Z",
       "birthtime": "2018-12-09T08:34:44.118Z"
@@ -1954,7 +1729,7 @@
       "size": 437910,
       "prettySize": "438 kB",
       "modifiedTime": "2019-02-19T06:17:25.781Z",
-      "accessTime": "2019-02-26T00:55:45.122Z",
+      "accessTime": "2019-02-21T23:16:17.886Z",
       "changeTime": "2019-02-19T06:17:25.782Z",
       "birthTime": "2019-02-19T04:20:57.443Z",
       "root": "/",
@@ -1972,11 +1747,11 @@
       "blksize": 4096,
       "ino": 8619757407,
       "blocks": 856,
-      "atimeMs": 1551142545121.5044,
+      "atimeMs": 1550790977886.1206,
       "mtimeMs": 1550557045781,
       "ctimeMs": 1550557045782.4858,
       "birthtimeMs": 1550550057442.6348,
-      "atime": "2019-02-26T00:55:45.122Z",
+      "atime": "2019-02-21T23:16:17.886Z",
       "mtime": "2019-02-19T06:17:25.781Z",
       "ctime": "2019-02-19T06:17:25.782Z",
       "birthtime": "2019-02-19T04:20:57.443Z"
@@ -1986,7 +1761,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6a6b73b8703d0274a5c19975c30d775b",
+        "contentDigest": "a6b784c6b562a639cddce641e0dfebad",
         "type": "Directory",
         "description": "Directory \"src/siteDocs\"",
         "owner": "gatsby-source-filesystem"
@@ -1998,7 +1773,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-04T05:14:55.386Z",
-      "accessTime": "2019-02-26T00:59:30.429Z",
+      "accessTime": "2019-03-05T00:32:45.781Z",
       "changeTime": "2018-12-04T05:14:55.386Z",
       "birthTime": "2018-12-02T23:51:39.707Z",
       "root": "/",
@@ -2016,11 +1791,11 @@
       "blksize": 4096,
       "ino": 8616222701,
       "blocks": 0,
-      "atimeMs": 1551142770428.566,
+      "atimeMs": 1551745965781.0815,
       "mtimeMs": 1543900495385.9094,
       "ctimeMs": 1543900495385.9094,
       "birthtimeMs": 1543794699707.1155,
-      "atime": "2019-02-26T00:59:30.429Z",
+      "atime": "2019-03-05T00:32:45.781Z",
       "mtime": "2018-12-04T05:14:55.386Z",
       "ctime": "2018-12-04T05:14:55.386Z",
       "birthtime": "2018-12-02T23:51:39.707Z"
@@ -2425,6 +2200,26 @@
         "description": "88db0ef3-6758-5082-a550-dec327bc044f",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8276fbd4c8c83093fbc6da846fcea636",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -2433,7 +2228,7 @@
         "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybChcK0YhlbejTDqsKhw6pHwq_CqRUWScK9XcKhw6bCgxhvw74qwrYla3nCkGTChsKAcQMjwqNKw7PCtT94RMKNVSFbwqDDm8KAKMKXDU4lwofDjxNFBV8_Y8Oo"
       }
     },
-    "PLUGINS_HASH": "ec6dae098d8c89cbac5cc9af532ea8be"
+    "PLUGINS_HASH": "aba9c2bec570f5d8f01de427d1ebd0be"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2453,11 +2248,11 @@
       "2010fc40-2bad-59fd-a4f9-4072fa2bf6b9": [
         "/raspberrycandy-i-made-a-vs-code-theme"
       ],
-      "07b0e325-f7fd-5f3a-802a-c6b850300010": [
-        "/wasnt-build-in-a-day"
-      ],
       "e8edbb7b-456d-5237-862c-6f51bf833973": [
         "/raspberrycandy-i-made-a-vs-code-theme"
+      ],
+      "07b0e325-f7fd-5f3a-802a-c6b850300010": [
+        "/wasnt-build-in-a-day"
       ],
       "5bb13972-4f48-5983-9c05-a264bf656036": [
         "/wasnt-build-in-a-day"
@@ -2465,6 +2260,7 @@
     },
     "connections": {
       "ContentfulTomWritesCodeBlog": [
+        null,
         null,
         "sq--src-components-blog-list-js"
       ],
@@ -2502,10 +2298,6 @@
       "query": "query PostQuery(\n  $slug: String!\n) {\n  contentfulTomWritesCodeBlog(slug: {eq: $slug}) {\n    title\n    date(formatString: \"DD-MMMM-YYYY\")\n    intro\n    post {\n      childMarkdownRemark {\n        html\n      }\n    }\n  }\n}\n",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js"
     },
-    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js"
-    },
     "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js": {
       "query": "",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js"
@@ -2529,17 +2321,13 @@
     "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js": {
       "query": "",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-blog-list-js": {
-      "name": "BLOG_POST_QUERY",
-      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/BlogList.js",
-      "id": "sq--src-components-blog-list-js",
-      "jsonName": "sq--src-components-blog-list-js",
-      "query": "query BLOG_POST_QUERY {\n  allContentfulTomWritesCodeBlog(sort: {order: DESC, fields: [updatedAt]}) {\n    edges {\n      node {\n        intro\n        slug\n        title\n        updatedAt(formatString: \"DD-MMMM-YYYY\")\n        post {\n          post\n        }\n      }\n    }\n  }\n}\n",
-      "hash": 2604983828
-    },
     "sq--src-components-docs-js": {
       "name": "DocsQuery",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Docs.js",
@@ -2548,13 +2336,13 @@
       "query": "query DocsQuery {\n  allMarkdownRemark(filter: {frontmatter: {slug: {eq: \"/docs\"}}}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          slug\n        }\n        html\n        id\n      }\n    }\n  }\n}\n",
       "hash": 3771703249
     },
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
-      "hash": 1415471421
+    "sq--src-components-blog-list-js": {
+      "name": "BLOG_POST_QUERY",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/BlogList.js",
+      "id": "sq--src-components-blog-list-js",
+      "jsonName": "sq--src-components-blog-list-js",
+      "query": "query BLOG_POST_QUERY {\n  allContentfulTomWritesCodeBlog(sort: {order: DESC, fields: [updatedAt]}) {\n    edges {\n      node {\n        intro\n        slug\n        title\n        updatedAt(formatString: \"DD-MMMM-YYYY\")\n        post {\n          post\n        }\n      }\n    }\n  }\n}\n",
+      "hash": 2604983828
     },
     "sq--src-components-layouts-home-layout-js": {
       "name": "HomeTitleQuery",
@@ -2563,6 +2351,14 @@
       "jsonName": "sq--src-components-layouts-home-layout-js",
       "query": "query HomeTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
       "hash": 3015029821
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 1415471421
     },
     "sq--src-components-seo-js": {
       "name": "SEO",
