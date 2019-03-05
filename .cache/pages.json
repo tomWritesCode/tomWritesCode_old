@@ -35,6 +35,11 @@
         "path": "/docs/"
     },
     {
+        "componentChunkName": "component---src-components-post-layout-js",
+        "jsonName": "hosting-a-gatsby-site-on-zeit-now-47a",
+        "path": "/hosting-a-gatsby-site-on-zeit-now"
+    },
+    {
         "componentChunkName": "component---src-pages-other-hobbies-js",
         "jsonName": "other-hobbies-a3e",
         "path": "/otherHobbies/"

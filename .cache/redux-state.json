@@ -1432,12 +1432,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-05T00:32:38.995Z",
+      "buildTime": "2019-03-05T11:43:37.789Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "fdd561b712a59981b0f1e72ca1249134",
+        "contentDigest": "16487dabeafbbea9700b76dda2a383c0",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1447,7 +1447,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a94fa4a317fc66a6289f0499a7023101",
+        "contentDigest": "1f4d4153a0983fe46ebe23b37afccd1e",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1459,7 +1459,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-19T06:17:25.780Z",
-      "accessTime": "2019-03-05T00:32:45.751Z",
+      "accessTime": "2019-03-05T11:43:44.563Z",
       "changeTime": "2019-02-19T06:17:25.780Z",
       "birthTime": "2018-12-02T23:01:55.425Z",
       "root": "/",
@@ -1477,11 +1477,11 @@
       "blksize": 4096,
       "ino": 8616218752,
       "blocks": 0,
-      "atimeMs": 1551745965750.8496,
+      "atimeMs": 1551786224563.461,
       "mtimeMs": 1550557045780.1716,
       "ctimeMs": 1550557045780.1716,
       "birthtimeMs": 1543791715425.4329,
-      "atime": "2019-03-05T00:32:45.751Z",
+      "atime": "2019-03-05T11:43:44.563Z",
       "mtime": "2019-02-19T06:17:25.780Z",
       "ctime": "2019-02-19T06:17:25.780Z",
       "birthtime": "2018-12-02T23:01:55.425Z"
@@ -1761,7 +1761,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a6b784c6b562a639cddce641e0dfebad",
+        "contentDigest": "8f6812ec1120021c400a781b0a7e4eb2",
         "type": "Directory",
         "description": "Directory \"src/siteDocs\"",
         "owner": "gatsby-source-filesystem"
@@ -1773,7 +1773,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-04T05:14:55.386Z",
-      "accessTime": "2019-03-05T00:32:45.781Z",
+      "accessTime": "2019-03-05T11:43:44.595Z",
       "changeTime": "2018-12-04T05:14:55.386Z",
       "birthTime": "2018-12-02T23:51:39.707Z",
       "root": "/",
@@ -1791,11 +1791,11 @@
       "blksize": 4096,
       "ino": 8616222701,
       "blocks": 0,
-      "atimeMs": 1551745965781.0815,
+      "atimeMs": 1551786224594.7842,
       "mtimeMs": 1543900495385.9094,
       "ctimeMs": 1543900495385.9094,
       "birthtimeMs": 1543794699707.1155,
-      "atime": "2019-03-05T00:32:45.781Z",
+      "atime": "2019-03-05T11:43:44.595Z",
       "mtime": "2018-12-04T05:14:55.386Z",
       "ctime": "2018-12-04T05:14:55.386Z",
       "birthtime": "2018-12-02T23:51:39.707Z"
@@ -2037,6 +2037,81 @@
       "excerpt": "",
       "rawMarkdownBody": "This is a personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. \n\n\nSo, tomWritesCode, a site to house my blog, and just some basic stuff about me. It only took what felt like 300 years to make, a series of pushbacks due to other things I wanted to make and the constant learning of new things which makes more revisions etc, etc, (I'm sure that if you have ever made your own site you will know the feeling.)\n\n\nI went with a neon theme after playing around with a flicker animation for an idea, now it's the base of my whole site. the flicker annimation is using keyframes and there is another class for a delay to use the same animation on the same page.\n"
     },
+    "0cfaa59b-0be1-527e-a207-614b6904683f": {
+      "title": "Hosting a Gatsby Site on Zeit Now",
+      "slug": "hosting-a-gatsby-site-on-zeit-now",
+      "date": "2019-03-05",
+      "intro": "I recently launched my website, and with that comes hosting. I was originally going to go with Netlify for my hosting but ended up with Zeit's Now service. ",
+      "post___NODE": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
+      "id": "0cfaa59b-0be1-527e-a207-614b6904683f",
+      "contentful_id": "4lOF7VVbQYkViVmTSJpSmf",
+      "createdAt": "2019-03-05T11:35:39.511Z",
+      "updatedAt": "2019-03-05T11:35:39.511Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "de2f9dd4-848f-5cc2-908d-3517fbc52c38"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "b64d2a6338d857466463c86b2a9822da",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "de2f9dd4-848f-5cc2-908d-3517fbc52c38": {
+      "id": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
+      "parent": "0cfaa59b-0be1-527e-a207-614b6904683f",
+      "children": [
+        "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5"
+      ],
+      "post": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
+        "contentDigest": "46e8c99461109f010e986f0f0b86299b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5": {
+      "id": "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5",
+      "children": [],
+      "parent": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
+      "internal": {
+        "content": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
+        "type": "MarkdownRemark",
+        "contentDigest": "e1007339a129416ff5e25382c15e3d06",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "de2f9dd4-848f-5cc2-908d-3517fbc52c38"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. "
+    },
+    "SitePage /hosting-a-gatsby-site-on-zeit-now": {
+      "jsonName": "hosting-a-gatsby-site-on-zeit-now-47a",
+      "internalComponentName": "ComponentHostingAGatsbySiteOnZeitNow",
+      "path": "/hosting-a-gatsby-site-on-zeit-now",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "hosting-a-gatsby-site-on-zeit-now"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /hosting-a-gatsby-site-on-zeit-now",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "079185c3c2263464f26fe54ad89ffbd6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /raspberrycandy-i-made-a-vs-code-theme": {
       "jsonName": "raspberrycandy-i-made-a-vs-code-theme-e0f",
       "internalComponentName": "ComponentRaspberrycandyIMadeAVsCodeTheme",
@@ -2225,7 +2300,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybChcK0YhlbejTDqsKhw6pHwq_CqRUWScK9XcKhw6bCgxhvw74qwrYla3nCkGTChsKAcQMjwqNKw7PCtT94RMKNVSFbwqDDm8KAKMKXDU4lwofDjxNFBV8_Y8Oo"
+        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDsD3Dg03Cn1wow4MyNHPCp8OEGRvDi8O9cGrCpWrCkgXDi3bDh2zCqsKpwqh_wqTCv8O_S8KCw5LCp8KlZlvDvsO-L8OVwoNeIcKywoY7OWHDsnHCo31Ww63Dq1sUXsOc"
       }
     },
     "PLUGINS_HASH": "aba9c2bec570f5d8f01de427d1ebd0be"
@@ -2256,6 +2331,16 @@
       ],
       "5bb13972-4f48-5983-9c05-a264bf656036": [
         "/wasnt-build-in-a-day"
+      ],
+      "de2f9dd4-848f-5cc2-908d-3517fbc52c38": [
+        "/hosting-a-gatsby-site-on-zeit-now",
+        "sq--src-components-blog-list-js"
+      ],
+      "0cfaa59b-0be1-527e-a207-614b6904683f": [
+        "/hosting-a-gatsby-site-on-zeit-now"
+      ],
+      "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5": [
+        "/hosting-a-gatsby-site-on-zeit-now"
       ]
     },
     "connections": {
@@ -2291,7 +2376,8 @@
     "sq--src-components-home-layout-js": 3015029821,
     "sq--src-components-layouts-home-layout-js": 3015029821,
     "raspberrycandy-i-made-a-vs-code-theme-e0f": "397/path---raspberrycandy-i-made-a-vs-code-theme-e-0-f-ef3-cXQvyQJSAKSmW5GYUkdPeedJu0",
-    "sq--src-components-seo-js": 728552493
+    "sq--src-components-seo-js": 728552493,
+    "hosting-a-gatsby-site-on-zeit-now-47a": "604/path---hosting-a-gatsby-site-on-zeit-now-47-a-ae7-FQWdjVtRTr8VCRSmAQFQCoFis"
   },
   "components": {
     "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js": {
