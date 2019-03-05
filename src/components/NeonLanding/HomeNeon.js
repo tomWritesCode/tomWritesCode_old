@@ -20,6 +20,7 @@ const PageWrapper = styled.div`
 	height: 400px;
 	background: #16161d;
 	.TextWrap {
+		margin-top: 50px;
 	}
 	h2 {
 		font-size: 18vw;
