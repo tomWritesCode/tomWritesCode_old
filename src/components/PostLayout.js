@@ -43,6 +43,11 @@ const BlogContent = styled.div`
 	font-family: sans-serif;
 	color: white;
 
+	img{
+		display: block;
+		margin: 0 auto;
+	}
+
 	a {
 		color: white;
 		font-weight: bold;
@@ -70,6 +75,12 @@ const BlogContent = styled.div`
 			margin-bottom: 10px;
 			padding-right: 5px;
 		}
+	}
+
+	pre {
+		background-image: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
+		border-radius: 35px 15px 0 35px;
+		font-weight: bold;
 	}
 	hr {
 		background: #00bcd4;

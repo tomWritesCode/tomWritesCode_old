@@ -33,6 +33,7 @@ const Wrapper = styled.div`
 `;
 
 const Post = styled.article`
+	margin: 0 auto;
 	font-family: sans-serif;
 	background: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
 	box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);

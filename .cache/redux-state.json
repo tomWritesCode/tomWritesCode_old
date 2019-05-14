@@ -1432,12 +1432,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-05T11:43:37.789Z",
+      "buildTime": "2019-05-14T08:32:59.082Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "16487dabeafbbea9700b76dda2a383c0",
+        "contentDigest": "22f30f2c6413b3947876c869be34655f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1447,7 +1447,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1f4d4153a0983fe46ebe23b37afccd1e",
+        "contentDigest": "e19e354474032cb3b63d6686bd6a32f9",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1459,7 +1459,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-19T06:17:25.780Z",
-      "accessTime": "2019-03-05T11:43:44.563Z",
+      "accessTime": "2019-05-14T08:33:04.701Z",
       "changeTime": "2019-02-19T06:17:25.780Z",
       "birthTime": "2018-12-02T23:01:55.425Z",
       "root": "/",
@@ -1477,11 +1477,11 @@
       "blksize": 4096,
       "ino": 8616218752,
       "blocks": 0,
-      "atimeMs": 1551786224563.461,
+      "atimeMs": 1557822784701.2578,
       "mtimeMs": 1550557045780.1716,
       "ctimeMs": 1550557045780.1716,
       "birthtimeMs": 1543791715425.4329,
-      "atime": "2019-03-05T11:43:44.563Z",
+      "atime": "2019-05-14T08:33:04.701Z",
       "mtime": "2019-02-19T06:17:25.780Z",
       "ctime": "2019-02-19T06:17:25.780Z",
       "birthtime": "2018-12-02T23:01:55.425Z"
@@ -1504,7 +1504,7 @@
       "size": 11819,
       "prettySize": "11.8 kB",
       "modifiedTime": "2018-11-29T21:21:56.308Z",
-      "accessTime": "2018-12-27T10:00:42.247Z",
+      "accessTime": "2019-03-05T12:13:55.914Z",
       "changeTime": "2018-12-19T22:21:20.031Z",
       "birthTime": "2018-11-29T21:21:56.267Z",
       "root": "/",
@@ -1522,56 +1522,11 @@
       "blksize": 4096,
       "ino": 8616839800,
       "blocks": 24,
-      "atimeMs": 1545904842247.0298,
+      "atimeMs": 1551788035913.7332,
       "mtimeMs": 1543526516308.0266,
       "ctimeMs": 1545258080031.4614,
       "birthtimeMs": 1543526516267.3442,
-      "atime": "2018-12-27T10:00:42.247Z",
-      "mtime": "2018-11-29T21:21:56.308Z",
-      "ctime": "2018-12-19T22:21:20.031Z",
-      "birthtime": "2018-11-29T21:21:56.267Z"
-    },
-    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
-      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/github.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
-      "relativePath": "github.png",
-      "extension": "png",
-      "size": 23978,
-      "prettySize": "24 kB",
-      "modifiedTime": "2018-11-29T21:21:56.308Z",
-      "accessTime": "2018-12-27T10:00:42.247Z",
-      "changeTime": "2018-12-19T22:21:20.031Z",
-      "birthTime": "2018-11-29T21:21:56.267Z",
-      "root": "/",
-      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
-      "base": "github.png",
-      "ext": ".png",
-      "name": "github",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8616839799,
-      "blocks": 48,
-      "atimeMs": 1545904842247.0222,
-      "mtimeMs": 1543526516307.99,
-      "ctimeMs": 1545258080030.6655,
-      "birthtimeMs": 1543526516267.245,
-      "atime": "2018-12-27T10:00:42.247Z",
+      "atime": "2019-03-05T12:13:55.914Z",
       "mtime": "2018-11-29T21:21:56.308Z",
       "ctime": "2018-12-19T22:21:20.031Z",
       "birthtime": "2018-11-29T21:21:56.267Z"
@@ -1594,7 +1549,7 @@
       "size": 6182,
       "prettySize": "6.18 kB",
       "modifiedTime": "2018-11-29T21:21:56.275Z",
-      "accessTime": "2018-12-27T10:00:42.247Z",
+      "accessTime": "2019-03-05T12:13:55.914Z",
       "changeTime": "2018-12-19T22:21:20.032Z",
       "birthTime": "2018-11-29T21:21:56.267Z",
       "root": "/",
@@ -1612,41 +1567,41 @@
       "blksize": 4096,
       "ino": 8616839801,
       "blocks": 16,
-      "atimeMs": 1545904842247.0334,
+      "atimeMs": 1551788035913.742,
       "mtimeMs": 1543526516275.148,
       "ctimeMs": 1545258080032.4536,
       "birthtimeMs": 1543526516267.4275,
-      "atime": "2018-12-27T10:00:42.247Z",
+      "atime": "2019-03-05T12:13:55.914Z",
       "mtime": "2018-11-29T21:21:56.275Z",
       "ctime": "2018-12-19T22:21:20.032Z",
       "birthtime": "2018-11-29T21:21:56.267Z"
     },
-    "47d50a64-6cae-5644-bd64-fdbbff789304": {
-      "id": "47d50a64-6cae-5644-bd64-fdbbff789304",
+    "b2163dc5-37e7-5ece-b153-0fc7274aa3b7": {
+      "id": "b2163dc5-37e7-5ece-b153-0fc7274aa3b7",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4b81d8dd28971e397ecb6029290fbacd",
+        "contentDigest": "84ee0ad13b95bfa655019a268de33cb0",
         "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/fullLogo.jpg\"",
+        "mediaType": "image/png",
+        "description": "File \"src/images/github.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/fullLogo.jpg",
-      "relativePath": "fullLogo.jpg",
-      "extension": "jpg",
-      "size": 202686,
-      "prettySize": "203 kB",
-      "modifiedTime": "2019-02-18T23:18:56.761Z",
-      "accessTime": "2019-02-19T11:15:03.760Z",
-      "changeTime": "2019-02-19T05:54:56.856Z",
-      "birthTime": "2019-02-18T23:18:56.713Z",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/github.png",
+      "relativePath": "github.png",
+      "extension": "png",
+      "size": 23978,
+      "prettySize": "24 kB",
+      "modifiedTime": "2018-11-29T21:21:56.308Z",
+      "accessTime": "2019-03-05T12:13:55.914Z",
+      "changeTime": "2018-12-19T22:21:20.031Z",
+      "birthTime": "2018-11-29T21:21:56.267Z",
       "root": "/",
       "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
-      "base": "fullLogo.jpg",
-      "ext": ".jpg",
-      "name": "fullLogo",
+      "base": "github.png",
+      "ext": ".png",
+      "name": "github",
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 33188,
@@ -1655,16 +1610,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8619757377,
-      "blocks": 400,
-      "atimeMs": 1550574903759.9875,
-      "mtimeMs": 1550531936760.9553,
-      "ctimeMs": 1550555696855.8037,
-      "birthtimeMs": 1550531936713.2578,
-      "atime": "2019-02-19T11:15:03.760Z",
-      "mtime": "2019-02-18T23:18:56.761Z",
-      "ctime": "2019-02-19T05:54:56.856Z",
-      "birthtime": "2019-02-18T23:18:56.713Z"
+      "ino": 8616839799,
+      "blocks": 48,
+      "atimeMs": 1551788035913.724,
+      "mtimeMs": 1543526516307.99,
+      "ctimeMs": 1545258080030.6655,
+      "birthtimeMs": 1543526516267.245,
+      "atime": "2019-03-05T12:13:55.914Z",
+      "mtime": "2018-11-29T21:21:56.308Z",
+      "ctime": "2018-12-19T22:21:20.031Z",
+      "birthtime": "2018-11-29T21:21:56.267Z"
     },
     "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3": {
       "id": "e524ba57-a5c8-5f27-b30b-74b2d23b6bf3",
@@ -1684,7 +1639,7 @@
       "size": 143002,
       "prettySize": "143 kB",
       "modifiedTime": "2018-12-09T08:34:44.118Z",
-      "accessTime": "2019-02-21T23:16:12.685Z",
+      "accessTime": "2019-03-05T12:13:47.099Z",
       "changeTime": "2018-12-10T09:54:22.409Z",
       "birthTime": "2018-12-09T08:34:44.118Z",
       "root": "/",
@@ -1702,11 +1657,11 @@
       "blksize": 4096,
       "ino": 8616612952,
       "blocks": 280,
-      "atimeMs": 1550790972684.5845,
+      "atimeMs": 1551788027099.4504,
       "mtimeMs": 1544344484117.8904,
       "ctimeMs": 1544435662409.043,
       "birthtimeMs": 1544344484117.6846,
-      "atime": "2019-02-21T23:16:12.685Z",
+      "atime": "2019-03-05T12:13:47.099Z",
       "mtime": "2018-12-09T08:34:44.118Z",
       "ctime": "2018-12-10T09:54:22.409Z",
       "birthtime": "2018-12-09T08:34:44.118Z"
@@ -1729,7 +1684,7 @@
       "size": 437910,
       "prettySize": "438 kB",
       "modifiedTime": "2019-02-19T06:17:25.781Z",
-      "accessTime": "2019-02-21T23:16:17.886Z",
+      "accessTime": "2019-03-05T12:13:47.100Z",
       "changeTime": "2019-02-19T06:17:25.782Z",
       "birthTime": "2019-02-19T04:20:57.443Z",
       "root": "/",
@@ -1747,21 +1702,66 @@
       "blksize": 4096,
       "ino": 8619757407,
       "blocks": 856,
-      "atimeMs": 1550790977886.1206,
+      "atimeMs": 1551788027099.5046,
       "mtimeMs": 1550557045781,
       "ctimeMs": 1550557045782.4858,
       "birthtimeMs": 1550550057442.6348,
-      "atime": "2019-02-21T23:16:17.886Z",
+      "atime": "2019-03-05T12:13:47.100Z",
       "mtime": "2019-02-19T06:17:25.781Z",
       "ctime": "2019-02-19T06:17:25.782Z",
       "birthtime": "2019-02-19T04:20:57.443Z"
+    },
+    "47d50a64-6cae-5644-bd64-fdbbff789304": {
+      "id": "47d50a64-6cae-5644-bd64-fdbbff789304",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4b81d8dd28971e397ecb6029290fbacd",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/fullLogo.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images/fullLogo.jpg",
+      "relativePath": "fullLogo.jpg",
+      "extension": "jpg",
+      "size": 202686,
+      "prettySize": "203 kB",
+      "modifiedTime": "2019-02-18T23:18:56.761Z",
+      "accessTime": "2019-03-05T12:13:47.099Z",
+      "changeTime": "2019-02-19T05:54:56.856Z",
+      "birthTime": "2019-02-18T23:18:56.713Z",
+      "root": "/",
+      "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/images",
+      "base": "fullLogo.jpg",
+      "ext": ".jpg",
+      "name": "fullLogo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8619757377,
+      "blocks": 400,
+      "atimeMs": 1551788027099.3894,
+      "mtimeMs": 1550531936760.9553,
+      "ctimeMs": 1550555696855.8037,
+      "birthtimeMs": 1550531936713.2578,
+      "atime": "2019-03-05T12:13:47.099Z",
+      "mtime": "2019-02-18T23:18:56.761Z",
+      "ctime": "2019-02-19T05:54:56.856Z",
+      "birthtime": "2019-02-18T23:18:56.713Z"
     },
     "9026e89b-a3cf-548d-a5e2-fa459d0d62c6": {
       "id": "9026e89b-a3cf-548d-a5e2-fa459d0d62c6",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8f6812ec1120021c400a781b0a7e4eb2",
+        "contentDigest": "e011bf527ddb806b09a63e35b3a4b4dd",
         "type": "Directory",
         "description": "Directory \"src/siteDocs\"",
         "owner": "gatsby-source-filesystem"
@@ -1773,7 +1773,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-04T05:14:55.386Z",
-      "accessTime": "2019-03-05T11:43:44.595Z",
+      "accessTime": "2019-05-14T08:33:04.734Z",
       "changeTime": "2018-12-04T05:14:55.386Z",
       "birthTime": "2018-12-02T23:51:39.707Z",
       "root": "/",
@@ -1791,11 +1791,11 @@
       "blksize": 4096,
       "ino": 8616222701,
       "blocks": 0,
-      "atimeMs": 1551786224594.7842,
+      "atimeMs": 1557822784734.0325,
       "mtimeMs": 1543900495385.9094,
       "ctimeMs": 1543900495385.9094,
       "birthtimeMs": 1543794699707.1155,
-      "atime": "2019-03-05T11:43:44.595Z",
+      "atime": "2019-05-14T08:33:04.734Z",
       "mtime": "2018-12-04T05:14:55.386Z",
       "ctime": "2018-12-04T05:14:55.386Z",
       "birthtime": "2018-12-02T23:51:39.707Z"
@@ -1807,7 +1807,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "19521628b3b2e3bdd30715acd0ebb8d4",
+        "contentDigest": "bdb60a7eb6f62a34caf4c3e5b7015f19",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/siteDocs/Docs.md\"",
@@ -1817,11 +1817,11 @@
       "absolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md",
       "relativePath": "Docs.md",
       "extension": "md",
-      "size": 3151,
-      "prettySize": "3.15 kB",
-      "modifiedTime": "2019-02-19T08:19:00.132Z",
-      "accessTime": "2019-02-19T11:15:03.760Z",
-      "changeTime": "2019-02-19T08:19:00.132Z",
+      "size": 5254,
+      "prettySize": "5.25 kB",
+      "modifiedTime": "2019-04-17T22:58:49.534Z",
+      "accessTime": "2019-04-17T23:00:08.018Z",
+      "changeTime": "2019-04-17T22:58:49.534Z",
       "birthTime": "2018-12-02T23:52:44.369Z",
       "root": "/",
       "dir": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs",
@@ -1837,34 +1837,15 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 8616222734,
-      "blocks": 8,
-      "atimeMs": 1550574903760.4343,
-      "mtimeMs": 1550564340131.608,
-      "ctimeMs": 1550564340131.608,
+      "blocks": 16,
+      "atimeMs": 1555542008018.137,
+      "mtimeMs": 1555541929534.441,
+      "ctimeMs": 1555541929534.441,
       "birthtimeMs": 1543794764369.3396,
-      "atime": "2019-02-19T11:15:03.760Z",
-      "mtime": "2019-02-19T08:19:00.132Z",
-      "ctime": "2019-02-19T08:19:00.132Z",
+      "atime": "2019-04-17T23:00:08.018Z",
+      "mtime": "2019-04-17T22:58:49.534Z",
+      "ctime": "2019-04-17T22:58:49.534Z",
       "birthtime": "2018-12-02T23:52:44.369Z"
-    },
-    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
-      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
-      "children": [],
-      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
-      "internal": {
-        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n## raspberryCandy - <a href=\"https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy\" target=\"_blank\">VS Code Marketplace</a>\n\n  This theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.\n\n  The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.\n\n  ![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)\n\n***\n\n## dadJokes() - <a href=\"https://github.com/tomWritesCode/dadJokes\" target=\"_blank\">Check out the codebase</a>\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n\n***\n\n## tomWritesCode - <a href=\"https://github.com/tomWritesCode/tomWritesCode\" target=\"_blank\">Check out the codebase</a>\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n\nOnce that has been done the selected joke is then set into the joke and punchline sections of the page. \n",
-        "type": "MarkdownRemark",
-        "contentDigest": "ed3760453ebbbc92c475f51bc05bf00d",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "tomWritesCode - How I build the things.",
-        "slug": "/docs",
-        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it. \n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*** \n\n## raspberryCandy - <a href=\"https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy\" target=\"_blank\">VS Code Marketplace</a>\n\n  This theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.\n\n  The name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.\n\n  ![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)\n\n***\n\n## dadJokes() - <a href=\"https://github.com/tomWritesCode/dadJokes\" target=\"_blank\">Check out the codebase</a>\n  This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day. \n\n  Built in Gatsby because that is what I always reach for when I want to make something quickly. \n\n  The main logic behind it working is the array of objects in JokeList.js:\n\n  ```javascript\n    const JokeList = [\n      {\n        joke: `Did you hear about the restaurant on the moon?`,\n        punchLine: `Great food, no atmosphere.`,\n      },\n    ]\n  ```\n  This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n  ```javascript\n  function NewJoke() {\n  // jokeGenerator();\n    const returnedJoke = jokeGenerator()\n  // Will not generate joke twice in a row\n    document.getElementById('Joke').innerHTML = returnedJoke.joke\n    document.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n  }\n  ```\n\n  The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is. \n\n  ```javascript\n    function getRandomInt(max) {\n      return Math.floor(Math.random() * Math.floor(max))\n    }\n\n    function jokeGenerator() {\n      return JokeList[getRandomInt(JokeList.length)]\n    }\n  ```\n\n***\n\n## tomWritesCode - <a href=\"https://github.com/tomWritesCode/tomWritesCode\" target=\"_blank\">Check out the codebase</a>\n  This site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts. \n\n  ```javascript\n  tomWritesCode = () => {\n    const React = true;\n    const GatsbyJS = true;\n    const Blog = Contentful;\n    const styling = StyledComponents;\n    const stylingAlso = Emotion;\n  }\n  ```\n\n***\n\nOnce that has been done the selected joke is then set into the joke and punchline sections of the page. \n",
-      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
     },
     "3e9bd746-91be-5838-b91c-b28f06440676": {
       "id": "3e9bd746-91be-5838-b91c-b28f06440676",
@@ -1879,6 +1860,27 @@
         "owner": "gatsby-source-contentful"
       }
     },
+    "0cfaa59b-0be1-527e-a207-614b6904683f": {
+      "title": "Hosting a Gatsby Site on Zeit Now",
+      "slug": "hosting-a-gatsby-site-on-zeit-now",
+      "date": "2019-03-05",
+      "intro": "I recently launched my website, and with that comes hosting. I was originally going to go with Netlify for my hosting but ended up with Zeit's Now service. ",
+      "post___NODE": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
+      "id": "0cfaa59b-0be1-527e-a207-614b6904683f",
+      "contentful_id": "4lOF7VVbQYkViVmTSJpSmf",
+      "createdAt": "2019-03-05T11:35:39.511Z",
+      "updatedAt": "2019-03-05T12:17:17.774Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "de2f9dd4-848f-5cc2-908d-3517fbc52c38"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "a8aa23c12c4d35e99bf98fafe2c66d9f",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
     "2010fc40-2bad-59fd-a4f9-4072fa2bf6b9": {
       "title": "raspberryCandy - I made a VS Code theme",
       "slug": "raspberrycandy-i-made-a-vs-code-theme",
@@ -1888,14 +1890,14 @@
       "id": "2010fc40-2bad-59fd-a4f9-4072fa2bf6b9",
       "contentful_id": "6QUIByBlQrrbsfS3HL8qER",
       "createdAt": "2019-02-19T11:32:34.400Z",
-      "updatedAt": "2019-02-19T11:32:34.400Z",
+      "updatedAt": "2019-05-05T05:11:42.430Z",
       "parent": "tomWritesCode Blog",
       "children": [
         "18edb6d1-c54b-5e6e-99b1-baeeac871941"
       ],
       "internal": {
         "type": "ContentfulTomWritesCodeBlog",
-        "contentDigest": "4b556d78588af8ce9a41a5012334659f",
+        "contentDigest": "0bde03b30a01d5a298f8f80f2f946c7d",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-AU"
@@ -1921,18 +1923,18 @@
       },
       "node_locale": "en-AU"
     },
-    "18edb6d1-c54b-5e6e-99b1-baeeac871941": {
-      "id": "18edb6d1-c54b-5e6e-99b1-baeeac871941",
-      "parent": "2010fc40-2bad-59fd-a4f9-4072fa2bf6b9",
+    "de2f9dd4-848f-5cc2-908d-3517fbc52c38": {
+      "id": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
+      "parent": "0cfaa59b-0be1-527e-a207-614b6904683f",
       "children": [
-        "e8edbb7b-456d-5237-862c-6f51bf833973"
+        "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5"
       ],
-      "post": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favourite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") ",
+      "post": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \n          \"src\": \"package.json\",\n          \"use\": \"@now/static-build\",\n          \"config\": {\"distDir\": \"public\"} \n        }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
       "internal": {
         "type": "contentfulTomWritesCodeBlogPostTextNode",
         "mediaType": "text/markdown",
-        "content": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favourite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") ",
-        "contentDigest": "09894a51f646cd95fe3b798ba7cbd83d",
+        "content": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \n          \"src\": \"package.json\",\n          \"use\": \"@now/static-build\",\n          \"config\": {\"distDir\": \"public\"} \n        }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
+        "contentDigest": "ca2f32e14cfcd95593ac12729014dcc8",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -2003,22 +2005,22 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "e8edbb7b-456d-5237-862c-6f51bf833973": {
-      "id": "e8edbb7b-456d-5237-862c-6f51bf833973",
+    "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5": {
+      "id": "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5",
       "children": [],
-      "parent": "18edb6d1-c54b-5e6e-99b1-baeeac871941",
+      "parent": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
       "internal": {
-        "content": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favourite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") ",
+        "content": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \n          \"src\": \"package.json\",\n          \"use\": \"@now/static-build\",\n          \"config\": {\"distDir\": \"public\"} \n        }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
         "type": "MarkdownRemark",
-        "contentDigest": "4ba8898120ee34594e5219a084b187b1",
+        "contentDigest": "5a4cb3744d2f51c0f6c8fe6d7fd305ec",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "",
-        "_PARENT": "18edb6d1-c54b-5e6e-99b1-baeeac871941"
+        "_PARENT": "de2f9dd4-848f-5cc2-908d-3517fbc52c38"
       },
       "excerpt": "",
-      "rawMarkdownBody": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favourite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") "
+      "rawMarkdownBody": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \n          \"src\": \"package.json\",\n          \"use\": \"@now/static-build\",\n          \"config\": {\"distDir\": \"public\"} \n        }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. "
     },
     "5bb13972-4f48-5983-9c05-a264bf656036": {
       "id": "5bb13972-4f48-5983-9c05-a264bf656036",
@@ -2037,77 +2039,202 @@
       "excerpt": "",
       "rawMarkdownBody": "This is a personal website for me has always been the thing I have needed to build the most but prioritised the least. This should cover the website that took forever to build. \n\n\nSo, tomWritesCode, a site to house my blog, and just some basic stuff about me. It only took what felt like 300 years to make, a series of pushbacks due to other things I wanted to make and the constant learning of new things which makes more revisions etc, etc, (I'm sure that if you have ever made your own site you will know the feeling.)\n\n\nI went with a neon theme after playing around with a flicker animation for an idea, now it's the base of my whole site. the flicker annimation is using keyframes and there is another class for a delay to use the same animation on the same page.\n"
     },
-    "0cfaa59b-0be1-527e-a207-614b6904683f": {
-      "title": "Hosting a Gatsby Site on Zeit Now",
-      "slug": "hosting-a-gatsby-site-on-zeit-now",
-      "date": "2019-03-05",
-      "intro": "I recently launched my website, and with that comes hosting. I was originally going to go with Netlify for my hosting but ended up with Zeit's Now service. ",
-      "post___NODE": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
-      "id": "0cfaa59b-0be1-527e-a207-614b6904683f",
-      "contentful_id": "4lOF7VVbQYkViVmTSJpSmf",
-      "createdAt": "2019-03-05T11:35:39.511Z",
-      "updatedAt": "2019-03-05T11:35:39.511Z",
-      "parent": "tomWritesCode Blog",
-      "children": [
-        "de2f9dd4-848f-5cc2-908d-3517fbc52c38"
-      ],
+    "5fb604b8-aab9-54db-adf9-8d309c8f2786": {
+      "id": "5fb604b8-aab9-54db-adf9-8d309c8f2786",
+      "children": [],
+      "parent": "c4305f09-f67a-536f-a5a5-16469d868e36",
       "internal": {
-        "type": "ContentfulTomWritesCodeBlog",
-        "contentDigest": "b64d2a6338d857466463c86b2a9822da",
-        "owner": "gatsby-source-contentful"
+        "content": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it.\n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*******\n\n## raspberryCandy - <a href=\"https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy\" target=\"_blank\">VS Code Marketplace</a>\n\nThis theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.\n\nThe name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.\n\n![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)\n\n*******\n\n## raspberryCandy NodeJS Web Scraper\n\nAfter making the raspberryCandy VS Code theme, I had and still have the huge novelty of checking daily to see how many downloads it has.\n\nAs a little side project I wanted to learn how to make a Node CLI tool and decided to roll that want with a way to check the downloads of my theme. \n\nI found a tutorial that went through making a web scraper and adapted it to use the VS Code Marketplace page of raspberryCandy, find the styling tag of the number of downloads and then pull the text from it. \n\nThen using Chalk, Figlet, Request Promise and Cheerio I would return the result to the terminal as well as a small math calculation which worked out how many days the theme has been released. I then added the command 'raspberry' to the project so that the command can be run straight from my terminal from any directory. \n\nA small project that only really has relevance for me but gave me a great understanding of working in a small NodeJS environment and making a CLI tool. \n\n![raspberryCandy Web Scraper](https://res.cloudinary.com/tomwritescode/image/upload/v1555478402/Screen_Shot_2019-04-17_at_8.43.53_am.png)\n\n*******\n\n## Basketball NoStarz - <a href=\"https://no-starz.tomwritescode.now.sh/\" target=\"_blank\">Check out the project</a>\n\n I have been playing basketball with my brother on my my days off and wanted a way to track our scores, that night this project started.\n\n The original concept was a quick Gatsby knock up to make sure it worked. Once I worked out the base way of how I wanted to do it I decided to use NextJS, Emotion, Zeit's Now hosting platform to build it.\n\n The main part of the project uses a lot of state and I plan to start learning and using Redux now that I have the concept of the project running and usable, among this there is also a large list of things I would like to work on and add to the project.\n\n For me this is a really awesome project that constantly has room to grow and add new ideas and features really giving me a great platform to have as a constantly growing app.\n\n![Basketball NoStarz](https://res.cloudinary.com/tomwritescode/image/upload/v1555541786/nostarz.gif)\n\n*******\n\n## dadJokes() - <a href=\"https://jokesfromyourdad.netlify.com\" target=\"_blank\">Check out the project</a>\n\nThis doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day.\n\nBuilt in Gatsby because that is what I always reach for when I want to make something quickly.\n\nThe main logic behind it working is the array of objects in JokeList.js:\n\n```javascript\n\nconst JokeList = [\n\n{\n\njoke: `Did you hear about the restaurant on the moon?`,\n\npunchLine: `Great food, no atmosphere.`,\n\n},\n\n]\n\n```\n\nThis is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n```javascript\n\nfunction NewJoke() {\n\n*// jokeGenerator();*\n\nconst returnedJoke = jokeGenerator()\n\n*// Will not generate joke twice in a row*\n\ndocument.getElementById('Joke').innerHTML = returnedJoke.joke\n\ndocument.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n\n}\n\n```\n\nThe JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is.\n\n```javascript\n\nfunction getRandomInt(max) {\n\nreturn Math.floor(Math.random() * Math.floor(max))\n\n}\n\nfunction jokeGenerator() {\n\nreturn JokeList[getRandomInt(JokeList.length)]\n\n}\n\n```\n\n*******\n\n## tomWritesCode - <a href=\"https://github.com/tomWritesCode/tomWritesCode\" target=\"_blank\">Check out the codebase</a>\n\nThis site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts.\n\n```javascript\n\ntomWritesCode = () => {\n\nconst React = true;\n\nconst GatsbyJS = true;\n\nconst Blog = 'Contentful';\n\nconst Docs = 'Markdown Remark';\n\nconst styling = 'Styled Components';\n\nconst stylingAlso = 'Emotion';\n\n}\n\n```\n\n*******\n\nOnce that has been done the selected joke is then set into the joke and punchline sections of the page.",
+        "type": "MarkdownRemark",
+        "contentDigest": "b98df1a2d8495d36c028a7c5358a3939",
+        "owner": "gatsby-transformer-remark"
       },
-      "node_locale": "en-AU"
+      "frontmatter": {
+        "title": "tomWritesCode - How I build the things.",
+        "slug": "/docs",
+        "_PARENT": "c4305f09-f67a-536f-a5a5-16469d868e36"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Hi my name is Tom, this is my site, and this is the how/what I used to build it.\n\nAll of the code for this site as well as most of the projects I talk about in here will be available at my [GitHub - tomWritesCode](https://github.com/tomWritesCode), feel free to check them out and let me know what you think.\n\n*******\n\n## raspberryCandy - <a href=\"https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy\" target=\"_blank\">VS Code Marketplace</a>\n\nThis theme was inspired by my love of dark coding themes, Sarah Drasner's Night Owl theme, Wes Bos' Cobalt2 theme and Scott Tolinski's LevelUp Official Theme.\n\nThe name of this comes from ONA Cafe in Marrickville in Sydney, Australia. My favorite roast they have is called Raspberry Candy and I have had way too many of those while at that cafe.\n\n![raspberryCandy Theme](https://res.cloudinary.com/tomwritescode/image/upload/v1550563515/Screenshot2.png)\n\n*******\n\n## raspberryCandy NodeJS Web Scraper\n\nAfter making the raspberryCandy VS Code theme, I had and still have the huge novelty of checking daily to see how many downloads it has.\n\nAs a little side project I wanted to learn how to make a Node CLI tool and decided to roll that want with a way to check the downloads of my theme. \n\nI found a tutorial that went through making a web scraper and adapted it to use the VS Code Marketplace page of raspberryCandy, find the styling tag of the number of downloads and then pull the text from it. \n\nThen using Chalk, Figlet, Request Promise and Cheerio I would return the result to the terminal as well as a small math calculation which worked out how many days the theme has been released. I then added the command 'raspberry' to the project so that the command can be run straight from my terminal from any directory. \n\nA small project that only really has relevance for me but gave me a great understanding of working in a small NodeJS environment and making a CLI tool. \n\n![raspberryCandy Web Scraper](https://res.cloudinary.com/tomwritescode/image/upload/v1555478402/Screen_Shot_2019-04-17_at_8.43.53_am.png)\n\n*******\n\n## Basketball NoStarz - <a href=\"https://no-starz.tomwritescode.now.sh/\" target=\"_blank\">Check out the project</a>\n\n I have been playing basketball with my brother on my my days off and wanted a way to track our scores, that night this project started.\n\n The original concept was a quick Gatsby knock up to make sure it worked. Once I worked out the base way of how I wanted to do it I decided to use NextJS, Emotion, Zeit's Now hosting platform to build it.\n\n The main part of the project uses a lot of state and I plan to start learning and using Redux now that I have the concept of the project running and usable, among this there is also a large list of things I would like to work on and add to the project.\n\n For me this is a really awesome project that constantly has room to grow and add new ideas and features really giving me a great platform to have as a constantly growing app.\n\n![Basketball NoStarz](https://res.cloudinary.com/tomwritescode/image/upload/v1555541786/nostarz.gif)\n\n*******\n\n## dadJokes() - <a href=\"https://jokesfromyourdad.netlify.com\" target=\"_blank\">Check out the project</a>\n\nThis doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day.\n\nBuilt in Gatsby because that is what I always reach for when I want to make something quickly.\n\nThe main logic behind it working is the array of objects in JokeList.js:\n\n```javascript\n\nconst JokeList = [\n\n{\n\njoke: `Did you hear about the restaurant on the moon?`,\n\npunchLine: `Great food, no atmosphere.`,\n\n},\n\n]\n\n```\n\nThis is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:\n\n```javascript\n\nfunction NewJoke() {\n\n*// jokeGenerator();*\n\nconst returnedJoke = jokeGenerator()\n\n*// Will not generate joke twice in a row*\n\ndocument.getElementById('Joke').innerHTML = returnedJoke.joke\n\ndocument.getElementById('Punchline').innerHTML = returnedJoke.punchLine\n\n}\n\n```\n\nThe JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is.\n\n```javascript\n\nfunction getRandomInt(max) {\n\nreturn Math.floor(Math.random() * Math.floor(max))\n\n}\n\nfunction jokeGenerator() {\n\nreturn JokeList[getRandomInt(JokeList.length)]\n\n}\n\n```\n\n*******\n\n## tomWritesCode - <a href=\"https://github.com/tomWritesCode/tomWritesCode\" target=\"_blank\">Check out the codebase</a>\n\nThis site is built in Gatsby, but as well as React and GraphQL being packaged with Gatsby I am also using Styled Components as well as Emotion because I wanted to see how it worked. Last but not least, Contentful for holding all my blog posts.\n\n```javascript\n\ntomWritesCode = () => {\n\nconst React = true;\n\nconst GatsbyJS = true;\n\nconst Blog = 'Contentful';\n\nconst Docs = 'Markdown Remark';\n\nconst styling = 'Styled Components';\n\nconst stylingAlso = 'Emotion';\n\n}\n\n```\n\n*******\n\nOnce that has been done the selected joke is then set into the joke and punchline sections of the page.",
+      "fileAbsolutePath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/siteDocs/Docs.md"
     },
-    "de2f9dd4-848f-5cc2-908d-3517fbc52c38": {
-      "id": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
-      "parent": "0cfaa59b-0be1-527e-a207-614b6904683f",
-      "children": [
-        "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5"
-      ],
-      "post": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
+    "b99538a6-a41c-57a5-8921-12d2323eec7d": {
+      "contentful_id": "Z4MX0t1AvEly5T63iacIE",
+      "id": "b99538a6-a41c-57a5-8921-12d2323eec7d",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//videos.ctfassets.net/u434ytvnd3bo/Z4MX0t1AvEly5T63iacIE/3bfc5155d036b199b28a6da5e7622286/Recording-encoded.mp4",
+        "details": {
+          "size": 2397997
+        },
+        "fileName": "Recording-encoded.mp4",
+        "contentType": "video/quicktime"
+      },
+      "title": "Recording-encoded",
+      "description": "",
+      "node_locale": "en-AU",
       "internal": {
-        "type": "contentfulTomWritesCodeBlogPostTextNode",
-        "mediaType": "text/markdown",
-        "content": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
-        "contentDigest": "46e8c99461109f010e986f0f0b86299b",
+        "type": "ContentfulAsset",
+        "contentDigest": "f39d791ff2b15ffc06ba4da6d0ea732d",
         "owner": "gatsby-source-contentful"
       }
     },
-    "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5": {
-      "id": "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5",
+    "8f8938e7-4be2-5d65-b93c-487fd352fbe3": {
+      "contentful_id": "5zIFeiT7e8wTM21ZLhYG4F",
+      "id": "8f8938e7-4be2-5d65-b93c-487fd352fbe3",
+      "parent": null,
       "children": [],
-      "parent": "de2f9dd4-848f-5cc2-908d-3517fbc52c38",
+      "file": {
+        "url": "//images.ctfassets.net/u434ytvnd3bo/5zIFeiT7e8wTM21ZLhYG4F/90d7471cd04babb8c9ac3be45982702a/raspberry-node.gif",
+        "details": {
+          "size": 3280330,
+          "image": {
+            "width": 834,
+            "height": 360
+          }
+        },
+        "fileName": "raspberry-node.gif",
+        "contentType": "image/gif"
+      },
+      "title": "raspberry-node",
+      "description": "",
+      "node_locale": "en-AU",
       "internal": {
-        "content": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. ",
+        "type": "ContentfulAsset",
+        "contentDigest": "fe75a603be84d07f56237e4d07fc5954",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "18edb6d1-c54b-5e6e-99b1-baeeac871941": {
+      "id": "18edb6d1-c54b-5e6e-99b1-baeeac871941",
+      "parent": "2010fc40-2bad-59fd-a4f9-4072fa2bf6b9",
+      "children": [
+        "e8edbb7b-456d-5237-862c-6f51bf833973"
+      ],
+      "post": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favorite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") ",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favorite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") ",
+        "contentDigest": "8cf08740a85875b52e8471455e8a8c03",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "e8edbb7b-456d-5237-862c-6f51bf833973": {
+      "id": "e8edbb7b-456d-5237-862c-6f51bf833973",
+      "children": [],
+      "parent": "18edb6d1-c54b-5e6e-99b1-baeeac871941",
+      "internal": {
+        "content": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favorite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") ",
         "type": "MarkdownRemark",
-        "contentDigest": "e1007339a129416ff5e25382c15e3d06",
+        "contentDigest": "fb9afc7c8c09cabeb24a814a614b7fe6",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "",
-        "_PARENT": "de2f9dd4-848f-5cc2-908d-3517fbc52c38"
+        "_PARENT": "18edb6d1-c54b-5e6e-99b1-baeeac871941"
       },
       "excerpt": "",
-      "rawMarkdownBody": "I bought my domain tomwritesco.de from Zeit's new domain service. The thing I didn't look into when purchasing was if I could chage the name server which would allow me to host my site on Netlify and take advantge of their auto rebuild and web-hooks that would trigger a rebuild when I updated Contentful. \n\nHosting the site on Zeit's Now was really easy, I only had to do a little bit of research in what was needed to get a Gatsby project going. The main part was putting a __now.json__ file into the root of the project. \n\nInside of the __now.json__ file just needs to have the following. \n\n    {\n      \"version\": 2,\n      \"name\": \"Your Project Name\",\n      \"build\": [\n        { \"src\": \"package.json\", \"use\": \"@now/static-build\", \"config\": {\"distDir\":                 \"public\"} }\n      ]\n    }\n\nThis file just lets Now know what to do with the files it is receiving. \"version\" is setting what verion of Now will be used (In this case version 2). \"name\" is what name will show up in your Zeit Dashboard. \"build\" is the main command that will set off the build of the Gatsby site and directs Now to the public folder which is build when Gatsby generates the static pages. "
+      "rawMarkdownBody": "I have been interested in making a VS Code theme for a while now and I started looking into it and saw an article by Sarah Drasner on CSS Tricks which got the ball rolling. \n\nGoing through some more articles and I got the ball rolling for raspberryCandy, my neon/pastel theme. The name comes from my favorite blend of coffee from ONA in Marrickville, Australia.\n\n![screenShot](//images.ctfassets.net/u434ytvnd3bo/2RH3azl2Z6YFdiXblptspp/ca7ef56f44963f787b4b8775353363a0/screenShot.png)\n\nAnd now it's all done! I am really happy with how it has turned out, It has been a really good project to work on. \n\nBelow is a list of the links I used that helped me get it into the marketplace.\n\n- [Creating a VS Code Theme - Sarah Drasner - CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/?fbclid=IwAR1qhdXb01kZdZZn8HB5KY0nLtRCRobG21u1BxGAxG2xoLYp7HRcpRN1SiE \"Sarah Drasner's Article on building a VS Code theme for CSS Tricks\")\n\n- [VS Code Docs (Really helpful with all the detail of interactions and what changes what.](https://code.visualstudio.com/api/references/theme-color?fbclid=IwAR1aId1wnpMRtGQOlEP7A1UOOJebFOQm6nP8GpTfylEl2BKEgb4sYdAlfWo \"VS Code Docs\") \n\n- [VS Code Extension Manifest (List of all the things that are needed and optional in a theme package)](https://code.visualstudio.com/api/references/extension-manifest?fbclid=IwAR2omxhZzfqPQfD08SqOHlSdXRPOocZvfYA5n-2FBeM0Dk-WAoeLAS9H46w \"VS Code Extension Manifest.\") "
     },
-    "SitePage /hosting-a-gatsby-site-on-zeit-now": {
-      "jsonName": "hosting-a-gatsby-site-on-zeit-now-47a",
-      "internalComponentName": "ComponentHostingAGatsbySiteOnZeitNow",
-      "path": "/hosting-a-gatsby-site-on-zeit-now",
+    "39b96c2b-d492-51e8-a32f-87ec79ef3f2d": {
+      "title": "raspberryCandy web scraper with NodeJS",
+      "slug": "raspberrycandy-web-scraper-with-nodejs",
+      "date": "2019-04-08",
+      "intro": "Making the VS Code theme raspberryCandy was an awesome project and the novelty of checking the webpage everyday to see the number of downloads still hasn't worn off and I learnt how to make a scraper of the web page to show me how many downloads I have. ",
+      "post___NODE": "6f7ce7dd-7484-55ee-93af-5947eaf31057",
+      "id": "39b96c2b-d492-51e8-a32f-87ec79ef3f2d",
+      "contentful_id": "3JmXgYZ7celmZc7EFwacK4",
+      "createdAt": "2019-05-14T08:30:43.174Z",
+      "updatedAt": "2019-05-14T08:30:43.174Z",
+      "parent": "tomWritesCode Blog",
+      "children": [
+        "6f7ce7dd-7484-55ee-93af-5947eaf31057"
+      ],
+      "internal": {
+        "type": "ContentfulTomWritesCodeBlog",
+        "contentDigest": "023b8f6c26f9bb6571a268d61be2f6ac",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-AU"
+    },
+    "6f7ce7dd-7484-55ee-93af-5947eaf31057": {
+      "id": "6f7ce7dd-7484-55ee-93af-5947eaf31057",
+      "parent": "39b96c2b-d492-51e8-a32f-87ec79ef3f2d",
+      "children": [
+        "340eaf58-9e44-584a-a696-d9a7743a9371"
+      ],
+      "post": "Going through a few tutorials that showed how to make a Node app that from my terminal will show me the number of downloads I have had, as well as doing the math on how long raspberryCandy has been released for. \n\nI went through [this article from scotch.io](https://scotch.io/tutorials/scraping-the-web-with-node-js) which used NodeJS, Cheerio and request-promise.\n\n---\n\n__- request-promise -__ *Makes the HTTP request which supports promises. The extension of the standard request promise.*\n  \n__- Cheerio -__ *Helps to traverse the DOM letting us select parts of the page we would like to extract.*\n\n---\n\nFiglet is a great package for making ASCII art from text and has a library of different ways to do so. Chalk is used to colour the text of the response in the terminal which means I could keep the raspberryCandy colours being returned. \n\nThe first part of my code is making the piece that looks after displaying when raspberryCandy was released and how many days it has been released for which sits below the number of downloads in the command line result. To do this all I used was the Date function built into Javascript, making one of the dates the release which I already knew and wasnt going to change just put it straight in. And then another date which is the date and time that the function is called.\n\n---\n\n    const release = new Date(\"February 19, 2019 11:46:11\");\n    const current = new Date();\n\n---\n\nFollowing that I made a function which calculates how many days raspberryCandy has been out. The function works in two steps, firslty it subtracts the release date from the current date which then gives us the amount of time bwtween the dates but in Milliseconds (which isn't the most readable).\n\n---\n    \n    function dateDiff() {\n        \tlet difference = current - release;\n     }     \n\n---\n\nStep two of the function takes the result in milliseconds and divides it by the math that converts milliseconds to days. This is wrapped in a Math.round() function to give whole days as a return without a decimal.\n\n\n---\n\n    function dateDiff() {\n    \tlet difference = current - release;\n    \treturn Math.round(difference / (60 * 60 * 24 * 1000));\n}\n    \n---\n\nNow for the main party trick, scraping the marketplace page for raspberryCandy to get the number of downloads. This is where we use the request-promise package and give it the target url which in this case is the page on the Visual Studio Marketplace.\n\nInspecting the page prior to building this I found that the piece I was after was a span with the class name 'downloads-text'. Using Cheerio I can target the span with the right class name from the HTML document and then return it as plain text. Below I have laid out the basic structure of what it is doing. \n\n---\n\n    request-promise(URL).then(function(html) \n      {\n        cheerio(\"span.downloads-text\", html).text()\n      }\n\n---\n\nNow that we have the heavy lifting out of the way the structure comes into play. In my example I have wrapped each of the console.log() returns with the Chalk package allowing me to set the colour, in this case I am going with the Purple and Aqua colours of raspberryCandy.\n\n___\n\n    console.log(\n      chalk.hex(\"#e592faff\").bold(\" WOW! raspberryCandy has:\")\n    );\n___\n\nThe other extra piece is using Figlet which gives me the ASCII art, this wraps around the Cherrio function and takes the properties of what font to use, as well as the horizontal and vertical layouts. \n\n___\n\n    console.log(\n      chalk.hex(\"#00feff\")(\n        figlet.textSync($(\"span.downloads-text\", html).text(), {\n          font: \"Big\",\n          horizontalLayout: \"default\",\n          verticalLayout: \"default\"\n        })\n      )\n    );\n___\n\nNow that it's all pieced together the last thing left to do was to link it to my terminal as a single command rather than having to go to the file system and run the JS file. To do this, we add a line to the top of the file which will let us add our command to the package.json.\n\n___\n\n    #!/usr/bin/env node\n___\n\nThis line will let it be triggered as a Node command and run. This will also let the next part we add to the package.json work. Inside the package.json I have added:\n\n___\n\n    \"bin\": {\n      \"raspberry\": \"./raspberryScraper.js\"\n    },\n\n___\n\nFinal step is to run *__npm link__* in the terminal while in the folder. This takes the bin command, in this case *__\"raspberry\"__* and then launches the command *__\"./raspberryScraper.js\"__*. This is similar to any short hand command like *__npm run start__* or *__gatsby develop__*.\n\nNow I have a working NodeJS web scraper that lets me run it from anywhere in my terminal.\n\n![Large GIF 912x276](//images.ctfassets.net/u434ytvnd3bo/5XQ2c9F4uB37GT0jnBWrZP/79b58c210c0d4268a47e6af7f4ac4bce/Large_GIF_912x276.gif)\n___\n\n## Links\n\n### - [__Scotch.io article I got most of the resources from.__](https://scotch.io/tutorials/scraping-the-web-with-node-js \"Scotch.io Article\")\n### - [__request-promise GitHub page__](https://github.com/request/request-promise \"request-promise GitHub Page\")\n### - [__Cheerio GitHub page__](https://github.com/cheeriojs/cheerio \"Cheerio GitHub Page\")\n### - [__Figlet NPM page__](https://www.npmjs.com/package/figlet \"Figlet NPM Page\")\n### - [__My GitHub page of the scraper__](https://github.com/tomWritesCode/raspberryScraper \"tomWritesCode GitHub source code\")\n",
+      "internal": {
+        "type": "contentfulTomWritesCodeBlogPostTextNode",
+        "mediaType": "text/markdown",
+        "content": "Going through a few tutorials that showed how to make a Node app that from my terminal will show me the number of downloads I have had, as well as doing the math on how long raspberryCandy has been released for. \n\nI went through [this article from scotch.io](https://scotch.io/tutorials/scraping-the-web-with-node-js) which used NodeJS, Cheerio and request-promise.\n\n---\n\n__- request-promise -__ *Makes the HTTP request which supports promises. The extension of the standard request promise.*\n  \n__- Cheerio -__ *Helps to traverse the DOM letting us select parts of the page we would like to extract.*\n\n---\n\nFiglet is a great package for making ASCII art from text and has a library of different ways to do so. Chalk is used to colour the text of the response in the terminal which means I could keep the raspberryCandy colours being returned. \n\nThe first part of my code is making the piece that looks after displaying when raspberryCandy was released and how many days it has been released for which sits below the number of downloads in the command line result. To do this all I used was the Date function built into Javascript, making one of the dates the release which I already knew and wasnt going to change just put it straight in. And then another date which is the date and time that the function is called.\n\n---\n\n    const release = new Date(\"February 19, 2019 11:46:11\");\n    const current = new Date();\n\n---\n\nFollowing that I made a function which calculates how many days raspberryCandy has been out. The function works in two steps, firslty it subtracts the release date from the current date which then gives us the amount of time bwtween the dates but in Milliseconds (which isn't the most readable).\n\n---\n    \n    function dateDiff() {\n        \tlet difference = current - release;\n     }     \n\n---\n\nStep two of the function takes the result in milliseconds and divides it by the math that converts milliseconds to days. This is wrapped in a Math.round() function to give whole days as a return without a decimal.\n\n\n---\n\n    function dateDiff() {\n    \tlet difference = current - release;\n    \treturn Math.round(difference / (60 * 60 * 24 * 1000));\n}\n    \n---\n\nNow for the main party trick, scraping the marketplace page for raspberryCandy to get the number of downloads. This is where we use the request-promise package and give it the target url which in this case is the page on the Visual Studio Marketplace.\n\nInspecting the page prior to building this I found that the piece I was after was a span with the class name 'downloads-text'. Using Cheerio I can target the span with the right class name from the HTML document and then return it as plain text. Below I have laid out the basic structure of what it is doing. \n\n---\n\n    request-promise(URL).then(function(html) \n      {\n        cheerio(\"span.downloads-text\", html).text()\n      }\n\n---\n\nNow that we have the heavy lifting out of the way the structure comes into play. In my example I have wrapped each of the console.log() returns with the Chalk package allowing me to set the colour, in this case I am going with the Purple and Aqua colours of raspberryCandy.\n\n___\n\n    console.log(\n      chalk.hex(\"#e592faff\").bold(\" WOW! raspberryCandy has:\")\n    );\n___\n\nThe other extra piece is using Figlet which gives me the ASCII art, this wraps around the Cherrio function and takes the properties of what font to use, as well as the horizontal and vertical layouts. \n\n___\n\n    console.log(\n      chalk.hex(\"#00feff\")(\n        figlet.textSync($(\"span.downloads-text\", html).text(), {\n          font: \"Big\",\n          horizontalLayout: \"default\",\n          verticalLayout: \"default\"\n        })\n      )\n    );\n___\n\nNow that it's all pieced together the last thing left to do was to link it to my terminal as a single command rather than having to go to the file system and run the JS file. To do this, we add a line to the top of the file which will let us add our command to the package.json.\n\n___\n\n    #!/usr/bin/env node\n___\n\nThis line will let it be triggered as a Node command and run. This will also let the next part we add to the package.json work. Inside the package.json I have added:\n\n___\n\n    \"bin\": {\n      \"raspberry\": \"./raspberryScraper.js\"\n    },\n\n___\n\nFinal step is to run *__npm link__* in the terminal while in the folder. This takes the bin command, in this case *__\"raspberry\"__* and then launches the command *__\"./raspberryScraper.js\"__*. This is similar to any short hand command like *__npm run start__* or *__gatsby develop__*.\n\nNow I have a working NodeJS web scraper that lets me run it from anywhere in my terminal.\n\n![Large GIF 912x276](//images.ctfassets.net/u434ytvnd3bo/5XQ2c9F4uB37GT0jnBWrZP/79b58c210c0d4268a47e6af7f4ac4bce/Large_GIF_912x276.gif)\n___\n\n## Links\n\n### - [__Scotch.io article I got most of the resources from.__](https://scotch.io/tutorials/scraping-the-web-with-node-js \"Scotch.io Article\")\n### - [__request-promise GitHub page__](https://github.com/request/request-promise \"request-promise GitHub Page\")\n### - [__Cheerio GitHub page__](https://github.com/cheeriojs/cheerio \"Cheerio GitHub Page\")\n### - [__Figlet NPM page__](https://www.npmjs.com/package/figlet \"Figlet NPM Page\")\n### - [__My GitHub page of the scraper__](https://github.com/tomWritesCode/raspberryScraper \"tomWritesCode GitHub source code\")\n",
+        "contentDigest": "db2b15a39859e012e6f7a6b73bde0127",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "0fd65a25-54b0-5260-875b-fda896087869": {
+      "contentful_id": "5XQ2c9F4uB37GT0jnBWrZP",
+      "id": "0fd65a25-54b0-5260-875b-fda896087869",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/u434ytvnd3bo/5XQ2c9F4uB37GT0jnBWrZP/79b58c210c0d4268a47e6af7f4ac4bce/Large_GIF_912x276.gif",
+        "details": {
+          "size": 1830448,
+          "image": {
+            "width": 912,
+            "height": 276
+          }
+        },
+        "fileName": "Large_GIF_912x276.gif",
+        "contentType": "image/gif"
+      },
+      "title": "Large GIF 912x276",
+      "description": "",
+      "node_locale": "en-AU",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8ce11b1dcaddfc54eb2498c93b3a9a06",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "340eaf58-9e44-584a-a696-d9a7743a9371": {
+      "id": "340eaf58-9e44-584a-a696-d9a7743a9371",
+      "children": [],
+      "parent": "6f7ce7dd-7484-55ee-93af-5947eaf31057",
+      "internal": {
+        "content": "Going through a few tutorials that showed how to make a Node app that from my terminal will show me the number of downloads I have had, as well as doing the math on how long raspberryCandy has been released for. \n\nI went through [this article from scotch.io](https://scotch.io/tutorials/scraping-the-web-with-node-js) which used NodeJS, Cheerio and request-promise.\n\n---\n\n__- request-promise -__ *Makes the HTTP request which supports promises. The extension of the standard request promise.*\n  \n__- Cheerio -__ *Helps to traverse the DOM letting us select parts of the page we would like to extract.*\n\n---\n\nFiglet is a great package for making ASCII art from text and has a library of different ways to do so. Chalk is used to colour the text of the response in the terminal which means I could keep the raspberryCandy colours being returned. \n\nThe first part of my code is making the piece that looks after displaying when raspberryCandy was released and how many days it has been released for which sits below the number of downloads in the command line result. To do this all I used was the Date function built into Javascript, making one of the dates the release which I already knew and wasnt going to change just put it straight in. And then another date which is the date and time that the function is called.\n\n---\n\n    const release = new Date(\"February 19, 2019 11:46:11\");\n    const current = new Date();\n\n---\n\nFollowing that I made a function which calculates how many days raspberryCandy has been out. The function works in two steps, firslty it subtracts the release date from the current date which then gives us the amount of time bwtween the dates but in Milliseconds (which isn't the most readable).\n\n---\n    \n    function dateDiff() {\n        \tlet difference = current - release;\n     }     \n\n---\n\nStep two of the function takes the result in milliseconds and divides it by the math that converts milliseconds to days. This is wrapped in a Math.round() function to give whole days as a return without a decimal.\n\n\n---\n\n    function dateDiff() {\n    \tlet difference = current - release;\n    \treturn Math.round(difference / (60 * 60 * 24 * 1000));\n}\n    \n---\n\nNow for the main party trick, scraping the marketplace page for raspberryCandy to get the number of downloads. This is where we use the request-promise package and give it the target url which in this case is the page on the Visual Studio Marketplace.\n\nInspecting the page prior to building this I found that the piece I was after was a span with the class name 'downloads-text'. Using Cheerio I can target the span with the right class name from the HTML document and then return it as plain text. Below I have laid out the basic structure of what it is doing. \n\n---\n\n    request-promise(URL).then(function(html) \n      {\n        cheerio(\"span.downloads-text\", html).text()\n      }\n\n---\n\nNow that we have the heavy lifting out of the way the structure comes into play. In my example I have wrapped each of the console.log() returns with the Chalk package allowing me to set the colour, in this case I am going with the Purple and Aqua colours of raspberryCandy.\n\n___\n\n    console.log(\n      chalk.hex(\"#e592faff\").bold(\" WOW! raspberryCandy has:\")\n    );\n___\n\nThe other extra piece is using Figlet which gives me the ASCII art, this wraps around the Cherrio function and takes the properties of what font to use, as well as the horizontal and vertical layouts. \n\n___\n\n    console.log(\n      chalk.hex(\"#00feff\")(\n        figlet.textSync($(\"span.downloads-text\", html).text(), {\n          font: \"Big\",\n          horizontalLayout: \"default\",\n          verticalLayout: \"default\"\n        })\n      )\n    );\n___\n\nNow that it's all pieced together the last thing left to do was to link it to my terminal as a single command rather than having to go to the file system and run the JS file. To do this, we add a line to the top of the file which will let us add our command to the package.json.\n\n___\n\n    #!/usr/bin/env node\n___\n\nThis line will let it be triggered as a Node command and run. This will also let the next part we add to the package.json work. Inside the package.json I have added:\n\n___\n\n    \"bin\": {\n      \"raspberry\": \"./raspberryScraper.js\"\n    },\n\n___\n\nFinal step is to run *__npm link__* in the terminal while in the folder. This takes the bin command, in this case *__\"raspberry\"__* and then launches the command *__\"./raspberryScraper.js\"__*. This is similar to any short hand command like *__npm run start__* or *__gatsby develop__*.\n\nNow I have a working NodeJS web scraper that lets me run it from anywhere in my terminal.\n\n![Large GIF 912x276](//images.ctfassets.net/u434ytvnd3bo/5XQ2c9F4uB37GT0jnBWrZP/79b58c210c0d4268a47e6af7f4ac4bce/Large_GIF_912x276.gif)\n___\n\n## Links\n\n### - [__Scotch.io article I got most of the resources from.__](https://scotch.io/tutorials/scraping-the-web-with-node-js \"Scotch.io Article\")\n### - [__request-promise GitHub page__](https://github.com/request/request-promise \"request-promise GitHub Page\")\n### - [__Cheerio GitHub page__](https://github.com/cheeriojs/cheerio \"Cheerio GitHub Page\")\n### - [__Figlet NPM page__](https://www.npmjs.com/package/figlet \"Figlet NPM Page\")\n### - [__My GitHub page of the scraper__](https://github.com/tomWritesCode/raspberryScraper \"tomWritesCode GitHub source code\")\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "ec21059b8390f6f91da10ed0a40e7a29",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "6f7ce7dd-7484-55ee-93af-5947eaf31057"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Going through a few tutorials that showed how to make a Node app that from my terminal will show me the number of downloads I have had, as well as doing the math on how long raspberryCandy has been released for. \n\nI went through [this article from scotch.io](https://scotch.io/tutorials/scraping-the-web-with-node-js) which used NodeJS, Cheerio and request-promise.\n\n---\n\n__- request-promise -__ *Makes the HTTP request which supports promises. The extension of the standard request promise.*\n  \n__- Cheerio -__ *Helps to traverse the DOM letting us select parts of the page we would like to extract.*\n\n---\n\nFiglet is a great package for making ASCII art from text and has a library of different ways to do so. Chalk is used to colour the text of the response in the terminal which means I could keep the raspberryCandy colours being returned. \n\nThe first part of my code is making the piece that looks after displaying when raspberryCandy was released and how many days it has been released for which sits below the number of downloads in the command line result. To do this all I used was the Date function built into Javascript, making one of the dates the release which I already knew and wasnt going to change just put it straight in. And then another date which is the date and time that the function is called.\n\n---\n\n    const release = new Date(\"February 19, 2019 11:46:11\");\n    const current = new Date();\n\n---\n\nFollowing that I made a function which calculates how many days raspberryCandy has been out. The function works in two steps, firslty it subtracts the release date from the current date which then gives us the amount of time bwtween the dates but in Milliseconds (which isn't the most readable).\n\n---\n    \n    function dateDiff() {\n        \tlet difference = current - release;\n     }     \n\n---\n\nStep two of the function takes the result in milliseconds and divides it by the math that converts milliseconds to days. This is wrapped in a Math.round() function to give whole days as a return without a decimal.\n\n\n---\n\n    function dateDiff() {\n    \tlet difference = current - release;\n    \treturn Math.round(difference / (60 * 60 * 24 * 1000));\n}\n    \n---\n\nNow for the main party trick, scraping the marketplace page for raspberryCandy to get the number of downloads. This is where we use the request-promise package and give it the target url which in this case is the page on the Visual Studio Marketplace.\n\nInspecting the page prior to building this I found that the piece I was after was a span with the class name 'downloads-text'. Using Cheerio I can target the span with the right class name from the HTML document and then return it as plain text. Below I have laid out the basic structure of what it is doing. \n\n---\n\n    request-promise(URL).then(function(html) \n      {\n        cheerio(\"span.downloads-text\", html).text()\n      }\n\n---\n\nNow that we have the heavy lifting out of the way the structure comes into play. In my example I have wrapped each of the console.log() returns with the Chalk package allowing me to set the colour, in this case I am going with the Purple and Aqua colours of raspberryCandy.\n\n___\n\n    console.log(\n      chalk.hex(\"#e592faff\").bold(\" WOW! raspberryCandy has:\")\n    );\n___\n\nThe other extra piece is using Figlet which gives me the ASCII art, this wraps around the Cherrio function and takes the properties of what font to use, as well as the horizontal and vertical layouts. \n\n___\n\n    console.log(\n      chalk.hex(\"#00feff\")(\n        figlet.textSync($(\"span.downloads-text\", html).text(), {\n          font: \"Big\",\n          horizontalLayout: \"default\",\n          verticalLayout: \"default\"\n        })\n      )\n    );\n___\n\nNow that it's all pieced together the last thing left to do was to link it to my terminal as a single command rather than having to go to the file system and run the JS file. To do this, we add a line to the top of the file which will let us add our command to the package.json.\n\n___\n\n    #!/usr/bin/env node\n___\n\nThis line will let it be triggered as a Node command and run. This will also let the next part we add to the package.json work. Inside the package.json I have added:\n\n___\n\n    \"bin\": {\n      \"raspberry\": \"./raspberryScraper.js\"\n    },\n\n___\n\nFinal step is to run *__npm link__* in the terminal while in the folder. This takes the bin command, in this case *__\"raspberry\"__* and then launches the command *__\"./raspberryScraper.js\"__*. This is similar to any short hand command like *__npm run start__* or *__gatsby develop__*.\n\nNow I have a working NodeJS web scraper that lets me run it from anywhere in my terminal.\n\n![Large GIF 912x276](//images.ctfassets.net/u434ytvnd3bo/5XQ2c9F4uB37GT0jnBWrZP/79b58c210c0d4268a47e6af7f4ac4bce/Large_GIF_912x276.gif)\n___\n\n## Links\n\n### - [__Scotch.io article I got most of the resources from.__](https://scotch.io/tutorials/scraping-the-web-with-node-js \"Scotch.io Article\")\n### - [__request-promise GitHub page__](https://github.com/request/request-promise \"request-promise GitHub Page\")\n### - [__Cheerio GitHub page__](https://github.com/cheeriojs/cheerio \"Cheerio GitHub Page\")\n### - [__Figlet NPM page__](https://www.npmjs.com/package/figlet \"Figlet NPM Page\")\n### - [__My GitHub page of the scraper__](https://github.com/tomWritesCode/raspberryScraper \"tomWritesCode GitHub source code\")\n"
+    },
+    "SitePage /raspberrycandy-web-scraper-with-nodejs": {
+      "jsonName": "raspberrycandy-web-scraper-with-nodejs-df0",
+      "internalComponentName": "ComponentRaspberrycandyWebScraperWithNodejs",
+      "path": "/raspberrycandy-web-scraper-with-nodejs",
       "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
       "componentChunkName": "component---src-components-post-layout-js",
       "context": {
-        "slug": "hosting-a-gatsby-site-on-zeit-now"
+        "slug": "raspberrycandy-web-scraper-with-nodejs"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
-      "id": "SitePage /hosting-a-gatsby-site-on-zeit-now",
+      "id": "SitePage /raspberrycandy-web-scraper-with-nodejs",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "079185c3c2263464f26fe54ad89ffbd6",
+        "contentDigest": "9cc429ba7b8be15600b8dae2982a2f75",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2130,6 +2257,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "1ba81ee090ee952731260ed1b94c0da6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hosting-a-gatsby-site-on-zeit-now": {
+      "jsonName": "hosting-a-gatsby-site-on-zeit-now-47a",
+      "internalComponentName": "ComponentHostingAGatsbySiteOnZeitNow",
+      "path": "/hosting-a-gatsby-site-on-zeit-now",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "componentChunkName": "component---src-components-post-layout-js",
+      "context": {
+        "slug": "hosting-a-gatsby-site-on-zeit-now"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js",
+      "id": "SitePage /hosting-a-gatsby-site-on-zeit-now",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "079185c3c2263464f26fe54ad89ffbd6",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2276,6 +2425,26 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /yournextdev/": {
+      "jsonName": "yournextdev-be3",
+      "internalComponentName": "ComponentYournextdev",
+      "path": "/yournextdev/",
+      "component": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js",
+      "componentChunkName": "component---src-pages-yournextdev-js",
+      "context": {},
+      "pluginCreator___NODE": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "pluginCreatorId": "88db0ef3-6758-5082-a550-dec327bc044f",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js",
+      "id": "SitePage /yournextdev/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "de0cb97a9a7ddd1c2f32f5ef8f3c3637",
+        "description": "88db0ef3-6758-5082-a550-dec327bc044f",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /404.html": {
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
@@ -2300,10 +2469,10 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDsD3Dg03Cn1wow4MyNHPCp8OEGRvDi8O9cGrCpWrCkgXDi3bDh2zCqsKpwqh_wqTCv8O_S8KCw5LCp8KlZlvDvsO-L8OVwoNeIcKywoY7OWHDsnHCo31Ww63Dq1sUXsOc"
+        "u434ytvnd3bo-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCvMOQXwnDoMKiwoDCoMKPSiPCgsK-w6tjYsK6WsK-wovCj8OUOE3Cu8OVw4rDgU3DlWQpWcKyAVrCqlvDjsK9IcKBCcKUwopQZsKewr7DpsKxXRljw6UBGDrChMOJczvCnn0"
       }
     },
-    "PLUGINS_HASH": "aba9c2bec570f5d8f01de427d1ebd0be"
+    "PLUGINS_HASH": "3da1cf6622a4d49582098fb302ce3d57"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2311,6 +2480,10 @@
         "sq--src-components-layout-js",
         "sq--src-components-layouts-home-layout-js",
         "sq--src-components-seo-js"
+      ],
+      "de2f9dd4-848f-5cc2-908d-3517fbc52c38": [
+        "/hosting-a-gatsby-site-on-zeit-now",
+        "sq--src-components-blog-list-js"
       ],
       "18edb6d1-c54b-5e6e-99b1-baeeac871941": [
         "/raspberrycandy-i-made-a-vs-code-theme",
@@ -2320,8 +2493,14 @@
         "/wasnt-build-in-a-day",
         "sq--src-components-blog-list-js"
       ],
+      "0cfaa59b-0be1-527e-a207-614b6904683f": [
+        "/hosting-a-gatsby-site-on-zeit-now"
+      ],
       "2010fc40-2bad-59fd-a4f9-4072fa2bf6b9": [
         "/raspberrycandy-i-made-a-vs-code-theme"
+      ],
+      "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5": [
+        "/hosting-a-gatsby-site-on-zeit-now"
       ],
       "e8edbb7b-456d-5237-862c-6f51bf833973": [
         "/raspberrycandy-i-made-a-vs-code-theme"
@@ -2332,15 +2511,15 @@
       "5bb13972-4f48-5983-9c05-a264bf656036": [
         "/wasnt-build-in-a-day"
       ],
-      "de2f9dd4-848f-5cc2-908d-3517fbc52c38": [
-        "/hosting-a-gatsby-site-on-zeit-now",
+      "6f7ce7dd-7484-55ee-93af-5947eaf31057": [
+        "/raspberrycandy-web-scraper-with-nodejs",
         "sq--src-components-blog-list-js"
       ],
-      "0cfaa59b-0be1-527e-a207-614b6904683f": [
-        "/hosting-a-gatsby-site-on-zeit-now"
+      "39b96c2b-d492-51e8-a32f-87ec79ef3f2d": [
+        "/raspberrycandy-web-scraper-with-nodejs"
       ],
-      "ae294ce9-ce65-57b7-89bb-415a4b6c6cb5": [
-        "/hosting-a-gatsby-site-on-zeit-now"
+      "340eaf58-9e44-584a-a696-d9a7743a9371": [
+        "/raspberrycandy-web-scraper-with-nodejs"
       ]
     },
     "connections": {
@@ -2375,9 +2554,11 @@
     "sq--src-components-contact-icons-js": 4054139054,
     "sq--src-components-home-layout-js": 3015029821,
     "sq--src-components-layouts-home-layout-js": 3015029821,
-    "raspberrycandy-i-made-a-vs-code-theme-e0f": "397/path---raspberrycandy-i-made-a-vs-code-theme-e-0-f-ef3-cXQvyQJSAKSmW5GYUkdPeedJu0",
+    "raspberrycandy-i-made-a-vs-code-theme-e0f": "211/path---raspberrycandy-i-made-a-vs-code-theme-e-0-f-ef3-zUrEQWvRjNsHS7KwD2p1hzyzrA",
     "sq--src-components-seo-js": 728552493,
-    "hosting-a-gatsby-site-on-zeit-now-47a": "604/path---hosting-a-gatsby-site-on-zeit-now-47-a-ae7-FQWdjVtRTr8VCRSmAQFQCoFis"
+    "hosting-a-gatsby-site-on-zeit-now-47a": "824/path---hosting-a-gatsby-site-on-zeit-now-47-a-ae7-X0nQtVPB3TWiJMY1SNpVj1O6Mk",
+    "yournextdev-be3": "338/path---yournextdev-be-3-393-NZuapzHg3X9TaN1iIixfv1W23E",
+    "raspberrycandy-web-scraper-with-nodejs-df0": "822/path---raspberrycandy-web-scraper-with-nodejs-df-0-7e3-JqwmJCcaW4JNHuCCPxhKhu1nBg"
   },
   "components": {
     "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js": {
@@ -2411,17 +2592,13 @@
     "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js": {
       "query": "",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js"
+    },
+    "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js": {
+      "query": "",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js"
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-docs-js": {
-      "name": "DocsQuery",
-      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Docs.js",
-      "id": "sq--src-components-docs-js",
-      "jsonName": "sq--src-components-docs-js",
-      "query": "query DocsQuery {\n  allMarkdownRemark(filter: {frontmatter: {slug: {eq: \"/docs\"}}}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          slug\n        }\n        html\n        id\n      }\n    }\n  }\n}\n",
-      "hash": 3771703249
-    },
     "sq--src-components-blog-list-js": {
       "name": "BLOG_POST_QUERY",
       "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/BlogList.js",
@@ -2430,13 +2607,13 @@
       "query": "query BLOG_POST_QUERY {\n  allContentfulTomWritesCodeBlog(sort: {order: DESC, fields: [updatedAt]}) {\n    edges {\n      node {\n        intro\n        slug\n        title\n        updatedAt(formatString: \"DD-MMMM-YYYY\")\n        post {\n          post\n        }\n      }\n    }\n  }\n}\n",
       "hash": 2604983828
     },
-    "sq--src-components-layouts-home-layout-js": {
-      "name": "HomeTitleQuery",
-      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Layouts/HomeLayout.js",
-      "id": "sq--src-components-layouts-home-layout-js",
-      "jsonName": "sq--src-components-layouts-home-layout-js",
-      "query": "query HomeTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
-      "hash": 3015029821
+    "sq--src-components-docs-js": {
+      "name": "DocsQuery",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Docs.js",
+      "id": "sq--src-components-docs-js",
+      "jsonName": "sq--src-components-docs-js",
+      "query": "query DocsQuery {\n  allMarkdownRemark(filter: {frontmatter: {slug: {eq: \"/docs\"}}}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          slug\n        }\n        html\n        id\n      }\n    }\n  }\n}\n",
+      "hash": 3771703249
     },
     "sq--src-components-layout-js": {
       "name": "SiteTitleQuery",
@@ -2453,6 +2630,14 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query SEO {\n  site {\n    siteMetadata {\n      defaultTitle: title\n      defaultDescription: description\n      siteUrl: url\n      defaultImage: image\n      twitterUsername\n    }\n  }\n}\n",
       "hash": 728552493
+    },
+    "sq--src-components-layouts-home-layout-js": {
+      "name": "HomeTitleQuery",
+      "componentPath": "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/Layouts/HomeLayout.js",
+      "id": "sq--src-components-layouts-home-layout-js",
+      "jsonName": "sq--src-components-layouts-home-layout-js",
+      "query": "query HomeTitleQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 3015029821
     }
   }
 }

@@ -9,7 +9,8 @@ exports.components = {
   "component---src-pages-blog-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js" /* webpackChunkName: "component---src-pages-blog-js" */),
   "component---src-pages-docs-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js" /* webpackChunkName: "component---src-pages-docs-js" */),
   "component---src-pages-index-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-other-hobbies-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js" /* webpackChunkName: "component---src-pages-other-hobbies-js" */)
+  "component---src-pages-other-hobbies-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js" /* webpackChunkName: "component---src-pages-other-hobbies-js" */),
+  "component---src-pages-yournextdev-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js" /* webpackChunkName: "component---src-pages-yournextdev-js" */)
 }
 
 exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/data.json")

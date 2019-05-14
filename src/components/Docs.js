@@ -22,7 +22,7 @@ const Wrapper = styled.div`
 		display: block;
 		margin: 0 auto;
 		max-width: 90%;
-		border-radius: 5px;
+		border-radius: 8px;
 	}
 `;
 const DocsContainer = styled.div`

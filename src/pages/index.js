@@ -9,7 +9,6 @@ import SEO from '../components/SEO';
 
 const Wrapper = styled.div`
 	color: white;
-
 	hr {
 		background: #00bcd4;
 		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd4;

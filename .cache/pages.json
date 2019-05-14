@@ -51,7 +51,17 @@
     },
     {
         "componentChunkName": "component---src-components-post-layout-js",
+        "jsonName": "raspberrycandy-web-scraper-with-nodejs-df0",
+        "path": "/raspberrycandy-web-scraper-with-nodejs"
+    },
+    {
+        "componentChunkName": "component---src-components-post-layout-js",
         "jsonName": "wasnt-build-in-a-day-b86",
         "path": "/wasnt-build-in-a-day"
+    },
+    {
+        "componentChunkName": "component---src-pages-yournextdev-js",
+        "jsonName": "yournextdev-be3",
+        "path": "/yournextdev/"
     }
 ]

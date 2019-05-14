@@ -12,6 +12,7 @@ exports.components = {
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js"))),
   "component---src-pages-docs-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js"))),
-  "component---src-pages-other-hobbies-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js")))
+  "component---src-pages-other-hobbies-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js"))),
+  "component---src-pages-yournextdev-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js")))
 }
 
