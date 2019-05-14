@@ -12,7 +12,7 @@ const BioWrapper = styled.div`
 const Bio = () =>  (
 	<BioWrapper>
 		<h1>Hi, My name is Tom.</h1>
-		<h3>I am a developer in Sydney, Australia. I work on the front-end and mainly work with Javascript and React.</h3>
+		<h3>I am a developer in Sydney, Australia. I work on the front-end and work with Javascript and React.</h3>
 	</BioWrapper>
 );
 
