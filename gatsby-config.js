@@ -7,7 +7,7 @@ module.exports = {
 		title: "<tomWritesCode />",
 		description:
 			"Hi, my names Thomas and I write code, and drink lots of coffee.",
-		url: "https://tomwritesco.de",
+		url: "https://tomwritescode.com",
 		image: "/public/static/screen.png",
 		twitterUsername: "@tomwritescode",
 	},
