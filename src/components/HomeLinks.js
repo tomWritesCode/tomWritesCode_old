@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import { Spring } from "react-spring";
 import styled from "@emotion/styled";
 import "./NeonLanding/navNeonFlicker.css";
 
@@ -71,8 +70,8 @@ const NavBar = styled.div`
 			&:after {
 				width: calc(100% - 60px);
 				animation: neonFlicker 1.5s infinite;
-				box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd4,
-					0 0 40px #00bcd4;
+				box-shadow: 0 0 10px #00feff, 0 0 20px #00feff, 0 0 30px #00feff,
+					0 0 40px #00feff;
 			}
 		}
 	}
@@ -88,13 +87,7 @@ const NavBar = styled.div`
 
 const Nav = () => (
 	<Wrapper>
-		<Spring
-			from={{ paddingRight: "200%", opacity: 0 }}
-			to={{ paddingRight: "0", opacity: 1 }}
-			delay={1500}
-		>
-			{styles => (
-				<NavBar style={styles}>
+				<NavBar>
 					<Link
 						className="NavStyles"
 						to="/about"
@@ -136,8 +129,6 @@ const Nav = () => (
 					</Link>
 
 				</NavBar>
-			)}
-		</Spring>
 	</Wrapper>
 );
 

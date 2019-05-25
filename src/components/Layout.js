@@ -13,6 +13,17 @@ const BackgroundWrapper = styled.div`
 	width: 100%;
 	min-height: 75vh;
 	min-height: 100%;
+
+	img{
+				border-radius: 15px;
+			box-shadow: 0 0 5px #00feff, 0 0 20px #00feff7a;
+			transition: ease-in-out 200ms;
+
+			&:hover{
+				box-shadow: 0 0 8px #ae52d4, 0 0 30px #ae52d47a;
+				transition: ease-in-out 200ms;
+			}
+	}
 `;
 
 const theme = {

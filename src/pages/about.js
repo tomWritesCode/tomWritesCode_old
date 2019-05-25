@@ -5,6 +5,10 @@ import Layout from "../components/Layout";
 import { Spring } from "react-spring";
 import styled from "styled-components";
 
+const VSC_Link = "https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy";
+
+const BLOG_LINK = "https://tomwritescode.com/raspberrycandy-i-made-a-vs-code-theme";
+
 const Wrapper = styled.div`
 	color: white;
 	height: 100%;
@@ -22,7 +26,7 @@ const Wrapper = styled.div`
 		transition: ease-in-out 300ms;
 
 		&:hover {
-			padding: 2px 15px;
+			padding: 2px 2px;
 			transition: ease-in-out 200ms;
 			color: white;
 			border-radius: 15px;
@@ -30,8 +34,12 @@ const Wrapper = styled.div`
 			text-shadow:0 0 10px #ae52d4, 0 0 20px #ae52d4,
 				0 0 30px #ae52d4, 5px 5px 40px #ae52d4;
 		}
+	}
 
-
+	img{
+		display: block;
+		max-width: 700px;
+		margin: 0 auto 1.45rem auto;
 	}
 `;
 
@@ -55,7 +63,10 @@ const About = () => (
 				<hr/>
 
 					<h3>
-						I have made a VS Code theme which is published on the VS Code Marketplace. My theme, raspberryCandy is a Neon/Pastel theme runs heavy on a neon electric aqua and a pastel pink/purple. Click the screenshot to check it out. 
+						I have made a VS Code theme which is published on the VS Code Marketplace. My theme, raspberryCandy is a Neon/Pastel theme runs heavy on a neon electric aqua and a pastel pink/purple. You can <a href={VSC_Link} target="_blank" >check out raspberryCandy on the VS Code Marketplace.</a>
+
+						<br /> <br />
+						I have also done a write up about making the them and the resources I used to build it. <a href={BLOG_LINK} targer="_blank">You can read about that here.</a>
 					</h3>
 
 				<hr/>

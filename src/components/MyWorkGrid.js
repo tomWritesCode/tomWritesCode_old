@@ -1,6 +1,7 @@
 import React from "react"
 import styled from '@emotion/styled';
 
+
 const WorkGrid = styled.div`
   color: ghostwhite;
   display: grid;
@@ -25,6 +26,7 @@ const Card = styled.div`
 
   .StackContainer{
     margin: 10px 0 20px 0;
+    text-align: center;
   }
   span{
     min-width: 100px;
@@ -56,9 +58,19 @@ const Projects = [
     blurb: "A colour theme for Visual Studio Code I made that is a neon/pastel base on a dark background."
   },
   {
+    projectName: "raspberryScraper",
+    stack: [
+      "NodeJS",
+    ],
+    blurb: "A colour theme for Visual Studio Code I made that is a neon/pastel base on a dark background."
+  },
+  {
     projectName: "Basketball NoStarz",
     stack: [
       "React",
+      "NextJS",
+      "Styled-components",
+      "Zeit Now",
     ],
     blurb: "Basketball NoStarz is a scoreboard application I built to track scores of the games I am playing with my brother on my days off from work."
   },

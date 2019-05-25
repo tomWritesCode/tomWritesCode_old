@@ -35,7 +35,7 @@ const Wrapper = styled.div`
 const Post = styled.article`
 	margin: 0 auto;
 	font-family: sans-serif;
-	background: linear-gradient(-40deg, #16161d 25%, #4b4b4e 100%);
+	background: linear-gradient(-40deg, #16161d 40%, #00feff7a 100%);
 	box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);
 	transition: ease-in-out 300ms;
 	padding: 1rem;
@@ -44,9 +44,8 @@ const Post = styled.article`
 	max-width: 900px;
 
 	&:hover {
-		background: rgba(42, 199, 214, 0.2);
-		box-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4,
-			0 0 30px #00bcd4, 0 0 40px #00bcd4;
+		background: linear-gradient(-40deg, #16161d 5%, #00feff7a 100%);
+		box-shadow: 0 0 5px #fff, 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd47a;
 		transition: ease-in-out 300ms;
 		transform: scale(1.01);
 	}
