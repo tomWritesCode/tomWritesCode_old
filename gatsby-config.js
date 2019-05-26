@@ -63,12 +63,21 @@ module.exports = {
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
 			}
 		},
+		// {
+		// 	resolve: `gatsby-plugin-google-analytics`,
+		// 	options: {
+		// 		trackingId: process.env.GA_TRACKING_ID,
+		// 		// Puts tracking script in the head instead of the body
+		// 		head: true,
+		// 	}
+		// },
 		{
-			resolve: `gatsby-plugin-google-analytics`,
+			resolve: "gatsby-plugin-sentry",
 			options: {
-				trackingId: process.env.GA_TRACKING_ID,
-				// Puts tracking script in the head instead of the body
-				head: true,
+				dsn: "https://b70369b561bb4f74a9faf18660619b43@sentry.io/1468144",
+				// Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
+				environment: process.env.NODE_ENV,
+				enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)()
 			}
 		},
 		{
