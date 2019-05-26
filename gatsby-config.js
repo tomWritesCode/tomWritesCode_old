@@ -71,7 +71,25 @@ module.exports = {
 				head: true,
 			}
 		},
-		
+		{
+        resolve: `gatsby-plugin-segment-js`,
+        options: {
+            // your segment write key for your production environment
+            // when process.env.NODE_ENV === 'production'
+            // required; non-empty string
+            prodKey: `ilTLS2rr94ZdBLP5IAqFfoyG3zJsHMYm`,
+
+            // if you have a development env for your segment account, paste that key here
+            // when process.env.NODE_ENV === 'development'
+            // optional; non-empty string
+            devKey: `ilTLS2rr94ZdBLP5IAqFfoyG3zJsHMYm`,
+
+            // boolean (defaults to false) on whether you want
+            // to include analytics.page() automatically
+            // if false, see below on how to track pageviews manually
+            trackPage: false
+        }
+    }
 		// this (optional) plugin enables Progressive Web App + Offline functionality
 		// To learn more, visit: https://gatsby.app/offline
 		// 'gatsby-plugin-offline',
