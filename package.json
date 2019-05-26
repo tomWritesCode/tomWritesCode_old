@@ -6,6 +6,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.4",
     "@emotion/styled": "^10.0.4",
+    "@sentry/browser": "^5.3.0",
     "babel-plugin-styled-components": "^1.9.2",
     "emotion": "^10.0.4",
     "emotion-server": "^10.0.4",
