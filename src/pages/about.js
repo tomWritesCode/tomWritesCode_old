@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import Layout from "../components/Layout";
 // import { Link } from "gatsby";
 import { Spring } from "react-spring";
-import styled from "styled-components";
+import styled from "@emotion/styled";
 
 const VSC_Link = "https://marketplace.visualstudio.com/items?itemName=tomWritesCode.raspberryCandy";
 

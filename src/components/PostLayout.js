@@ -42,11 +42,14 @@ const BackButton = styled.button`
 const BlogContent = styled.div`
 	font-family: sans-serif;
 	color: white;
+	max-width: 900px;
+	margin: 0 auto;
 
 	img{
 		display: block;
 		margin: 0 auto;
 		border-radius: 14px;
+		max-width: 800px;
 	}
 
 	a {

@@ -60,59 +60,15 @@ Built in Gatsby because that is what I always reach for when I want to make some
 
 The main logic behind it working is the array of objects in JokeList.js:
 
-```javascript
-
-const JokeList = [
-
-{
-
-joke: `Did you hear about the restaurant on the moon?`,
-
-punchLine: `Great food, no atmosphere.`,
-
-},
-
-]
-
-```
+![dadJokes](https://res.cloudinary.com/tomwritescode/image/upload/v1560070086/dadJokes.png)
 
 This is then used by the JokeGenerator.js file when someone presses the 'Just one more.' button which triggers the NewJoke() function:
 
-```javascript
-
-function NewJoke() {
-
-*// jokeGenerator();*
-
-const returnedJoke = jokeGenerator()
-
-*// Will not generate joke twice in a row*
-
-document.getElementById('Joke').innerHTML = returnedJoke.joke
-
-document.getElementById('Punchline').innerHTML = returnedJoke.punchLine
-
-}
-
-```
+![newJoke](https://res.cloudinary.com/tomwritescode/image/upload/v1560070086/dadJoke_Generator.png)
 
 The JokeGenerator function runs first which generates a random Integer based on how long the array of jokes is.
 
-```javascript
-
-function getRandomInt(max) {
-
-return Math.floor(Math.random() * Math.floor(max))
-
-}
-
-function jokeGenerator() {
-
-return JokeList[getRandomInt(JokeList.length)]
-
-}
-
-```
+![randomNumber](https://res.cloudinary.com/tomwritescode/image/upload/v1560070085/dadJoke_Numbers.png)
 
 *******
 

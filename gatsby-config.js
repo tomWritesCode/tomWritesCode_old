@@ -14,6 +14,17 @@ module.exports = {
 	},
 	plugins: [
 		"gatsby-plugin-react-helmet",
+		// {
+		// 	resolve: `gatsby-remark-images`,
+		// 	options: {
+		// 		// It's important to specify the maxWidth (in pixels) of
+		// 		// the content container as this plugin uses this as the
+		// 		// base for generating different widths of each image.
+		// 		maxWidth: 650,
+		// 		linkImagesToOriginal: false,
+		// 		wrapperStyle: fluidResult => `flex:${_.round(fluidResult.aspectRatio, 2)};`,
+		// 	},
+		// },
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
@@ -29,8 +40,8 @@ module.exports = {
 			}
 		},
 		"gatsby-transformer-remark",
-		// "gatsby-transformer-sharp",
-		// "gatsby-plugin-sharp",
+		"gatsby-transformer-sharp",
+		"gatsby-plugin-sharp",
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
@@ -71,15 +82,6 @@ module.exports = {
 		// 		head: true,
 		// 	}
 		// },
-		{
-			resolve: "gatsby-plugin-sentry",
-			options: {
-				dsn: "https://b70369b561bb4f74a9faf18660619b43@sentry.io/1468144",
-				// Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
-				environment: process.env.NODE_ENV,
-				enabled: (() => ["production", "stage"].indexOf(process.env.NODE_ENV) !== -1)()
-			}
-		},
 		{
         resolve: `gatsby-plugin-segment-js`,
         options: {
