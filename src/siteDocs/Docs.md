@@ -70,6 +70,8 @@ The JokeGenerator function runs first which generates a random Integer based on 
 
 ![randomNumber](https://res.cloudinary.com/tomwritescode/image/upload/v1560070085/dadJoke_Numbers.png)
 
+Once that has been done the selected joke is then set into the joke and punchline sections of the page.
+
 *******
 
 ## tomWritesCode - <a href="https://github.com/tomWritesCode/tomWritesCode" target="_blank">Check out the codebase</a>
@@ -98,4 +100,3 @@ const stylingAlso = 'Emotion';
 
 *******
 
-Once that has been done the selected joke is then set into the joke and punchline sections of the page.
