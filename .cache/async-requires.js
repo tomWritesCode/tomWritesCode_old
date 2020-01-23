@@ -2,16 +2,16 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---src-components-post-layout-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/components/PostLayout.js" /* webpackChunkName: "component---src-components-post-layout-js" */),
-  "component---cache-dev-404-page-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
-  "component---src-pages-404-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
-  "component---src-pages-about-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
-  "component---src-pages-blog-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js" /* webpackChunkName: "component---src-pages-blog-js" */),
-  "component---src-pages-docs-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js" /* webpackChunkName: "component---src-pages-docs-js" */),
-  "component---src-pages-index-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-other-hobbies-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js" /* webpackChunkName: "component---src-pages-other-hobbies-js" */),
-  "component---src-pages-yournextdev-js": () => import("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js" /* webpackChunkName: "component---src-pages-yournextdev-js" */)
+  "component---src-components-post-layout-js": () => import("./../src/components/PostLayout.js" /* webpackChunkName: "component---src-components-post-layout-js" */),
+  "component---cache-dev-404-page-js": () => import("./dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
+  "component---src-pages-404-js": () => import("./../src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
+  "component---src-pages-about-js": () => import("./../src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
+  "component---src-pages-awayfromthekeyboard-js": () => import("./../src/pages/awayfromthekeyboard.js" /* webpackChunkName: "component---src-pages-awayfromthekeyboard-js" */),
+  "component---src-pages-blog-js": () => import("./../src/pages/blog.js" /* webpackChunkName: "component---src-pages-blog-js" */),
+  "component---src-pages-docs-js": () => import("./../src/pages/docs.js" /* webpackChunkName: "component---src-pages-docs-js" */),
+  "component---src-pages-gear-js": () => import("./../src/pages/gear.js" /* webpackChunkName: "component---src-pages-gear-js" */),
+  "component---src-pages-index-js": () => import("./../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
+  "component---src-pages-thankyou-js": () => import("./../src/pages/thankyou.js" /* webpackChunkName: "component---src-pages-thankyou-js" */),
+  "component---src-pages-yournextdev-js": () => import("./../src/pages/yournextdev.js" /* webpackChunkName: "component---src-pages-yournextdev-js" */)
 }
-
-exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/data.json")
 

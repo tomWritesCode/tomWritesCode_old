@@ -12,20 +12,21 @@ const TwitterLink = "https://twitter.com/tomWritesCode";
 const LinkedinLink = "https://www.linkedin.com/in/thomas-whitaker-b961b9112/";
 
 const LinkContainer = styled.div`
-	background: linear-gradient(0deg, #16161d 30%, #4b4b4e 100%);
+	background: linear-gradient(0deg, #16161d 30%, #4b4b4eB3 100%);
 	border-radius: 20px;
 	padding-top: 25px;
 	display: grid;
 	grid-template-columns: repeat(3, 33%);
 	justify-items: center;
 	img {
+		max-width: 70%;
 		margin-bottom: 0;
 		transition: ease-in-out 200ms;
 		filter: drop-shadow(2px 2px 2px #4b4b4e);
 
 		&:hover {
 			transition: ease-in-out 100ms;
-			animation: hoverAnimation 1s 1;
+			transform: scale(1.1);
 			filter: drop-shadow(4px 4px 9px #4b4b4e);
 		}
 	}
@@ -38,7 +39,7 @@ const ContactIcons = () => (
 				<Spring
 					from={{ transform: "rotate(90deg)" }}
 					to={{ transform: "rotate(0deg)" }}
-					delay={600}
+					delay={50}
 				>
 					{styles => (
 						<a
@@ -55,7 +56,7 @@ const ContactIcons = () => (
 				<Spring
 					from={{ transform: "rotate(90deg)" }}
 					to={{ transform: "rotate(0deg)" }}
-					delay={700}
+					delay={100}
 				>
 					{styles => (
 						<a
@@ -72,7 +73,7 @@ const ContactIcons = () => (
 				<Spring
 					from={{ transform: "rotate(90deg)" }}
 					to={{ transform: "rotate(0deg)" }}
-					delay={800}
+					delay={150}
 				>
 					{styles => (
 						<a

@@ -136,9 +136,9 @@ export default class PostLayout extends Component {
 								<hr />
 								<h4 className="intro">"{contentfulTomWritesCodeBlog.intro}"</h4>
 								<div
-									dangerouslySetInnerHTML={{
-										__html: contentfulTomWritesCodeBlog.post.childMarkdownRemark.html
-									}}
+								dangerouslySetInnerHTML={{
+									__html: contentfulTomWritesCodeBlog.post.childMarkdownRemark.html
+								}}
 								/>
 								 <h5>{twc}</h5>
 							</BlogContent>
@@ -164,3 +164,4 @@ export const query = graphql`
 		}
 	}
 `;
+

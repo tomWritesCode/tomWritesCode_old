@@ -4,9 +4,10 @@ import Helmet from "react-helmet";
 import { StaticQuery, graphql } from "gatsby";
 import styled from "@emotion/styled";
 import { ThemeProvider } from "emotion-theming";
-
+import theme from './Themes/theme';
 import Header from "./Header";
 import "./Layouts/layout.css";
+import { TerminalContextProvider } from "react-terminal";
 
 const BackgroundWrapper = styled.div`
 	background: #16161d;
@@ -26,16 +27,6 @@ const BackgroundWrapper = styled.div`
 	}
 `;
 
-const theme = {
-	colors: {
-		black: "#16161d",
-		blue: "#00feff",
-		blueTransp: "#00feff7a",
-		purple: "#ae52d4",
-		purpleTransp: "#ae52d47a"
-	},
-};
-
 const Layout = ({ children }) => (
 	<StaticQuery
 		query={graphql`
@@ -49,6 +40,7 @@ const Layout = ({ children }) => (
 			}
 		`}
 		render={data => (
+			<TerminalContextProvider>
 			<ThemeProvider theme={theme}>
 				<Helmet
 					title={data.site.siteMetadata.title}
@@ -76,6 +68,7 @@ const Layout = ({ children }) => (
 					</div>
 				</BackgroundWrapper>
 			</ThemeProvider>
+			</TerminalContextProvider>
 		)}
 	/>
 );

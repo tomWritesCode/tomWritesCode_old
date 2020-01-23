@@ -6,7 +6,7 @@ import Nav from "./Nav";
 
 const HeaderContainer = styled.div`
 	height: 250px;
-	background-image: linear-gradient(40deg, #16161d 35%, #4b4b4e 100%);
+	background-image: linear-gradient(40deg, #16161d 35%, #4b4b4eB3 100%);
 	clip-path: polygon(0 0, 100% 0, 100% 70%, 0 90%);
 
 	@media (max-width: 660px) {

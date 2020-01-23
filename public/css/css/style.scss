@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  background-color: #16161d;
+}
+
+img{
+  width: 100vw;
+  display: block;
+  margin: 0 auto;
+  max-width: 1080px;
+}
+section.pageContainer{
+  height: 100vh;
+  width: 100vw;
+  color: #bf9f40;
+  text-align: center;
+  padding-top: 35vh;
+  line-height: 50px;
+  
+  h1{
+    font-size: 50px;
+    margin-bottom: 30px;
+  }
+}

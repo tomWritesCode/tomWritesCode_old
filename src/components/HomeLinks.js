@@ -4,7 +4,7 @@ import styled from "@emotion/styled";
 import "./NeonLanding/navNeonFlicker.css";
 
 const Wrapper = styled.div`
-	background: linear-gradient(40deg, #16161d 15%, #4b4b4e 100%);
+	background: linear-gradient(40deg, #16161d 15%, #4b4b4eB3 100%);
 	padding: 15px;
 	border-radius: 20px;
 	margin-bottom: 1.45rem;
@@ -47,33 +47,13 @@ const NavBar = styled.div`
 			padding: 0 10px;
 			justify-content: center;
 		}
-		&:before {
-			content: "";
-			top: 0;
-			bottom: 0;
-		}
-		&:after {
-			height: 2px;
-			background: white;
-			content: "";
-			width: 0;
-			position: absolute;
-			transform: translateX(-50%);
-			transition: width 0.4s;
-			transition-timing-function: cubic-bezier(1, -0.65, 0, 2.31);
-			left: 50%;
-			margin-top: 20px;
-		}
-		&:hover,
-		&:focus {
-			outline: none;
-			&:after {
-				width: calc(100% - 60px);
+		&:hover{
 				animation: neonFlicker 1.5s infinite;
-				box-shadow: 0 0 10px #00feff, 0 0 20px #00feff, 0 0 30px #00feff,
-					0 0 40px #00feff;
+				.LinkName{
+					transition: 300ms ease-in-out;
+					text-shadow: 0 0 5px #fff, 0 0 10px #ae52d4, 0 0 20px #ae52d4, 0 0 30px #ae52d4, 0 0 40px #ae52d4, 0 0 55px #ae52d4, 0 0 70px #ae52d4;
+				}
 			}
-		}
 	}
 	@media (max-width: 660px) {
 		justify-content: center;
@@ -112,6 +92,18 @@ const Nav = () => (
 						<span className="LinkName">
 							Docs
 						</span>
+					</Link>
+
+					<Link
+						className="NavStyles"
+						to="/gear"
+						style={{
+							color: "white",
+							textDecoration: "none",
+							padding: "10px 20px"
+						}}
+					>
+						<span className="LinkName">Gear</span>
 					</Link>
 
 					<Link

@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  background-color: #16161d;
+}
+section.pageContainer{
+  padding: 5vh 5vw 0 5vw;
+  height: 100vh;
+  width: 100vw;
+  color: #bf9f40;
+  text-align: center;
+  line-height: 40px;
+
+  .txtContainer{
+    padding-top: 25vh;
+  }
+  h1{
+    font-size: 50px;
+    margin-bottom: 30px;
+  }
+}
+@media(max-width:660px) {
+  section.pageContainer {
+    padding: 4vh 5vw 0 5vw;
+
+  .txtContainer{
+    padding-top: 0;
+  }
+  }
+}
+
+.profileImg{
+  float: left;
+  max-width: 45vw;
+  border-radius: 12px;
+}
+@media(max-width: 660px){
+  .profileImg{
+    max-width: 90vw;
+    margin-bottom: 20px;
+    display: block;
+    float: none;
+  }
+}

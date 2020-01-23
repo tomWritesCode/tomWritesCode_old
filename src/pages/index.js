@@ -1,24 +1,11 @@
 import React from "react";
 import HomeLayout from "../components/Layouts/HomeLayout";
 import { Spring } from "react-spring";
-import styled from "@emotion/styled";
 import HomeLinks from "../components/HomeLinks";
 import ContactIcons from "../components/ContactIcons";
 import HomeNeon from "../components/NeonLanding/HomeNeon";
 import SEO from '../components/SEO';
-
-const Wrapper = styled.div`
-	color: white;
-	hr {
-		background: #00bcd4;
-		box-shadow: 0 0 10px #00bcd4, 0 0 20px #00bcd4, 0 0 30px #00bcd4;
-	}
-	h1 {
-	}
-	h2 {
-		text-align: right;
-	}
-`;
+import Wrapper from "../components/PageWrapper";
 
 const IndexPage = () => (
 	<>
@@ -33,7 +20,7 @@ const IndexPage = () => (
 					<Wrapper style={styles}>
 						<HomeLinks />
 						<h1>Hi, my names Tom, I write code.</h1>
-						<h2>
+						<h2 className="alignRight">
 							I'm a developer from Sydney, Australia.
 							<br />
 							<br />

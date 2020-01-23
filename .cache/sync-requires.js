@@ -9,10 +9,12 @@ exports.components = {
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/about.js"))),
+  "component---src-pages-awayfromthekeyboard-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/awayfromthekeyboard.js"))),
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/blog.js"))),
   "component---src-pages-docs-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js"))),
+  "component---src-pages-gear-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/gear.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js"))),
-  "component---src-pages-other-hobbies-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/otherHobbies.js"))),
+  "component---src-pages-thankyou-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/thankyou.js"))),
   "component---src-pages-yournextdev-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js")))
 }
 

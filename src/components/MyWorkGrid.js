@@ -7,6 +7,10 @@ const WorkGrid = styled.div`
   display: grid;
   grid-template-columns: 49% 49%;
   grid-gap: 2%;
+
+  @media(max-width: 805px) {
+    grid-template-columns: 100%;
+  }
 `;
 
 const Card = styled.div`
@@ -53,7 +57,8 @@ const Projects = [
   {
     projectName: "raspberryCandy",
     stack: [
-      
+      "Yeoman Generator Code",
+      "JSON"
     ],
     blurb: "A colour theme for Visual Studio Code I made that is a neon/pastel base on a dark background."
   },
@@ -76,14 +81,16 @@ const Projects = [
   },
 ];
 
+
+
 const projectCard = Projects.map((Project, index) => 
   <Card key={Project + index}>
     <h2>{Project.projectName}</h2>
-    <div className='StackContainer'>
-      {Object.values(
-        Project.stack.map((Item) => <span>{Item}</span>))}
-    </div>
     <h4>{Project.blurb}</h4>
+    <div className='StackContainer'>
+        <h4 style={{textDecoration: 'underline'}}>What it's built with.</h4>
+        {Object.values(Project.stack.map((Item) => <span>{Item}</span>))}
+      </div>
   </Card>
 );
 

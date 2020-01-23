@@ -40,9 +40,10 @@ const NotFoundPage = () => (
 
       <h2>Can I suggest one of these pages instead</h2>
       <Link to='/'>Home</Link>
-      <Link to='about'>About</Link>
-      <Link to='blog'>Blog</Link>
-      <Link to='docs'>Docs</Link>
+      <Link to='/about'>About</Link>
+      <Link to='/docs'>Docs</Link>
+      <Link to='/gear'>Gear</Link>
+      <Link to='/blog'>Blog</Link>
     </Container>
   </Layout>
 )
