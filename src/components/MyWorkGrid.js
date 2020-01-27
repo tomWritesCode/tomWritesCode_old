@@ -79,6 +79,23 @@ const Projects = [
     ],
     blurb: "Basketball NoStarz is a scoreboard application I built to track scores of the games I am playing with my brother on my days off from work."
   },
+  {
+    projectName: "Bit Rates Are Us",
+    stack: [
+      "HTML",
+      "CSS",
+      "Vanilla JavaScript"
+    ],
+    blurb: "Bit Rates Are Us was made to do quick calculations for how much storage my Blackmagic Pocket 4K video camera. I use the calculation for working out how much storage I would use for making smaller videos for volunteer work."
+  },
+  {
+    projectName: "dadJokes()",
+    stack: [
+      "Gatsby",
+      "Vanilla JavaScript"
+    ],
+    blurb: "There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day."
+  },
 ];
 
 

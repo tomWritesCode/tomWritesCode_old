@@ -112,7 +112,7 @@ const Bio = () =>  (
 
 const RaspberryBio = () => (
 	<RaspberryWrap>
-		<hr/>
+		<br/><hr/>
 		
 		<h3>
 		I made a VS Code theme which is published on the VS Code Marketplace. My theme, raspberryCandy is a Neon/Pastel theme runs heavy on a neon electric aqua and a pastel pink/purple. You can <a href={VSC_Link} target="_blank" rel="noopener noreferrer">check out raspberryCandy on the VS Code Marketplace.</a>

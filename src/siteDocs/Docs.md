@@ -52,6 +52,16 @@ A small project that only really has relevance for me but gave me a great unders
 
 *******
 
+## Bit Rates Are Us - <a href="https://bitratesareus.netlify.com/" target="_blank">Check out the project</a>
+
+This is a calculator I use to workout how much storage a given framerate should take up when shooting on my Blackmagic Pocket 4K video camera.
+
+This project is built using Vanilla JS and simple HTML and CSS. The main weight of the project is working with the different bitrates and recording formats/codecs and then displaying them on the page.
+
+![Blackmagic Calculator](https://res.cloudinary.com/tomwritescode/image/upload/v1580122610/Blackmagic_Calculator.gif)
+
+*******
+
 ## dadJokes() - <a href="https://jokesfromyourdad.netlify.com" target="_blank">Check out the project</a>
 
 This doesn't need to exist, but here it is anyway. There was a running joke at the Code Heart Design Conference that we needed dad jokes in between the silence of people switching laptops. This was made the very next day.
