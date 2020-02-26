@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import styled from '@emotion/styled';
 import MyWorkGrid from './MyWorkGrid';
 import ContactPoints from './ContactPoints';
@@ -64,11 +64,9 @@ const BioWrapper = styled.div `
 `;
 
 export default function Prompt() {
-  let [ name ] = useState('');
-  name = prompt("Hi there, what is your name?");
   return(
     <Wrapper>
-      <h2>Hi there {name}, if you're seeing this then we probably met at React Conf AU!</h2>
+      <h2>Hi there, if you're seeing this then we probably met at React Conf AU!</h2>
 
       <h3>I'm not sure how much we got to chat so a quick recap about me.</h3>
 
