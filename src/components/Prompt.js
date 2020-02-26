@@ -65,7 +65,7 @@ const BioWrapper = styled.div `
 
 export default function Prompt() {
   let [ name ] = useState('');
-  // name = prompt("Hi there, what is your name?");
+  name = prompt("Hi there, what is your name?");
   return(
     <Wrapper>
       <h2>Hi there {name}, if you're seeing this then we probably met at React Conf AU!</h2>
