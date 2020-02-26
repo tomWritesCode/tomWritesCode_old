@@ -57,7 +57,7 @@ const HomeNeon = () => (
 			)}
 		</Spring>
 
-		<h3 className="neon1">Welcome to {TomWritesCode}</h3>
+		<h3 className="neon1" style={{lineHeight: '1.5', marginTop: '30px'}}>Welcome to {TomWritesCode}</h3>
 	</PageWrapper>
 );
 

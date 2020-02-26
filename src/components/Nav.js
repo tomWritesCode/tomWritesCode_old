@@ -50,7 +50,7 @@ const NavBar = styled.div`
 				}
 			}
 		}
-	}
+	
 	@media (max-width: 660px) {
 		justify-content: center;
 	}

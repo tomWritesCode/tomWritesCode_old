@@ -14,6 +14,7 @@ exports.components = {
   "component---src-pages-docs-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/docs.js"))),
   "component---src-pages-gear-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/gear.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/index.js"))),
+  "component---src-pages-react-conf-au-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/reactConfAU.js"))),
   "component---src-pages-thankyou-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/thankyou.js"))),
   "component---src-pages-yournextdev-js": hot(preferDefault(require("/Users/thomaswhitaker/Desktop/tomWritesCode/tomWritesCode/src/pages/yournextdev.js")))
 }

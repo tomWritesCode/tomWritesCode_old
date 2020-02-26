@@ -10,6 +10,7 @@ const HeaderContainer = styled.div`
 	clip-path: polygon(0 0, 100% 0, 100% 70%, 0 90%);
 
 	@media (max-width: 660px) {
+		background-image: none;
 		h1{
 			font-size: 9.5vw;
 			text-align: center; 

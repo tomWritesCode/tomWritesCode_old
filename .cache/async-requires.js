@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-docs-js": () => import("./../src/pages/docs.js" /* webpackChunkName: "component---src-pages-docs-js" */),
   "component---src-pages-gear-js": () => import("./../src/pages/gear.js" /* webpackChunkName: "component---src-pages-gear-js" */),
   "component---src-pages-index-js": () => import("./../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
+  "component---src-pages-react-conf-au-js": () => import("./../src/pages/reactConfAU.js" /* webpackChunkName: "component---src-pages-react-conf-au-js" */),
   "component---src-pages-thankyou-js": () => import("./../src/pages/thankyou.js" /* webpackChunkName: "component---src-pages-thankyou-js" */),
   "component---src-pages-yournextdev-js": () => import("./../src/pages/yournextdev.js" /* webpackChunkName: "component---src-pages-yournextdev-js" */)
 }

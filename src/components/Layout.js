@@ -11,9 +11,9 @@ import { TerminalContextProvider } from "react-terminal";
 
 const BackgroundWrapper = styled.div`
 	background: #16161d;
-	width: 100%;
+	width: 100vw;
+	height: 100%;
 	min-height: 75vh;
-	min-height: 100%;
 
 	img{
 				border-radius: 15px;
