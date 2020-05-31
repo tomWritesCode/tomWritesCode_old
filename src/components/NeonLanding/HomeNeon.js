@@ -43,19 +43,12 @@ const PageWrapper = styled.div`
 
 const HomeNeon = () => (
 	<PageWrapper className="page">
-		<Spring
-			from={{ opacity: 0, transform: "rotate(45deg)" }}
-			to={{ opacity: 1, transform: "rotate(0)" }}
-			delay={400}
-		>
-			{styles => (
-				<div className="TextWrap" style={styles}>
+				<div className="TextWrap">
 					<h2 className="neon1">{Open}</h2>
 					<h2 className="neon2 neonFlicker">{TWC}</h2>
 					<h2 className="neon1">{Close}</h2>
 				</div>
-			)}
-		</Spring>
+
 
 		<h3 className="neon1" style={{lineHeight: '1.5', marginTop: '30px'}}>Welcome to {TomWritesCode}</h3>
 	</PageWrapper>
